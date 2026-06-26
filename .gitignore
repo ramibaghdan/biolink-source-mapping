@@ -1,0 +1,15 @@
+# Full source downloads (large; not redistributed). Only the small samples are committed.
+*.parquet
+hgnc_complete_set.txt
+*interactions.tsv
+dgidb*.tsv
+data/mondo/mondo_nodes.tsv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

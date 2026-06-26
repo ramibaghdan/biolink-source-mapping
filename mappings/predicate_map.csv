@@ -1,0 +1,13 @@
+source_relationship,biolink_predicate,mapping_type,notes
+inhibitor,biolink:negatively_regulates,exact,"Inhibitor decreases target activity. Directional predicate preferred over the vague parent per Biolink guidance."
+blocker,biolink:negatively_regulates,close,"Functionally equivalent to inhibitor in this context; collapsed to the same predicate. Distinction recorded here rather than in the graph. See mapping_decisions.md."
+agonist,biolink:positively_regulates,exact,"Agonist increases target activity. Directional."
+activator,biolink:positively_regulates,close,"Same direction as agonist; two source terms collapsed to one predicate."
+potentiator,biolink:positively_regulates,close,"Potentiates/enhances the target effect; treated as a positive-direction relationship."
+modulator,biolink:regulates,broad,"Direction unknown by definition. Mapped up to the vague parent, which Biolink guidance reserves for exactly this case (direction unknown or both)."
+negative modulator,biolink:negatively_regulates,close,"Unlike plain modulator, this carries direction, so it maps to the directional predicate rather than the vague parent."
+binder,biolink:physically_interacts_with,exact,"Pure binding with no functional direction. Biolink's own example maps 'binds' to physically_interacts_with."
+cleavage,biolink:affects,broad,"Describes a mechanism, not a clean regulatory direction; mapped to the broad affects parent."
+other/unknown,biolink:interacts_with,related,"Source admits no known mechanism. Mapped to the most general interaction predicate for drug-gene edges rather than dropped."
+antisense oligonucleotide,,unmapped,"This is a drug modality, not an interaction type. Treated as a source data-quality issue and excluded from predicate mapping. See mapping_decisions.md."
+positive modulator,biolink:positively_regulates,close,"Carries positive direction, maps to the directional predicate rather than the vague modulator parent. Mirror of negative modulator."

@@ -1,0 +1,1781 @@
+id,category,name
+NCBIGene:1191,biolink:Gene,CLU
+NCBIGene:2260,biolink:Gene,FGFR1
+DRUG_NAME:LUCITANIB,biolink:ChemicalEntity,LUCITANIB
+NCBIGene:355,biolink:Gene,FAS
+DRUG_NAME:FUDR,biolink:ChemicalEntity,FUDR
+DRUG_NAME:PAZOPANIB HYDROCHLORIDE,biolink:ChemicalEntity,PAZOPANIB HYDROCHLORIDE
+NCBIGene:238,biolink:Gene,ALK
+DRUG_NAME:Ficonalkib,biolink:ChemicalEntity,Ficonalkib
+DRUG_NAME:ENTRECTINIB,biolink:ChemicalEntity,ENTRECTINIB
+DRUG_NAME:Dinaciclib,biolink:ChemicalEntity,Dinaciclib
+NCBIGene:10383,biolink:Gene,TUBB4B
+DRUG_NAME:MILATAXEL,biolink:ChemicalEntity,MILATAXEL
+NCBIGene:5465,biolink:Gene,PPARA
+DRUG_NAME:TETRADECYLTHIOACETIC ACID,biolink:ChemicalEntity,TETRADECYLTHIOACETIC ACID
+NCBIGene:2908,biolink:Gene,NR3C1
+DRUG_NAME:DESOXIMETASONE,biolink:ChemicalEntity,DESOXIMETASONE
+NCBIGene:1728,biolink:Gene,NQO1
+DRUG_NAME:NSC-640556,biolink:ChemicalEntity,NSC-640556
+DRUG_NAME:PREDNICARBATE,biolink:ChemicalEntity,PREDNICARBATE
+NCBIGene:4286,biolink:Gene,MITF
+DRUG_NAME:GNF-PF-2298,biolink:ChemicalEntity,GNF-PF-2298
+DRUG_NAME:T091317,biolink:ChemicalEntity,T091317
+NCBIGene:942,biolink:Gene,CD86
+DRUG_NAME:DEXAMETHASONE,biolink:ChemicalEntity,DEXAMETHASONE
+NCBIGene:3738,biolink:Gene,KCNA3
+DRUG_NAME:AMIFAMPRIDINE,biolink:ChemicalEntity,AMIFAMPRIDINE
+NCBIGene:216,biolink:Gene,ALDH1A1
+DRUG_NAME:LEAD DIACETATE TRIHYDRATE,biolink:ChemicalEntity,LEAD DIACETATE TRIHYDRATE
+NCBIGene:26013,biolink:Gene,L3MBTL1
+DRUG_NAME:NSC-66209,biolink:ChemicalEntity,NSC-66209
+NCBIGene:3785,biolink:Gene,KCNQ2
+DRUG_NAME:GUANIDINE HYDROCHLORIDE,biolink:ChemicalEntity,GUANIDINE HYDROCHLORIDE
+DRUG_NAME:Zoledronic acid,biolink:ChemicalEntity,Zoledronic acid
+DRUG_NAME:CONGO RED,biolink:ChemicalEntity,CONGO RED
+NCBIGene:54577,biolink:Gene,UGT1A7
+DRUG_NAME:mycophenolate mofetil,biolink:ChemicalEntity,mycophenolate mofetil
+DRUG_NAME:ZAMPANOLIDE,biolink:ChemicalEntity,ZAMPANOLIDE
+DRUG_NAME:SODELGLITAZAR,biolink:ChemicalEntity,SODELGLITAZAR
+DRUG_NAME:risperidone,biolink:ChemicalEntity,risperidone
+NCBIGene:5702,biolink:Gene,PSMC3
+DRUG_NAME:CARFILZOMIB,biolink:ChemicalEntity,CARFILZOMIB
+NCBIGene:5148,biolink:Gene,PDE6G
+DRUG_NAME:DIPYRIDAMOLE,biolink:ChemicalEntity,DIPYRIDAMOLE
+DRUG_NAME:DNDI1417080,biolink:ChemicalEntity,DNDI1417080
+NCBIGene:112714,biolink:Gene,TUBA3E
+DRUG_NAME:POLATUZUMAB VEDOTIN,biolink:ChemicalEntity,POLATUZUMAB VEDOTIN
+DRUG_NAME:APIGENIN,biolink:ChemicalEntity,APIGENIN
+DRUG_NAME:8-FLUOROTRYPTANTHRIN,biolink:ChemicalEntity,8-FLUOROTRYPTANTHRIN
+DRUG_NAME:FOSDAGROCORAT,biolink:ChemicalEntity,FOSDAGROCORAT
+DRUG_NAME:ZYH7,biolink:ChemicalEntity,ZYH7
+DRUG_NAME:Trametinib,biolink:ChemicalEntity,Trametinib
+DRUG_NAME:metformin,biolink:ChemicalEntity,metformin
+NCBIGene:2289,biolink:Gene,FKBP5
+DRUG_NAME:gemcitabine,biolink:ChemicalEntity,gemcitabine
+NCBIGene:331,biolink:Gene,XIAP
+DRUG_NAME:DIFFERENTIATING AGENTS,biolink:ChemicalEntity,DIFFERENTIATING AGENTS
+NCBIGene:7280,biolink:Gene,TUBB2A
+DRUG_NAME:IXABEPILONE,biolink:ChemicalEntity,IXABEPILONE
+DRUG_NAME:MEPREDNISONE,biolink:ChemicalEntity,MEPREDNISONE
+DRUG_NAME:Lorlatinib,biolink:ChemicalEntity,Lorlatinib
+NCBIGene:5979,biolink:Gene,RET
+DRUG_NAME:unspecified immune checkpoint inhibitor,biolink:ChemicalEntity,unspecified immune checkpoint inhibitor
+NCBIGene:5571,biolink:Gene,PRKAG1
+DRUG_NAME:ACADESINE,biolink:ChemicalEntity,ACADESINE
+DRUG_NAME:3D185,biolink:ChemicalEntity,3D185
+NCBIGene:4221,biolink:Gene,MEN1
+DRUG_NAME:CID2350207,biolink:ChemicalEntity,CID2350207
+DRUG_NAME:2-PHENYLPHENOL,biolink:ChemicalEntity,2-PHENYLPHENOL
+NCBIGene:1647,biolink:Gene,GADD45A
+DRUG_NAME:GENISTEIN,biolink:ChemicalEntity,GENISTEIN
+DRUG_NAME:CARMINE,biolink:ChemicalEntity,CARMINE
+DRUG_NAME:CHLORANIL,biolink:ChemicalEntity,CHLORANIL
+DRUG_NAME:DEXAMETHASONE ACETATE,biolink:ChemicalEntity,DEXAMETHASONE ACETATE
+DRUG_NAME:Derazantinib,biolink:ChemicalEntity,Derazantinib
+DRUG_NAME:Ixazomib,biolink:ChemicalEntity,Ixazomib
+DRUG_NAME:BIVATUZUMAB MERTANSINE,biolink:ChemicalEntity,BIVATUZUMAB MERTANSINE
+DRUG_NAME:CID 1540545,biolink:ChemicalEntity,CID 1540545
+NCBIGene:3752,biolink:Gene,KCND3
+DRUG_NAME:NERISPIRDINE,biolink:ChemicalEntity,NERISPIRDINE
+DRUG_NAME:HESPERADIN,biolink:ChemicalEntity,HESPERADIN
+DRUG_NAME:LOXO-292,biolink:ChemicalEntity,LOXO-292
+DRUG_NAME:CABAZITAXEL,biolink:ChemicalEntity,CABAZITAXEL
+NCBIGene:6361,biolink:Gene,CCL17
+DRUG_NAME:TACROLIMUS,biolink:ChemicalEntity,TACROLIMUS
+NCBIGene:6713,biolink:Gene,SQLE
+DRUG_NAME:AMIODARONE,biolink:ChemicalEntity,AMIODARONE
+NCBIGene:4025,biolink:Gene,LPO
+DRUG_NAME:ASCORBIC ACID,biolink:ChemicalEntity,ASCORBIC ACID
+NCBIGene:356,biolink:Gene,FASLG
+DRUG_NAME:ASUNERCEPT,biolink:ChemicalEntity,ASUNERCEPT
+DRUG_NAME:DOVITINIB,biolink:ChemicalEntity,DOVITINIB
+DRUG_NAME:BETAMETHASONE,biolink:ChemicalEntity,BETAMETHASONE
+DRUG_NAME:FIIN-1,biolink:ChemicalEntity,FIIN-1
+DRUG_NAME:NSC-751382,biolink:ChemicalEntity,NSC-751382
+NCBIGene:3784,biolink:Gene,KCNQ1
+DRUG_NAME:tacrolimus,biolink:ChemicalEntity,tacrolimus
+DRUG_NAME:VERUBULIN,biolink:ChemicalEntity,VERUBULIN
+DRUG_NAME:RG-7841,biolink:ChemicalEntity,RG-7841
+NCBIGene:292,biolink:Gene,SLC25A5
+DRUG_NAME:BUTYRATE,biolink:ChemicalEntity,BUTYRATE
+NCBIGene:4524,biolink:Gene,MTHFR
+DRUG_NAME:FLUOROURACIL,biolink:ChemicalEntity,FLUOROURACIL
+DRUG_NAME:AMIFAMPRIDINE PHOSPHATE,biolink:ChemicalEntity,AMIFAMPRIDINE PHOSPHATE
+DRUG_NAME:GNF-PF-4867,biolink:ChemicalEntity,GNF-PF-4867
+DRUG_NAME:TAE-684,biolink:ChemicalEntity,TAE-684
+DRUG_NAME:Vandetanib,biolink:ChemicalEntity,Vandetanib
+NCBIGene:1394,biolink:Gene,CRHR1
+DRUG_NAME:antidepressants,biolink:ChemicalEntity,antidepressants
+NCBIGene:4311,biolink:Gene,MME
+DRUG_NAME:DAGLUTRIL,biolink:ChemicalEntity,DAGLUTRIL
+DRUG_NAME:SINENSETIN,biolink:ChemicalEntity,SINENSETIN
+NCBIGene:2905,biolink:Gene,GRIN2C
+DRUG_NAME:DELUCEMINE,biolink:ChemicalEntity,DELUCEMINE
+NCBIGene:84727,biolink:Gene,SPSB2
+DRUG_NAME:PHENYLTHIAZOL-2-AMINE,biolink:ChemicalEntity,PHENYLTHIAZOL-2-AMINE
+NCBIGene:3082,biolink:Gene,HGF
+DRUG_NAME:Trastuzumab,biolink:ChemicalEntity,Trastuzumab
+DRUG_NAME:NSC-753575,biolink:ChemicalEntity,NSC-753575
+DRUG_NAME:ITRACONAZOLE,biolink:ChemicalEntity,ITRACONAZOLE
+NCBIGene:3605,biolink:Gene,IL17A
+DRUG_NAME:REMTOLUMAB,biolink:ChemicalEntity,REMTOLUMAB
+DRUG_NAME:INDEGLITAZAR,biolink:ChemicalEntity,INDEGLITAZAR
+NCBIGene:6416,biolink:Gene,MAP2K4
+DRUG_NAME:MEK162,biolink:ChemicalEntity,MEK162
+DRUG_NAME:tremelimumab,biolink:ChemicalEntity,tremelimumab
+DRUG_NAME:DOXORUBICIN,biolink:ChemicalEntity,DOXORUBICIN
+NCBIGene:51135,biolink:Gene,IRAK4
+DRUG_NAME:LINIFANIB,biolink:ChemicalEntity,LINIFANIB
+DRUG_NAME:VINFLUNINE,biolink:ChemicalEntity,VINFLUNINE
+NCBIGene:6794,biolink:Gene,STK11
+DRUG_NAME:Olaparib,biolink:ChemicalEntity,Olaparib
+DRUG_NAME:GNF-PF-4029,biolink:ChemicalEntity,GNF-PF-4029
+DRUG_NAME:TEDISAMIL,biolink:ChemicalEntity,TEDISAMIL
+DRUG_NAME:CETRIMONIUM BROMIDE,biolink:ChemicalEntity,CETRIMONIUM BROMIDE
+DRUG_NAME:TISOTUMAB VEDOTIN,biolink:ChemicalEntity,TISOTUMAB VEDOTIN
+DRUG_NAME:CABOZANTINIB,biolink:ChemicalEntity,CABOZANTINIB
+DRUG_NAME:CORTISONE ACETATE,biolink:ChemicalEntity,CORTISONE ACETATE
+DRUG_NAME:opioids,biolink:ChemicalEntity,opioids
+DRUG_NAME:TROGLITAZONE,biolink:ChemicalEntity,TROGLITAZONE
+DRUG_NAME:IZOKIBEP,biolink:ChemicalEntity,IZOKIBEP
+DRUG_NAME:VINBLASTINE,biolink:ChemicalEntity,VINBLASTINE
+NCBIGene:6754,biolink:Gene,SSTR4
+DRUG_NAME:VELDOREOTIDE,biolink:ChemicalEntity,VELDOREOTIDE
+DRUG_NAME:VANDETANIB,biolink:ChemicalEntity,VANDETANIB
+NCBIGene:2194,biolink:Gene,FASN
+DRUG_NAME:TRIIODOTHYRONINE,biolink:ChemicalEntity,TRIIODOTHYRONINE
+DRUG_NAME:ERYTHROMYCIN,biolink:ChemicalEntity,ERYTHROMYCIN
+DRUG_NAME:BORTEZOMIB,biolink:ChemicalEntity,BORTEZOMIB
+DRUG_NAME:GNF-PF-3407,biolink:ChemicalEntity,GNF-PF-3407
+DRUG_NAME:PEMBROLIZUMAB,biolink:ChemicalEntity,PEMBROLIZUMAB
+DRUG_NAME:nortriptyline,biolink:ChemicalEntity,nortriptyline
+DRUG_NAME:T-900607,biolink:ChemicalEntity,T-900607
+NCBIGene:55294,biolink:Gene,FBXW7
+DRUG_NAME:Regorafenib,biolink:ChemicalEntity,Regorafenib
+DRUG_NAME:PATUPILONE,biolink:ChemicalEntity,PATUPILONE
+DRUG_NAME:SHO-SAIKO-TO,biolink:ChemicalEntity,SHO-SAIKO-TO
+DRUG_NAME:GW7647,biolink:ChemicalEntity,GW7647
+NCBIGene:1809,biolink:Gene,DPYSL3
+DRUG_NAME:METHIMAZOLE,biolink:ChemicalEntity,METHIMAZOLE
+"DRUG_NAME:5,6,7,8,4'-PENTAHYDROXYFLAVONE",biolink:ChemicalEntity,"5,6,7,8,4'-PENTAHYDROXYFLAVONE"
+DRUG_NAME:Ponatinib,biolink:ChemicalEntity,Ponatinib
+DRUG_NAME:ZIMLOVISERTIB,biolink:ChemicalEntity,ZIMLOVISERTIB
+DRUG_NAME:AV-101,biolink:ChemicalEntity,AV-101
+DRUG_NAME:GNF-PF-2272,biolink:ChemicalEntity,GNF-PF-2272
+DRUG_NAME:sorafenib,biolink:ChemicalEntity,sorafenib
+NCBIGene:57650,biolink:Gene,CIP2A
+DRUG_NAME:GEMCITABINE,biolink:ChemicalEntity,GEMCITABINE
+NCBIGene:51755,biolink:Gene,CDK12
+DRUG_NAME:Melphalan,biolink:ChemicalEntity,Melphalan
+DRUG_NAME:PROTEASOME INHIBITOR,biolink:ChemicalEntity,PROTEASOME INHIBITOR
+DRUG_NAME:VINCRISTINE SULFATE,biolink:ChemicalEntity,VINCRISTINE SULFATE
+DRUG_NAME:CATECHOL,biolink:ChemicalEntity,CATECHOL
+NCBIGene:480,biolink:Gene,ATP1A4
+DRUG_NAME:ACETYLDIGITOXIN,biolink:ChemicalEntity,ACETYLDIGITOXIN
+DRUG_NAME:Entinostat,biolink:ChemicalEntity,Entinostat
+NCBIGene:1286,biolink:Gene,COL4A4
+DRUG_NAME:TRC-093,biolink:ChemicalEntity,TRC-093
+DRUG_NAME:RAPAMYCIN,biolink:ChemicalEntity,RAPAMYCIN
+DRUG_NAME:ritonavir,biolink:ChemicalEntity,ritonavir
+DRUG_NAME:ALEGLITAZAR,biolink:ChemicalEntity,ALEGLITAZAR
+DRUG_NAME:carvedilol,biolink:ChemicalEntity,carvedilol
+DRUG_NAME:NOCODAZOLE,biolink:ChemicalEntity,NOCODAZOLE
+NCBIGene:3171,biolink:Gene,FOXA3
+DRUG_NAME:rosuvastatin,biolink:ChemicalEntity,rosuvastatin
+DRUG_NAME:CEPHALOCHROMIN,biolink:ChemicalEntity,CEPHALOCHROMIN
+NCBIGene:4717,biolink:Gene,NDUFC1
+DRUG_NAME:ME-344,biolink:ChemicalEntity,ME-344
+NCBIGene:7412,biolink:Gene,VCAM1
+DRUG_NAME:CYCLOSPORINE,biolink:ChemicalEntity,CYCLOSPORINE
+DRUG_NAME:AEG40826,biolink:ChemicalEntity,AEG40826
+DRUG_NAME:INFLIXIMAB,biolink:ChemicalEntity,INFLIXIMAB
+NCBIGene:3953,biolink:Gene,LEPR
+DRUG_NAME:simvastatin,biolink:ChemicalEntity,simvastatin
+DRUG_NAME:PIRENOXINE,biolink:ChemicalEntity,PIRENOXINE
+DRUG_NAME:DNDI1416969,biolink:ChemicalEntity,DNDI1416969
+NCBIGene:55556,biolink:Gene,ENOSF1
+DRUG_NAME:methotrexate,biolink:ChemicalEntity,methotrexate
+DRUG_NAME:LARGAZOLE,biolink:ChemicalEntity,LARGAZOLE
+DRUG_NAME:4-(PHENYLCARBAMOYL)BENZYLNITRATE,biolink:ChemicalEntity,4-(PHENYLCARBAMOYL)BENZYLNITRATE
+DRUG_NAME:Temsirolimus,biolink:ChemicalEntity,Temsirolimus
+NCBIGene:6404,biolink:Gene,SELPLG
+DRUG_NAME:NEIHULIZUMAB,biolink:ChemicalEntity,NEIHULIZUMAB
+DRUG_NAME:methylphenidate,biolink:ChemicalEntity,methylphenidate
+DRUG_NAME:mycophenolic acid,biolink:ChemicalEntity,mycophenolic acid
+DRUG_NAME:SECUKINUMAB,biolink:ChemicalEntity,SECUKINUMAB
+DRUG_NAME:GNF-PF-3951,biolink:ChemicalEntity,GNF-PF-3951
+NCBIGene:3615,biolink:Gene,IMPDH2
+NCBIGene:100,biolink:Gene,ADA
+DRUG_NAME:COFORMYCIN,biolink:ChemicalEntity,COFORMYCIN
+NCBIGene:6167,biolink:Gene,RPL37
+DRUG_NAME:CYCLOHEXIMIDE,biolink:ChemicalEntity,CYCLOHEXIMIDE
+NCBIGene:8204,biolink:Gene,NRIP1
+DRUG_NAME:RETINOIDS,biolink:ChemicalEntity,RETINOIDS
+NCBIGene:5597,biolink:Gene,MAPK6
+NCBIGene:5029,biolink:Gene,P2RY2
+DRUG_NAME:DENUFOSOL TETRASODIUM,biolink:ChemicalEntity,DENUFOSOL TETRASODIUM
+NCBIGene:112744,biolink:Gene,IL17F
+DRUG_NAME:IL-17,biolink:ChemicalEntity,IL-17
+DRUG_NAME:NSC-645827,biolink:ChemicalEntity,NSC-645827
+DRUG_NAME:ATALUREN,biolink:ChemicalEntity,ATALUREN
+DRUG_NAME:VUNAKIZUMAB,biolink:ChemicalEntity,VUNAKIZUMAB
+DRUG_NAME:CROLIBULIN,biolink:ChemicalEntity,CROLIBULIN
+DRUG_NAME:PERAKIZUMAB,biolink:ChemicalEntity,PERAKIZUMAB
+DRUG_NAME:NIFUROXAZIDE,biolink:ChemicalEntity,NIFUROXAZIDE
+NCBIGene:8314,biolink:Gene,BAP1
+DRUG_NAME:VALPROIC ACID,biolink:ChemicalEntity,VALPROIC ACID
+NCBIGene:3038,biolink:Gene,HAS3
+DRUG_NAME:HYDROCORTISONE,biolink:ChemicalEntity,HYDROCORTISONE
+NCBIGene:3145,biolink:Gene,HMBS
+DRUG_NAME:givosiran,biolink:ChemicalEntity,givosiran
+DRUG_NAME:ANTIMALARIALS,biolink:ChemicalEntity,ANTIMALARIALS
+DRUG_NAME:ESKETAMINE HYDROCHLORIDE,biolink:ChemicalEntity,ESKETAMINE HYDROCHLORIDE
+NCBIGene:388,biolink:Gene,RHOB
+DRUG_NAME:TRIMETHYL-[3-(TETRADECANE-1-SULFONYLAMINO)-PROPYL]-AMMONIUM IODIDE,biolink:ChemicalEntity,TRIMETHYL-[3-(TETRADECANE-1-SULFONYLAMINO)-PROPYL]-AMMONIUM IODIDE
+DRUG_NAME:VITAMIN K,biolink:ChemicalEntity,VITAMIN K
+DRUG_NAME:MK2206,biolink:ChemicalEntity,MK2206
+DRUG_NAME:THALIDOMIDE,biolink:ChemicalEntity,THALIDOMIDE
+DRUG_NAME:DOLASETRON,biolink:ChemicalEntity,DOLASETRON
+DRUG_NAME:prednisolone,biolink:ChemicalEntity,prednisolone
+DRUG_NAME:fluoxetine,biolink:ChemicalEntity,fluoxetine
+DRUG_NAME:acetaminophen,biolink:ChemicalEntity,acetaminophen
+DRUG_NAME:CHLORHEXIDINE HYDROCHLORIDE,biolink:ChemicalEntity,CHLORHEXIDINE HYDROCHLORIDE
+DRUG_NAME:Sirolimus,biolink:ChemicalEntity,Sirolimus
+NCBIGene:5338,biolink:Gene,PLD2
+DRUG_NAME:TAMOXIFEN,biolink:ChemicalEntity,TAMOXIFEN
+NCBIGene:2251,biolink:Gene,FGF6
+DRUG_NAME:BUPIVACAINE,biolink:ChemicalEntity,BUPIVACAINE
+DRUG_NAME:vildagliptin,biolink:ChemicalEntity,vildagliptin
+DRUG_NAME:levodopa,biolink:ChemicalEntity,levodopa
+NCBIGene:187,biolink:Gene,APLNR
+DRUG_NAME:APELIN,biolink:ChemicalEntity,APELIN
+DRUG_NAME:NSC-317605,biolink:ChemicalEntity,NSC-317605
+DRUG_NAME:Vistusertib,biolink:ChemicalEntity,Vistusertib
+DRUG_NAME:BELATACEPT,biolink:ChemicalEntity,BELATACEPT
+DRUG_NAME:ZINC SULFATE,biolink:ChemicalEntity,ZINC SULFATE
+NCBIGene:8115,biolink:Gene,TCL1A
+DRUG_NAME:estradiol,biolink:ChemicalEntity,estradiol
+NCBIGene:51561,biolink:Gene,IL23A
+DRUG_NAME:GUSELKUMAB,biolink:ChemicalEntity,GUSELKUMAB
+DRUG_NAME:EZOGABINE,biolink:ChemicalEntity,EZOGABINE
+DRUG_NAME:PANOBINOSTAT,biolink:ChemicalEntity,PANOBINOSTAT
+DRUG_NAME:carboplatin,biolink:ChemicalEntity,carboplatin
+DRUG_NAME:AZD6244,biolink:ChemicalEntity,AZD6244
+DRUG_NAME:Avelumab,biolink:ChemicalEntity,Avelumab
+DRUG_NAME:NSC-175743,biolink:ChemicalEntity,NSC-175743
+DRUG_NAME:LCL161,biolink:ChemicalEntity,LCL161
+NCBIGene:81608,biolink:Gene,FIP1L1
+DRUG_NAME:meperidine,biolink:ChemicalEntity,meperidine
+DRUG_NAME:METHOTREXATE,biolink:ChemicalEntity,METHOTREXATE
+DRUG_NAME:CRINECERFONT,biolink:ChemicalEntity,CRINECERFONT
+DRUG_NAME:Veliparib,biolink:ChemicalEntity,Veliparib
+DRUG_NAME:GNF-PF-3023,biolink:ChemicalEntity,GNF-PF-3023
+DRUG_NAME:NITROBLUE TETRAZOLIUM,biolink:ChemicalEntity,NITROBLUE TETRAZOLIUM
+DRUG_NAME:GDC-0973,biolink:ChemicalEntity,GDC-0973
+DRUG_NAME:etoposide,biolink:ChemicalEntity,etoposide
+NCBIGene:5452,biolink:Gene,POU2F2
+DRUG_NAME:LINAGLIPTIN,biolink:ChemicalEntity,LINAGLIPTIN
+DRUG_NAME:valproic acid,biolink:ChemicalEntity,valproic acid
+DRUG_NAME:RETINOIC ACID,biolink:ChemicalEntity,RETINOIC ACID
+"DRUG_NAME:5-CHLORO-[1,10]PHENANTHROLINE",biolink:ChemicalEntity,"5-CHLORO-[1,10]PHENANTHROLINE"
+DRUG_NAME:JQ1,biolink:ChemicalEntity,JQ1
+NCBIGene:6559,biolink:Gene,SLC12A3
+DRUG_NAME:torasemide,biolink:ChemicalEntity,torasemide
+DRUG_NAME:NV-128,biolink:ChemicalEntity,NV-128
+NCBIGene:5236,biolink:Gene,PGM1
+DRUG_NAME:ethanol,biolink:ChemicalEntity,ethanol
+NCBIGene:29128,biolink:Gene,UHRF1
+DRUG_NAME:gefitinib,biolink:ChemicalEntity,gefitinib
+DRUG_NAME:Gedatolisib,biolink:ChemicalEntity,Gedatolisib
+DRUG_NAME:NSC-3323,biolink:ChemicalEntity,NSC-3323
+NCBIGene:4830,biolink:Gene,NME1
+DRUG_NAME:LYCOPENE,biolink:ChemicalEntity,LYCOPENE
+NCBIGene:546,biolink:Gene,ATRX
+DRUG_NAME:PCV REGIMEN,biolink:ChemicalEntity,PCV REGIMEN
+DRUG_NAME:HALOPEMIDE,biolink:ChemicalEntity,HALOPEMIDE
+DRUG_NAME:tenofovir,biolink:ChemicalEntity,tenofovir
+NCBIGene:6138,biolink:Gene,RPL15
+NCBIGene:4549,biolink:Gene,MT-RNR1
+DRUG_NAME:aminoglycoside antibacterials,biolink:ChemicalEntity,aminoglycoside antibacterials
+DRUG_NAME:Talazoparib,biolink:ChemicalEntity,Talazoparib
+NCBIGene:6524,biolink:Gene,SLC5A2
+DRUG_NAME:HENAGLIFLOZIN,biolink:ChemicalEntity,HENAGLIFLOZIN
+DRUG_NAME:adefovir dipivoxil,biolink:ChemicalEntity,adefovir dipivoxil
+DRUG_NAME:NG-MONOMETHYL-L-ARGININE,biolink:ChemicalEntity,NG-MONOMETHYL-L-ARGININE
+DRUG_NAME:clomipramine,biolink:ChemicalEntity,clomipramine
+NCBIGene:875,biolink:Gene,CBS
+DRUG_NAME:Arsenic compounds,biolink:ChemicalEntity,Arsenic compounds
+DRUG_NAME:CYCLOPHOSPHAMIDE,biolink:ChemicalEntity,CYCLOPHOSPHAMIDE
+DRUG_NAME:SUNITINIB,biolink:ChemicalEntity,SUNITINIB
+DRUG_NAME:DAPAGLIFLOZIN PROPYLENE GLYCOL,biolink:ChemicalEntity,DAPAGLIFLOZIN PROPYLENE GLYCOL
+DRUG_NAME:CHLOROTHIAZIDE,biolink:ChemicalEntity,CHLOROTHIAZIDE
+DRUG_NAME:olanzapine,biolink:ChemicalEntity,olanzapine
+NCBIGene:131096,biolink:Gene,KCNH8
+DRUG_NAME:RONICICLIB,biolink:ChemicalEntity,RONICICLIB
+DRUG_NAME:EBDAROKIMAB,biolink:ChemicalEntity,EBDAROKIMAB
+DRUG_NAME:EMICERFONT,biolink:ChemicalEntity,EMICERFONT
+NCBIGene:3381,biolink:Gene,IBSP
+DRUG_NAME:CYCLOSPORIN A,biolink:ChemicalEntity,CYCLOSPORIN A
+DRUG_NAME:TRAIL,biolink:ChemicalEntity,TRAIL
+DRUG_NAME:ondansetron,biolink:ChemicalEntity,ondansetron
+NCBIGene:5715,biolink:Gene,PSMD9
+DRUG_NAME:TRICHOSTATIN A,biolink:ChemicalEntity,TRICHOSTATIN A
+DRUG_NAME:MIZORIBINE,biolink:ChemicalEntity,MIZORIBINE
+DRUG_NAME:M-1095,biolink:ChemicalEntity,M-1095
+NCBIGene:3756,biolink:Gene,KCNH1
+DRUG_NAME:DALFAMPRIDINE,biolink:ChemicalEntity,DALFAMPRIDINE
+NCBIGene:348980,biolink:Gene,HCN1
+DRUG_NAME:o-desmethyltramadol,biolink:ChemicalEntity,o-desmethyltramadol
+NCBIGene:1075,biolink:Gene,CTSC
+DRUG_NAME:CALCIUM GLUCONATE,biolink:ChemicalEntity,CALCIUM GLUCONATE
+DRUG_NAME:OXALIPLATIN,biolink:ChemicalEntity,OXALIPLATIN
+DRUG_NAME:atorvastatin,biolink:ChemicalEntity,atorvastatin
+NCBIGene:9978,biolink:Gene,RBX1
+DRUG_NAME:IBERDOMIDE,biolink:ChemicalEntity,IBERDOMIDE
+DRUG_NAME:METFORMIN HYDROCHLORIDE,biolink:ChemicalEntity,METFORMIN HYDROCHLORIDE
+DRUG_NAME:cisplatin,biolink:ChemicalEntity,cisplatin
+NCBIGene:26130,biolink:Gene,GAPVD1
+DRUG_NAME:interferon beta-1a,biolink:ChemicalEntity,interferon beta-1a
+DRUG_NAME:AZD7762,biolink:ChemicalEntity,AZD7762
+NCBIGene:2551,biolink:Gene,GABPA
+DRUG_NAME:DOX,biolink:ChemicalEntity,DOX
+NCBIGene:6579,biolink:Gene,SLCO1A2
+DRUG_NAME:tamoxifen,biolink:ChemicalEntity,tamoxifen
+DRUG_NAME:MYCOPHENOLATE MOFETIL,biolink:ChemicalEntity,MYCOPHENOLATE MOFETIL
+DRUG_NAME:ANTINEOPLASTIC,biolink:ChemicalEntity,ANTINEOPLASTIC
+DRUG_NAME:3TC,biolink:ChemicalEntity,3TC
+DRUG_NAME:TYROSINE KINASE INHIBITORS,biolink:ChemicalEntity,TYROSINE KINASE INHIBITORS
+DRUG_NAME:VERUCERFONT,biolink:ChemicalEntity,VERUCERFONT
+DRUG_NAME:INDOMETHACIN,biolink:ChemicalEntity,INDOMETHACIN
+DRUG_NAME:MAO inhibitors,biolink:ChemicalEntity,MAO inhibitors
+DRUG_NAME:TUMOR NECROSIS FACTOR-BETA,biolink:ChemicalEntity,TUMOR NECROSIS FACTOR-BETA
+DRUG_NAME:fluorouracil,biolink:ChemicalEntity,fluorouracil
+DRUG_NAME:PF-562271,biolink:ChemicalEntity,PF-562271
+DRUG_NAME:nitrous oxide,biolink:ChemicalEntity,nitrous oxide
+DRUG_NAME:NSC-126188,biolink:ChemicalEntity,NSC-126188
+DRUG_NAME:LORATADINE,biolink:ChemicalEntity,LORATADINE
+NCBIGene:728,biolink:Gene,C5AR1
+DRUG_NAME:AVDORALIMAB,biolink:ChemicalEntity,AVDORALIMAB
+DRUG_NAME:MT-3724,biolink:ChemicalEntity,MT-3724
+NCBIGene:55779,biolink:Gene,CFAP44
+DRUG_NAME:hmg coa reductase inhibitors,biolink:ChemicalEntity,hmg coa reductase inhibitors
+DRUG_NAME:AT-406,biolink:ChemicalEntity,AT-406
+DRUG_NAME:PENTABROMOPHENOL,biolink:ChemicalEntity,PENTABROMOPHENOL
+DRUG_NAME:AZT,biolink:ChemicalEntity,AZT
+DRUG_NAME:BRAZIKUMAB,biolink:ChemicalEntity,BRAZIKUMAB
+DRUG_NAME:cyclophosphamide,biolink:ChemicalEntity,cyclophosphamide
+DRUG_NAME:METFORMIN,biolink:ChemicalEntity,METFORMIN
+NCBIGene:4544,biolink:Gene,MTNR1B
+DRUG_NAME:TASIMELTEON,biolink:ChemicalEntity,TASIMELTEON
+DRUG_NAME:sitagliptin,biolink:ChemicalEntity,sitagliptin
+NCBIGene:11343,biolink:Gene,MGLL
+DRUG_NAME:N-PHENYLMALEIMIDE,biolink:ChemicalEntity,N-PHENYLMALEIMIDE
+NCBIGene:1642,biolink:Gene,DDB1
+DRUG_NAME:RISANKIZUMAB,biolink:ChemicalEntity,RISANKIZUMAB
+DRUG_NAME:FLAVOPIRIDOL,biolink:ChemicalEntity,FLAVOPIRIDOL
+DRUG_NAME:ISO-IANTHERAN A,biolink:ChemicalEntity,ISO-IANTHERAN A
+NCBIGene:1013,biolink:Gene,CDH15
+DRUG_NAME:aspirin,biolink:ChemicalEntity,aspirin
+DRUG_NAME:LORGLUMIDE SODIUM,biolink:ChemicalEntity,LORGLUMIDE SODIUM
+NCBIGene:10840,biolink:Gene,ALDH1L1
+DRUG_NAME:methionine,biolink:ChemicalEntity,methionine
+DRUG_NAME:FELBAMATE,biolink:ChemicalEntity,FELBAMATE
+DRUG_NAME:NICOTINE,biolink:ChemicalEntity,NICOTINE
+DRUG_NAME:CSA,biolink:ChemicalEntity,CSA
+NCBIGene:2358,biolink:Gene,FPR2
+DRUG_NAME:N-FORMYLMETHIONYL-LEUCYLPHENYLALANINE,biolink:ChemicalEntity,N-FORMYLMETHIONYL-LEUCYLPHENYLALANINE
+NCBIGene:9370,biolink:Gene,ADIPOQ
+DRUG_NAME:NEVIRAPINE,biolink:ChemicalEntity,NEVIRAPINE
+DRUG_NAME:CISPLATIN,biolink:ChemicalEntity,CISPLATIN
+DRUG_NAME:VORINOSTAT,biolink:ChemicalEntity,VORINOSTAT
+DRUG_NAME:lamivudine,biolink:ChemicalEntity,lamivudine
+DRUG_NAME:INSULIN,biolink:ChemicalEntity,INSULIN
+NCBIGene:64061,biolink:Gene,TSPYL2
+DRUG_NAME:SODIUM BUTYRATE,biolink:ChemicalEntity,SODIUM BUTYRATE
+DRUG_NAME:EQUINE CHORIONIC GONADOTROPIN,biolink:ChemicalEntity,EQUINE CHORIONIC GONADOTROPIN
+NCBIGene:345,biolink:Gene,APOC3
+DRUG_NAME:pegaspargase,biolink:ChemicalEntity,pegaspargase
+DRUG_NAME:CHELATORS,biolink:ChemicalEntity,CHELATORS
+DRUG_NAME:acetaldehyde,biolink:ChemicalEntity,acetaldehyde
+NCBIGene:28951,biolink:Gene,TRIB2
+DRUG_NAME:allopurinol,biolink:ChemicalEntity,allopurinol
+DRUG_NAME:NEBOGLAMINE,biolink:ChemicalEntity,NEBOGLAMINE
+DRUG_NAME:COBALT,biolink:ChemicalEntity,COBALT
+DRUG_NAME:EVEROLIMUS,biolink:ChemicalEntity,EVEROLIMUS
+DRUG_NAME:IL-6,biolink:ChemicalEntity,IL-6
+NCBIGene:241,biolink:Gene,ALOX5AP
+DRUG_NAME:QUINETHAZONE,biolink:ChemicalEntity,QUINETHAZONE
+DRUG_NAME:SJ000189154,biolink:ChemicalEntity,SJ000189154
+DRUG_NAME:ORAL CONTRACEPTIVE,biolink:ChemicalEntity,ORAL CONTRACEPTIVE
+DRUG_NAME:ESKETAMINE,biolink:ChemicalEntity,ESKETAMINE
+DRUG_NAME:DASATINIB,biolink:ChemicalEntity,DASATINIB
+DRUG_NAME:bumetanide,biolink:ChemicalEntity,bumetanide
+DRUG_NAME:RECOMBINANT INTERLEUKIN,biolink:ChemicalEntity,RECOMBINANT INTERLEUKIN
+DRUG_NAME:ustekinumab,biolink:ChemicalEntity,ustekinumab
+DRUG_NAME:IL-1,biolink:ChemicalEntity,IL-1
+DRUG_NAME:HYDROQUINONE,biolink:ChemicalEntity,HYDROQUINONE
+DRUG_NAME:APIMOSTINEL,biolink:ChemicalEntity,APIMOSTINEL
+DRUG_NAME:RESERPINE,biolink:ChemicalEntity,RESERPINE
+DRUG_NAME:PAMIDRONATE,biolink:ChemicalEntity,PAMIDRONATE
+DRUG_NAME:GNF-PF-2133,biolink:ChemicalEntity,GNF-PF-2133
+DRUG_NAME:antipsychotics,biolink:ChemicalEntity,antipsychotics
+DRUG_NAME:AG-09/96,biolink:ChemicalEntity,AG-09/96
+DRUG_NAME:VITAMIN B6,biolink:ChemicalEntity,VITAMIN B6
+DRUG_NAME:protease inhibitors,biolink:ChemicalEntity,protease inhibitors
+DRUG_NAME:REMOGLIFLOZIN ETABONATE,biolink:ChemicalEntity,REMOGLIFLOZIN ETABONATE
+DRUG_NAME:NB1011,biolink:ChemicalEntity,NB1011
+DRUG_NAME:DNCB,biolink:ChemicalEntity,DNCB
+DRUG_NAME:PMA,biolink:ChemicalEntity,PMA
+DRUG_NAME:FIBOFLAPON SODIUM,biolink:ChemicalEntity,FIBOFLAPON SODIUM
+DRUG_NAME:L-DOPA,biolink:ChemicalEntity,L-DOPA
+NCBIGene:4882,biolink:Gene,NPR2
+DRUG_NAME:VOSORITIDE,biolink:ChemicalEntity,VOSORITIDE
+DRUG_NAME:AZD-5438,biolink:ChemicalEntity,AZD-5438
+DRUG_NAME:OPROZOMIB,biolink:ChemicalEntity,OPROZOMIB
+DRUG_NAME:BENDROFLUMETHIAZIDE,biolink:ChemicalEntity,BENDROFLUMETHIAZIDE
+NCBIGene:84618,biolink:Gene,NT5C1A
+NCBIGene:1553,biolink:Gene,CYP2A13
+DRUG_NAME:nnk,biolink:ChemicalEntity,nnk
+DRUG_NAME:PENTOXIFYLLINE,biolink:ChemicalEntity,PENTOXIFYLLINE
+DRUG_NAME:BI-87E7,biolink:ChemicalEntity,BI-87E7
+DRUG_NAME:LENALIDOMIDE,biolink:ChemicalEntity,LENALIDOMIDE
+DRUG_NAME:SIROLIMUS,biolink:ChemicalEntity,SIROLIMUS
+DRUG_NAME:GNF-PF-2262,biolink:ChemicalEntity,GNF-PF-2262
+NCBIGene:3479,biolink:Gene,IGF1
+DRUG_NAME:DUSIGITUMAB,biolink:ChemicalEntity,DUSIGITUMAB
+DRUG_NAME:imatinib,biolink:ChemicalEntity,imatinib
+DRUG_NAME:TNF-ALPHA,biolink:ChemicalEntity,TNF-ALPHA
+DRUG_NAME:GARLIC,biolink:ChemicalEntity,GARLIC
+DRUG_NAME:XENTUZUMAB,biolink:ChemicalEntity,XENTUZUMAB
+DRUG_NAME:DESLANOSIDE,biolink:ChemicalEntity,DESLANOSIDE
+DRUG_NAME:RG-1530,biolink:ChemicalEntity,RG-1530
+DRUG_NAME:EGCG,biolink:ChemicalEntity,EGCG
+DRUG_NAME:9-CIS-RETINOIC ACID,biolink:ChemicalEntity,9-CIS-RETINOIC ACID
+DRUG_NAME:RHGH,biolink:ChemicalEntity,RHGH
+DRUG_NAME:TGFBETA1,biolink:ChemicalEntity,TGFBETA1
+NCBIGene:7058,biolink:Gene,THBS2
+DRUG_NAME:BEVACIZUMAB,biolink:ChemicalEntity,BEVACIZUMAB
+DRUG_NAME:glucocorticoids,biolink:ChemicalEntity,glucocorticoids
+DRUG_NAME:DAUNORUBICIN,biolink:ChemicalEntity,DAUNORUBICIN
+DRUG_NAME:exemestane,biolink:ChemicalEntity,exemestane
+DRUG_NAME:HYDROFLUMETHIAZIDE,biolink:ChemicalEntity,HYDROFLUMETHIAZIDE
+DRUG_NAME:neomycin,biolink:ChemicalEntity,neomycin
+DRUG_NAME:TESTOSTERONE,biolink:ChemicalEntity,TESTOSTERONE
+DRUG_NAME:Birabresib,biolink:ChemicalEntity,Birabresib
+DRUG_NAME:IPRAGLIFLOZIN,biolink:ChemicalEntity,IPRAGLIFLOZIN
+DRUG_NAME:SACUBITRIL,biolink:ChemicalEntity,SACUBITRIL
+DRUG_NAME:BCG,biolink:ChemicalEntity,BCG
+DRUG_NAME:BEXAGLIFLOZIN,biolink:ChemicalEntity,BEXAGLIFLOZIN
+DRUG_NAME:RACECADOTRIL,biolink:ChemicalEntity,RACECADOTRIL
+DRUG_NAME:HYDROCHLOROTHIAZIDE,biolink:ChemicalEntity,HYDROCHLOROTHIAZIDE
+DRUG_NAME:MYCOPHENOLATE MOFETIL HYDROCHLORIDE,biolink:ChemicalEntity,MYCOPHENOLATE MOFETIL HYDROCHLORIDE
+DRUG_NAME:Rucaparib,biolink:ChemicalEntity,Rucaparib
+NCBIGene:9498,biolink:Gene,SLC4A8
+DRUG_NAME:epirubicin,biolink:ChemicalEntity,epirubicin
+NCBIGene:6427,biolink:Gene,SRSF2
+DRUG_NAME:CTX-712,biolink:ChemicalEntity,CTX-712
+DRUG_NAME:Imatinib,biolink:ChemicalEntity,Imatinib
+NCBIGene:23409,biolink:Gene,SIRT4
+DRUG_NAME:FIBOFLAPON,biolink:ChemicalEntity,FIBOFLAPON
+DRUG_NAME:PD 0325901,biolink:ChemicalEntity,PD 0325901
+DRUG_NAME:CYCLOTHIAZIDE,biolink:ChemicalEntity,CYCLOTHIAZIDE
+DRUG_NAME:ATRA,biolink:ChemicalEntity,ATRA
+DRUG_NAME:acetaminophen glucuronide,biolink:ChemicalEntity,acetaminophen glucuronide
+DRUG_NAME:OLAPARIB,biolink:ChemicalEntity,OLAPARIB
+NCBIGene:1326,biolink:Gene,MAP3K8
+DRUG_NAME:TILPISERTIB,biolink:ChemicalEntity,TILPISERTIB
+DRUG_NAME:GO-6976,biolink:ChemicalEntity,GO-6976
+DRUG_NAME:paromomycin,biolink:ChemicalEntity,paromomycin
+DRUG_NAME:MYCOPHENOLIC ACID,biolink:ChemicalEntity,MYCOPHENOLIC ACID
+DRUG_NAME:DORLIMOMAB ARITOX,biolink:ChemicalEntity,DORLIMOMAB ARITOX
+DRUG_NAME:FLINDOKALNER,biolink:ChemicalEntity,FLINDOKALNER
+DRUG_NAME:GW441756X,biolink:ChemicalEntity,GW441756X
+DRUG_NAME:FEXOFENADINE HYDROCHLORIDE,biolink:ChemicalEntity,FEXOFENADINE HYDROCHLORIDE
+NCBIGene:4337,biolink:Gene,MOCS1
+DRUG_NAME:fosdenopterin,biolink:ChemicalEntity,fosdenopterin
+DRUG_NAME:AZ20,biolink:ChemicalEntity,AZ20
+DRUG_NAME:POLY IC,biolink:ChemicalEntity,POLY IC
+DRUG_NAME:IXAZOMIB CITRATE,biolink:ChemicalEntity,IXAZOMIB CITRATE
+DRUG_NAME:HORMONES,biolink:ChemicalEntity,HORMONES
+DRUG_NAME:TALAZOPARIB,biolink:ChemicalEntity,TALAZOPARIB
+"DRUG_NAME:Antivirals for treatment of HIV infections, combinations",biolink:ChemicalEntity,"Antivirals for treatment of HIV infections, combinations"
+DRUG_NAME:RP-3500,biolink:ChemicalEntity,RP-3500
+NCBIGene:939,biolink:Gene,CD27
+DRUG_NAME:PROTEASE INHIBITORS,biolink:ChemicalEntity,PROTEASE INHIBITORS
+DRUG_NAME:MIRIKIZUMAB,biolink:ChemicalEntity,MIRIKIZUMAB
+DRUG_NAME:AVN-944,biolink:ChemicalEntity,AVN-944
+DRUG_NAME:LUTETIUM DOTATATE LU-177,biolink:ChemicalEntity,LUTETIUM DOTATATE LU-177
+DRUG_NAME:USTEKINUMAB,biolink:ChemicalEntity,USTEKINUMAB
+NCBIGene:4807,biolink:Gene,NHLH1
+NCBIGene:51075,biolink:Gene,TMX2
+DRUG_NAME:ANTIVIRAL,biolink:ChemicalEntity,ANTIVIRAL
+DRUG_NAME:TRAMETINIB,biolink:ChemicalEntity,TRAMETINIB
+DRUG_NAME:BIMEKIZUMAB,biolink:ChemicalEntity,BIMEKIZUMAB
+DRUG_NAME:ADRENOCORTICOTROPIC HORMONE,biolink:ChemicalEntity,ADRENOCORTICOTROPIC HORMONE
+DRUG_NAME:DIGOXIN,biolink:ChemicalEntity,DIGOXIN
+DRUG_NAME:unspecified PD-1 antibody,biolink:ChemicalEntity,unspecified PD-1 antibody
+DRUG_NAME:PENTOSAN POLYSULFATE,biolink:ChemicalEntity,PENTOSAN POLYSULFATE
+DRUG_NAME:IMMUNOSUPPRESSIVE,biolink:ChemicalEntity,IMMUNOSUPPRESSIVE
+DRUG_NAME:nefazodone,biolink:ChemicalEntity,nefazodone
+DRUG_NAME:coumarin,biolink:ChemicalEntity,coumarin
+DRUG_NAME:OCTHILINONE,biolink:ChemicalEntity,OCTHILINONE
+DRUG_NAME:ERTUGLIFLOZIN,biolink:ChemicalEntity,ERTUGLIFLOZIN
+NCBIGene:111,biolink:Gene,ADCY5
+DRUG_NAME:NSC-270718,biolink:ChemicalEntity,NSC-270718
+DRUG_NAME:escitalopram,biolink:ChemicalEntity,escitalopram
+DRUG_NAME:ILEPATRIL,biolink:ChemicalEntity,ILEPATRIL
+NCBIGene:1610,biolink:Gene,DAO
+DRUG_NAME:3-HYDROXYCOUMARIN,biolink:ChemicalEntity,3-HYDROXYCOUMARIN
+DRUG_NAME:setmelanotide,biolink:ChemicalEntity,setmelanotide
+"DRUG_NAME:5-CARBOXYFURO[3,2-B]PYRROLE",biolink:ChemicalEntity,"5-CARBOXYFURO[3,2-B]PYRROLE"
+NCBIGene:58498,biolink:Gene,MYL7
+DRUG_NAME:MAVACAMTEN,biolink:ChemicalEntity,MAVACAMTEN
+NCBIGene:3732,biolink:Gene,CD82
+DRUG_NAME:NERVE GROWTH FACTOR,biolink:ChemicalEntity,NERVE GROWTH FACTOR
+DRUG_NAME:VARLILUMAB,biolink:ChemicalEntity,VARLILUMAB
+"DRUG_NAME:Ace Inhibitors, Plain",biolink:ChemicalEntity,"Ace Inhibitors, Plain"
+DRUG_NAME:ELCUBRAGISTAT,biolink:ChemicalEntity,ELCUBRAGISTAT
+NCBIGene:84634,biolink:Gene,KISS1R
+DRUG_NAME:BENZETHONIUM CHLORIDE,biolink:ChemicalEntity,BENZETHONIUM CHLORIDE
+DRUG_NAME:CARBACHOL,biolink:ChemicalEntity,CARBACHOL
+DRUG_NAME:isepamicin,biolink:ChemicalEntity,isepamicin
+NCBIGene:1000,biolink:Gene,CDH2
+DRUG_NAME:radiotherapy,biolink:ChemicalEntity,radiotherapy
+NCBIGene:117583,biolink:Gene,PARD3B
+DRUG_NAME:oxaliplatin,biolink:ChemicalEntity,oxaliplatin
+NCBIGene:2259,biolink:Gene,FGF14
+DRUG_NAME:THIOGUANINE,biolink:ChemicalEntity,THIOGUANINE
+NCBIGene:2739,biolink:Gene,GLO1
+DRUG_NAME:N-METHYLFORMAMIDE,biolink:ChemicalEntity,N-METHYLFORMAMIDE
+DRUG_NAME:THIOPHENE-3-CARBOXYLIC ACID,biolink:ChemicalEntity,THIOPHENE-3-CARBOXYLIC ACID
+NCBIGene:10266,biolink:Gene,RAMP2
+DRUG_NAME:PRAMLINTIDE ACETATE,biolink:ChemicalEntity,PRAMLINTIDE ACETATE
+NCBIGene:1718,biolink:Gene,DHCR24
+DRUG_NAME:TRIPARANOL,biolink:ChemicalEntity,TRIPARANOL
+DRUG_NAME:SOTAGLIFLOZIN,biolink:ChemicalEntity,SOTAGLIFLOZIN
+DRUG_NAME:PMSG,biolink:ChemicalEntity,PMSG
+DRUG_NAME:celecoxib,biolink:ChemicalEntity,celecoxib
+DRUG_NAME:TILDRAKIZUMAB,biolink:ChemicalEntity,TILDRAKIZUMAB
+"DRUG_NAME:1,4-BIS(MALIMIDO)XYLENE",biolink:ChemicalEntity,"1,4-BIS(MALIMIDO)XYLENE"
+DRUG_NAME:ANTIHISTAMINE,biolink:ChemicalEntity,ANTIHISTAMINE
+NCBIGene:130940,biolink:Gene,CCDC148
+DRUG_NAME:MYCOPHENOLATE SODIUM,biolink:ChemicalEntity,MYCOPHENOLATE SODIUM
+DRUG_NAME:l-methionine,biolink:ChemicalEntity,l-methionine
+DRUG_NAME:ROXITHROMYCIN,biolink:ChemicalEntity,ROXITHROMYCIN
+NCBIGene:10507,biolink:Gene,SEMA4D
+DRUG_NAME:PEPINEMAB,biolink:ChemicalEntity,PEPINEMAB
+DRUG_NAME:ISTAROXIME,biolink:ChemicalEntity,ISTAROXIME
+DRUG_NAME:nadolol,biolink:ChemicalEntity,nadolol
+DRUG_NAME:PHORBOL MYRISTATE ACETATE,biolink:ChemicalEntity,PHORBOL MYRISTATE ACETATE
+NCBIGene:23387,biolink:Gene,SIK3
+DRUG_NAME:YM-543,biolink:ChemicalEntity,YM-543
+DRUG_NAME:WORTMANNIN,biolink:ChemicalEntity,WORTMANNIN
+NCBIGene:10866,biolink:Gene,HCP5
+DRUG_NAME:nevirapine,biolink:ChemicalEntity,nevirapine
+DRUG_NAME:LANATOSIDE C,biolink:ChemicalEntity,LANATOSIDE C
+DRUG_NAME:DIGITOXIN,biolink:ChemicalEntity,DIGITOXIN
+DRUG_NAME:VERNAKALANT HYDROCHLORIDE,biolink:ChemicalEntity,VERNAKALANT HYDROCHLORIDE
+DRUG_NAME:VE-821,biolink:ChemicalEntity,VE-821
+NCBIGene:7786,biolink:Gene,MAP3K12
+DRUG_NAME:CEP-1347,biolink:ChemicalEntity,CEP-1347
+NCBIGene:1911,biolink:Gene,PHC1
+DRUG_NAME:capecitabine,biolink:ChemicalEntity,capecitabine
+DRUG_NAME:KINASE INHIBITOR,biolink:ChemicalEntity,KINASE INHIBITOR
+DRUG_NAME:ANGIOTENSIN CONVERTING ENZYME INHIBITOR,biolink:ChemicalEntity,ANGIOTENSIN CONVERTING ENZYME INHIBITOR
+DRUG_NAME:BROMODEOXYURIDINE,biolink:ChemicalEntity,BROMODEOXYURIDINE
+NCBIGene:81624,biolink:Gene,DIAPH3
+DRUG_NAME:hydrochlorothiazide,biolink:ChemicalEntity,hydrochlorothiazide
+DRUG_NAME:AGOMELATINE,biolink:ChemicalEntity,AGOMELATINE
+DRUG_NAME:SPIRONOLACTONE,biolink:ChemicalEntity,SPIRONOLACTONE
+DRUG_NAME:OCRIPLASMIN,biolink:ChemicalEntity,OCRIPLASMIN
+NCBIGene:1638,biolink:Gene,DCT
+DRUG_NAME:FUNGIZONE,biolink:ChemicalEntity,FUNGIZONE
+NCBIGene:1509,biolink:Gene,CTSD
+DRUG_NAME:STREPTOZOTOCIN,biolink:ChemicalEntity,STREPTOZOTOCIN
+DRUG_NAME:DAIDZEIN,biolink:ChemicalEntity,DAIDZEIN
+DRUG_NAME:AG-22,biolink:ChemicalEntity,AG-22
+DRUG_NAME:bupropion,biolink:ChemicalEntity,bupropion
+DRUG_NAME:letrozole,biolink:ChemicalEntity,letrozole
+DRUG_NAME:URB597,biolink:ChemicalEntity,URB597
+DRUG_NAME:METRELEPTIN,biolink:ChemicalEntity,METRELEPTIN
+DRUG_NAME:mepolizumab,biolink:ChemicalEntity,mepolizumab
+DRUG_NAME:OCTREOTIDE ACETATE,biolink:ChemicalEntity,OCTREOTIDE ACETATE
+NCBIGene:189,biolink:Gene,AGXT
+DRUG_NAME:lumasiran,biolink:ChemicalEntity,lumasiran
+NCBIGene:3231,biolink:Gene,HOXD1
+DRUG_NAME:PIROMELATINE,biolink:ChemicalEntity,PIROMELATINE
+NCBIGene:6283,biolink:Gene,S100A12
+DRUG_NAME:MTX,biolink:ChemicalEntity,MTX
+DRUG_NAME:MELATONIN,biolink:ChemicalEntity,MELATONIN
+DRUG_NAME:IL-3,biolink:ChemicalEntity,IL-3
+DRUG_NAME:BRENSOCATIB,biolink:ChemicalEntity,BRENSOCATIB
+NCBIGene:3002,biolink:Gene,GZMB
+DRUG_NAME:HEXACHLOROPHENE,biolink:ChemicalEntity,HEXACHLOROPHENE
+DRUG_NAME:hygromycin b,biolink:ChemicalEntity,hygromycin b
+DRUG_NAME:erlotinib,biolink:ChemicalEntity,erlotinib
+DRUG_NAME:doxorubicin,biolink:ChemicalEntity,doxorubicin
+NCBIGene:10098,biolink:Gene,TSPAN5
+DRUG_NAME:serotonin,biolink:ChemicalEntity,serotonin
+DRUG_NAME:ZOLEDRONIC ACID,biolink:ChemicalEntity,ZOLEDRONIC ACID
+DRUG_NAME:lithium,biolink:ChemicalEntity,lithium
+NCBIGene:3590,biolink:Gene,IL11RA
+DRUG_NAME:OPRELVEKIN,biolink:ChemicalEntity,OPRELVEKIN
+DRUG_NAME:SAPONARIN,biolink:ChemicalEntity,SAPONARIN
+NCBIGene:719,biolink:Gene,C3AR1
+DRUG_NAME:SB-290157,biolink:ChemicalEntity,SB-290157
+DRUG_NAME:ALUM,biolink:ChemicalEntity,ALUM
+DRUG_NAME:dihydrostreptomycin,biolink:ChemicalEntity,dihydrostreptomycin
+DRUG_NAME:POMALIDOMIDE,biolink:ChemicalEntity,POMALIDOMIDE
+DRUG_NAME:Givosiran,biolink:ChemicalEntity,Givosiran
+DRUG_NAME:TEMOZOLOMIDE,biolink:ChemicalEntity,TEMOZOLOMIDE
+DRUG_NAME:H3B-8800,biolink:ChemicalEntity,H3B-8800
+DRUG_NAME:DANICAMTIV,biolink:ChemicalEntity,DANICAMTIV
+DRUG_NAME:FENOFIBRATE,biolink:ChemicalEntity,FENOFIBRATE
+DRUG_NAME:SOMATOSTATIN,biolink:ChemicalEntity,SOMATOSTATIN
+DRUG_NAME:cladribine,biolink:ChemicalEntity,cladribine
+DRUG_NAME:interferon beta-1b,biolink:ChemicalEntity,interferon beta-1b
+DRUG_NAME:AG-26,biolink:ChemicalEntity,AG-26
+DRUG_NAME:betaine,biolink:ChemicalEntity,betaine
+DRUG_NAME:clozapine,biolink:ChemicalEntity,clozapine
+DRUG_NAME:DEXTRAN SULFATE SODIUM,biolink:ChemicalEntity,DEXTRAN SULFATE SODIUM
+DRUG_NAME:CARPERITIDE,biolink:ChemicalEntity,CARPERITIDE
+DRUG_NAME:OMECAMTIV MECARBIL,biolink:ChemicalEntity,OMECAMTIV MECARBIL
+DRUG_NAME:plazomicin,biolink:ChemicalEntity,plazomicin
+DRUG_NAME:corticosteroids,biolink:ChemicalEntity,corticosteroids
+DRUG_NAME:APITOLISIB,biolink:ChemicalEntity,APITOLISIB
+DRUG_NAME:SELUMETINIB,biolink:ChemicalEntity,SELUMETINIB
+DRUG_NAME:tramadol,biolink:ChemicalEntity,tramadol
+DRUG_NAME:DIETHYLSTILBESTROL,biolink:ChemicalEntity,DIETHYLSTILBESTROL
+NCBIGene:9314,biolink:Gene,KLF4
+DRUG_NAME:hydroxyurea,biolink:ChemicalEntity,hydroxyurea
+DRUG_NAME:afatinib,biolink:ChemicalEntity,afatinib
+NCBIGene:3549,biolink:Gene,IHH
+DRUG_NAME:GRANULOCYTE COLONY-STIMULATING FACTOR,biolink:ChemicalEntity,GRANULOCYTE COLONY-STIMULATING FACTOR
+DRUG_NAME:zidovudine,biolink:ChemicalEntity,zidovudine
+DRUG_NAME:QUERCETIN,biolink:ChemicalEntity,QUERCETIN
+DRUG_NAME:6-MERCAPTOPURINE,biolink:ChemicalEntity,6-MERCAPTOPURINE
+DRUG_NAME:micronomicin,biolink:ChemicalEntity,micronomicin
+DRUG_NAME:OGX-011,biolink:ChemicalEntity,OGX-011
+DRUG_NAME:lutetium (177Lu) oxodotreotide,biolink:ChemicalEntity,lutetium (177Lu) oxodotreotide
+DRUG_NAME:DIQUAFOSOL TETRASODIUM,biolink:ChemicalEntity,DIQUAFOSOL TETRASODIUM
+NCBIGene:9575,biolink:Gene,CLOCK
+DRUG_NAME:salbutamol,biolink:ChemicalEntity,salbutamol
+DRUG_NAME:MIBAVADEMAB,biolink:ChemicalEntity,MIBAVADEMAB
+DRUG_NAME:COLLAGENASE CLOSTRIDIUM HISTOLYTICUM,biolink:ChemicalEntity,COLLAGENASE CLOSTRIDIUM HISTOLYTICUM
+DRUG_NAME:ELX-02,biolink:ChemicalEntity,ELX-02
+DRUG_NAME:2-(4-METHOXYBENZAMIDO)BENZOIC ACID,biolink:ChemicalEntity,2-(4-METHOXYBENZAMIDO)BENZOIC ACID
+DRUG_NAME:celiprolol,biolink:ChemicalEntity,celiprolol
+DRUG_NAME:BENZOIC ACID,biolink:ChemicalEntity,BENZOIC ACID
+DRUG_NAME:BAY869766,biolink:ChemicalEntity,BAY869766
+DRUG_NAME:anthracyclines and related substances,biolink:ChemicalEntity,anthracyclines and related substances
+DRUG_NAME:methadone,biolink:ChemicalEntity,methadone
+DRUG_NAME:clopidogrel,biolink:ChemicalEntity,clopidogrel
+DRUG_NAME:VELIFLAPON,biolink:ChemicalEntity,VELIFLAPON
+DRUG_NAME:RAMELTEON,biolink:ChemicalEntity,RAMELTEON
+DRUG_NAME:AVACOPAN,biolink:ChemicalEntity,AVACOPAN
+NCBIGene:2867,biolink:Gene,FFAR2
+DRUG_NAME:GLPG-0974,biolink:ChemicalEntity,GLPG-0974
+DRUG_NAME:nedosiran,biolink:ChemicalEntity,nedosiran
+DRUG_NAME:PROGESTERONE,biolink:ChemicalEntity,PROGESTERONE
+MONDO:0000358,biolink:Disease,orofacial cleft
+EFO:0006890,biolink:Disease,EFO:0006890
+EFO:0004705,biolink:Disease,EFO:0004705
+EFO:0004212,biolink:Disease,EFO:0004212
+Orphanet:52901,biolink:Disease,Orphanet:52901
+EFO:1001461,biolink:Disease,EFO:1001461
+EFO:0000564,biolink:Disease,EFO:0000564
+MONDO:0010121,biolink:Disease,thrombocytopenia-absent radius syndrome
+MONDO:0002108,biolink:Disease,thyroid cancer
+EFO:0001376,biolink:Disease,EFO:0001376
+EFO:0008528,biolink:Disease,EFO:0008528
+MONDO:0008523,biolink:Disease,Blau syndrome
+MONDO:0010891,biolink:Disease,lethal hemolytic anemia-genital anomalies syndrome
+MONDO:0020310,biolink:Disease,familial focal epilepsy with variable foci
+EFO:0021901,biolink:Disease,EFO:0021901
+EFO:0005140,biolink:Disease,EFO:0005140
+GO:0009410,biolink:Disease,GO:0009410
+EFO:0009709,biolink:Disease,EFO:0009709
+MONDO:0004483,biolink:Disease,thyroid gland oncocytic adenoma
+EFO:0003818,biolink:Disease,EFO:0003818
+EFO:0022148,biolink:Disease,EFO:0022148
+EFO:0000771,biolink:Disease,EFO:0000771
+EFO:0006335,biolink:Disease,EFO:0006335
+EFO:0000537,biolink:Disease,EFO:0000537
+MONDO:0014248,biolink:Disease,autism spectrum disorder - epilepsy - arthrogryposis syndrome
+EFO:0003767,biolink:Disease,EFO:0003767
+EFO:0000400,biolink:Disease,EFO:0000400
+MONDO:0011142,biolink:Disease,"Ehlers-Danlos syndrome, musculocontractural type"
+MONDO:0008170,biolink:Disease,ovarian cancer
+HP:0040187,biolink:Disease,HP:0040187
+EFO:1002000,biolink:Disease,EFO:1002000
+MONDO:0004992,biolink:Disease,cancer
+MONDO:0021201,biolink:Disease,skin infection
+OBA:1000840,biolink:Disease,OBA:1000840
+EFO:0003756,biolink:Disease,EFO:0003756
+MONDO:0010356,biolink:Disease,nephrogenic syndrome of inappropriate antidiuresis
+MONDO:0008280,biolink:Disease,Peutz-Jeghers syndrome
+HP:0001270,biolink:Disease,HP:0001270
+MONDO:0005271,biolink:Disease,allergic disease
+MONDO:0021681,biolink:Disease,sexually transmitted disease
+EFO:0004194,biolink:Disease,EFO:0004194
+EFO:0004142,biolink:Disease,EFO:0004142
+EFO:0000401,biolink:Disease,EFO:0000401
+EFO:0000335,biolink:Disease,EFO:0000335
+HP:0002015,biolink:Disease,HP:0002015
+MONDO:0010720,biolink:Disease,partial androgen insensitivity syndrome
+EFO:1001248,biolink:Disease,EFO:1001248
+MONDO:0004986,biolink:Disease,urinary bladder carcinoma
+EFO:0003918,biolink:Disease,EFO:0003918
+MONDO:0019306,biolink:Disease,congenital non-bullous ichthyosiform erythroderma
+EFO:0004243,biolink:Disease,EFO:0004243
+EFO:0007485,biolink:Disease,EFO:0007485
+MONDO:0011382,biolink:Disease,sickle cell disease
+MONDO:0044721,biolink:Disease,severe combined immunodeficiency due to LAT deficiency
+EFO:0009765,biolink:Disease,EFO:0009765
+Orphanet:1473,biolink:Disease,Orphanet:1473
+EFO:0001422,biolink:Disease,EFO:0001422
+MONDO:0008315,biolink:Disease,prostate cancer
+Orphanet:602,biolink:Disease,Orphanet:602
+OBA:0003277,biolink:Disease,OBA:0003277
+MONDO:0024477,biolink:Disease,liver and intrahepatic bile duct neoplasm
+EFO:1001968,biolink:Disease,EFO:1001968
+EFO:1000018,biolink:Disease,EFO:1000018
+EFO:0004211,biolink:Disease,EFO:0004211
+EFO:0007330,biolink:Disease,EFO:0007330
+EFO:0004995,biolink:Disease,EFO:0004995
+MONDO:0001085,biolink:Disease,interstitial nephritis
+EFO:0004530,biolink:Disease,EFO:0004530
+EFO:0000504,biolink:Disease,EFO:0000504
+MONDO:0009724,biolink:Disease,nail-patella-like renal disease
+EFO:0020865,biolink:Disease,EFO:0020865
+MONDO:0010015,biolink:Disease,anterior segment dysgenesis 7
+HP:0001873,biolink:Disease,HP:0001873
+MONDO:0009061,biolink:Disease,cystic fibrosis
+MONDO:0016064,biolink:Disease,cleft palate
+MONDO:0957594,biolink:Disease,spermatogenic failure 87
+EFO:0003914,biolink:Disease,EFO:0003914
+EFO:0009085,biolink:Disease,EFO:0009085
+MONDO:0021156,biolink:Disease,hypophysitis
+MONDO:0013588,biolink:Disease,Perrault syndrome 3
+MONDO:0017795,biolink:Disease,ameloblastoma
+EFO:0000571,biolink:Disease,EFO:0000571
+EFO:0022237,biolink:Disease,EFO:0022237
+EFO:0008572,biolink:Disease,EFO:0008572
+MONDO:0010383,biolink:Disease,fragile X syndrome
+EFO:0000717,biolink:Disease,EFO:0000717
+OBA:2040561,biolink:Disease,OBA:2040561
+MONDO:0032845,biolink:Disease,spermatogenic failure 39
+EFO:0010134,biolink:Disease,EFO:0010134
+EFO:0009130,biolink:Disease,EFO:0009130
+EFO:1000821,biolink:Disease,EFO:1000821
+MONDO:0008006,biolink:Disease,Mobius syndrome
+EFO:1001050,biolink:Disease,EFO:1001050
+OBA:2042538,biolink:Disease,OBA:2042538
+EFO:0000365,biolink:Disease,EFO:0000365
+EFO:0006738,biolink:Disease,EFO:0006738
+EFO:0002430,biolink:Disease,EFO:0002430
+EFO:1001928,biolink:Disease,EFO:1001928
+EFO:0022317,biolink:Disease,EFO:0022317
+EFO:0000232,biolink:Disease,EFO:0000232
+EFO:0003032,biolink:Disease,EFO:0003032
+EFO:0005701,biolink:Disease,EFO:0005701
+MONDO:0700044,biolink:Disease,MONDO:0700044
+EFO:1001051,biolink:Disease,EFO:1001051
+EFO:1001901,biolink:Disease,EFO:1001901
+EFO:0006544,biolink:Disease,EFO:0006544
+MONDO:0004286,biolink:Disease,pancreatic intraductal papillary-mucinous neoplasm
+MONDO:0016780,biolink:Disease,paternal 14q32.2 microdeletion syndrome
+MONDO:0021148,biolink:Disease,female reproductive system neoplasm
+MONDO:0002334,biolink:Disease,hematopoietic and lymphoid system neoplasm
+EFO:0007874,biolink:Disease,EFO:0007874
+MONDO:0013934,biolink:Disease,combined immunodeficiency due to STK4 deficiency
+MONDO:0002974,biolink:Disease,cervical cancer
+MONDO:0009216,biolink:Disease,glycogen storage disease due to GLUT2 deficiency
+EFO:0007218,biolink:Disease,EFO:0007218
+EFO:0002939,biolink:Disease,EFO:0002939
+EFO:0000549,biolink:Disease,EFO:0000549
+MONDO:0007254,biolink:Disease,breast cancer
+HP:0009726,biolink:Disease,HP:0009726
+MONDO:0023161,biolink:Disease,viral myocarditis
+MONDO:0004643,biolink:Disease,myeloid leukemia
+MONDO:0018630,biolink:Disease,hereditary nonpolyposis colon cancer
+EFO:0005423,biolink:Disease,EFO:0005423
+MONDO:0008733,biolink:Disease,familial glucocorticoid deficiency
+Orphanet:75376,biolink:Disease,Orphanet:75376
+EFO:1000158,biolink:Disease,EFO:1000158
+MONDO:0002691,biolink:Disease,liver cancer
+MONDO:0002207,biolink:Disease,vulval Paget disease
+MONDO:0005041,biolink:Disease,glaucoma
+EFO:1001999,biolink:Disease,EFO:1001999
+MONDO:0007496,biolink:Disease,dystonia 12
+MONDO:0007809,biolink:Disease,"ichthyosis histrix, Lambert type"
+EFO:1002049,biolink:Disease,EFO:1002049
+HP:0002783,biolink:Disease,HP:0002783
+EFO:0010702,biolink:Disease,EFO:0010702
+Orphanet:199348,biolink:Disease,Orphanet:199348
+MONDO:0021251,biolink:Disease,endometrium neoplasm
+EFO:1001109,biolink:Disease,EFO:1001109
+EFO:0001074,biolink:Disease,EFO:0001074
+MONDO:0018875,biolink:Disease,Li-Fraumeni syndrome
+EFO:0007292,biolink:Disease,EFO:0007292
+EFO:0004287,biolink:Disease,EFO:0004287
+MONDO:0003783,biolink:Disease,lymphopenia
+EFO:0000756,biolink:Disease,EFO:0000756
+MONDO:0014048,biolink:Disease,Cowden syndrome 6
+MONDO:0016642,biolink:Disease,meningioma
+MONDO:0005575,biolink:Disease,colorectal cancer
+MONDO:0015674,biolink:Disease,late infantile neuronal ceroid lipofuscinosis
+MONDO:0015459,biolink:Disease,nasopharyngeal carcinoma
+EFO:0001075,biolink:Disease,EFO:0001075
+Orphanet:88643,biolink:Disease,Orphanet:88643
+OBA:VT0001253,biolink:Disease,OBA:VT0001253
+EFO:0004517,biolink:Disease,EFO:0004517
+MONDO:0009629,biolink:Disease,Desbuquois dysplasia 1
+EFO:0005225,biolink:Disease,EFO:0005225
+EFO:0002503,biolink:Disease,EFO:0002503
+EFO:1001475,biolink:Disease,EFO:1001475
+EFO:0022254,biolink:Disease,EFO:0022254
+EFO:0007986,biolink:Disease,EFO:0007986
+HP:0003074,biolink:Disease,HP:0003074
+EFO:0005407,biolink:Disease,EFO:0005407
+MONDO:0008921,biolink:Disease,carnosinemia
+Orphanet:2278,biolink:Disease,Orphanet:2278
+EFO:0005622,biolink:Disease,EFO:0005622
+MONDO:0018899,biolink:Disease,posterior cortical atrophy
+MONDO:0012725,biolink:Disease,lipoprotein glomerulopathy
+EFO:0001668,biolink:Disease,EFO:0001668
+EFO:0000222,biolink:Disease,EFO:0000222
+EFO:0005241,biolink:Disease,EFO:0005241
+EFO:0000349,biolink:Disease,EFO:0000349
+MONDO:0007152,biolink:Disease,arrhythmogenic right ventricular dysplasia 1
+HP:0003073,biolink:Disease,HP:0003073
+EFO:0000769,biolink:Disease,EFO:0000769
+HP:0011675,biolink:Disease,HP:0011675
+EFO:0003855,biolink:Disease,EFO:0003855
+EFO:0001064,biolink:Disease,EFO:0001064
+MONDO:0002257,biolink:Disease,ankylosis
+EFO:0009860,biolink:Disease,EFO:0009860
+EFO:0004468,biolink:Disease,EFO:0004468
+EFO:1001469,biolink:Disease,EFO:1001469
+EFO:1001760,biolink:Disease,EFO:1001760
+EFO:0022008,biolink:Disease,EFO:0022008
+MONDO:0016700,biolink:Disease,anaplastic ependymoma
+EFO:0000508,biolink:Disease,EFO:0000508
+EFO:0003966,biolink:Disease,EFO:0003966
+OBA:VT0010046,biolink:Disease,OBA:VT0010046
+MONDO:0010788,biolink:Disease,Leber hereditary optic neuropathy
+HP:0006536,biolink:Disease,HP:0006536
+HP:0001397,biolink:Disease,HP:0001397
+MONDO:0033262,biolink:Disease,nephrotic syndrome 15
+MONDO:0020761,biolink:Disease,Bowen disease of the skin
+MONDO:0045063,biolink:Disease,major salivary gland adenoid cystic carcinoma
+EFO:0801819,biolink:Disease,EFO:0801819
+EFO:0004906,biolink:Disease,EFO:0004906
+MONDO:0008411,biolink:Disease,ulnar-mammary syndrome
+EFO:1000155,biolink:Disease,EFO:1000155
+EFO:0000544,biolink:Disease,EFO:0000544
+OBA:2040646,biolink:Disease,OBA:2040646
+HP:0001952,biolink:Disease,HP:0001952
+MONDO:0042491,biolink:Disease,cervical squamous intraepithelial neoplasia
+MONDO:0012675,biolink:Disease,corticosteroid-binding globulin deficiency
+EFO:1000897,biolink:Disease,EFO:1000897
+EFO:0600064,biolink:Disease,EFO:0600064
+EFO:0004541,biolink:Disease,EFO:0004541
+MONDO:0004892,biolink:Disease,refractive error
+EFO:0007800,biolink:Disease,EFO:0007800
+MONDO:0016761,biolink:Disease,spondyloepiphyseal dysplasia
+MONDO:0014810,biolink:Disease,pancytopenia due to IKZF1 mutations
+EFO:0000685,biolink:Disease,EFO:0000685
+EFO:0009946,biolink:Disease,EFO:0009946
+MONDO:0003036,biolink:Disease,mucoepidermoid carcinoma
+MONDO:0002898,biolink:Disease,skin cancer
+EFO:0010968,biolink:Disease,EFO:0010968
+EFO:0005922,biolink:Disease,EFO:0005922
+EFO:0000464,biolink:Disease,EFO:0000464
+HP:0010992,biolink:Disease,HP:0010992
+EFO:1001436,biolink:Disease,EFO:1001436
+EFO:1001249,biolink:Disease,EFO:1001249
+EFO:0001358,biolink:Disease,EFO:0001358
+MONDO:0018177,biolink:Disease,glioblastoma
+EFO:0000556,biolink:Disease,EFO:0000556
+EFO:1001434,biolink:Disease,EFO:1001434
+EFO:0011052,biolink:Disease,EFO:0011052
+EFO:0000676,biolink:Disease,EFO:0000676
+EFO:0000763,biolink:Disease,EFO:0000763
+MONDO:0008233,biolink:Disease,pheochromocytoma
+MONDO:0009830,biolink:Disease,parkinsonian-pyramidal syndrome
+EFO:0803548,biolink:Disease,EFO:0803548
+MONDO:0017967,biolink:Disease,testicular agenesis
+EFO:0000319,biolink:Disease,EFO:0000319
+MONDO:0019524,biolink:Disease,Bartter syndrome type 4
+EFO:0003898,biolink:Disease,EFO:0003898
+HP:0000356,biolink:Disease,HP:0000356
+Orphanet:276399,biolink:Disease,Orphanet:276399
+MONDO:0020546,biolink:Disease,acute graft versus host disease
+EFO:1000203,biolink:Disease,EFO:1000203
+MONDO:0019402,biolink:Disease,beta thalassemia
+MONDO:0010463,biolink:Disease,"X-linked dominant chondrodysplasia, Chassaing-Lacombe type"
+EFO:0005772,biolink:Disease,EFO:0005772
+MONDO:0005147,biolink:Disease,type 1 diabetes mellitus
+MONDO:0007700,biolink:Disease,hawkinsinuria
+EFO:0001063,biolink:Disease,EFO:0001063
+EFO:0007231,biolink:Disease,EFO:0007231
+OBA:2050096,biolink:Disease,OBA:2050096
+EFO:1000233,biolink:Disease,EFO:1000233
+EFO:1000796,biolink:Disease,EFO:1000796
+EFO:0009589,biolink:Disease,EFO:0009589
+EFO:0000339,biolink:Disease,EFO:0000339
+MONDO:0005148,biolink:Disease,type 2 diabetes mellitus
+EFO:1001857,biolink:Disease,EFO:1001857
+EFO:0003095,biolink:Disease,EFO:0003095
+MONDO:0011456,biolink:Disease,nephronophthisis 3
+MONDO:0003916,biolink:Disease,overnutrition
+MONDO:0015701,biolink:Disease,T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency
+MONDO:0004580,biolink:Disease,retinal degeneration
+EFO:0000313,biolink:Disease,EFO:0000313
+MONDO:0016107,biolink:Disease,myotonic dystrophy
+EFO:0007141,biolink:Disease,EFO:0007141
+MONDO:0100574,biolink:Disease,generalized epilepsy
+EFO:0000432,biolink:Disease,EFO:0000432
+OBA:2041840,biolink:Disease,OBA:2041840
+EFO:0006352,biolink:Disease,EFO:0006352
+EFO:0004528,biolink:Disease,EFO:0004528
+EFO:1000044,biolink:Disease,EFO:1000044
+MONDO:0003825,biolink:Disease,kidney oncocytoma
+EFO:1001034,biolink:Disease,EFO:1001034
+HP:0002135,biolink:Disease,HP:0002135
+EFO:0004239,biolink:Disease,EFO:0004239
+EFO:1000652,biolink:Disease,EFO:1000652
+Orphanet:597,biolink:Disease,Orphanet:597
+MONDO:0012209,biolink:Disease,branchiogenic deafness syndrome
+EFO:0008527,biolink:Disease,EFO:0008527
+MONDO:0012450,biolink:Disease,spinocerebellar ataxia type 28
+MONDO:0013284,biolink:Disease,"immunodeficiency, common variable, 4"
+Orphanet:79478,biolink:Disease,Orphanet:79478
+MONDO:0013427,biolink:Disease,immunodeficiency 31B
+EFO:0022236,biolink:Disease,EFO:0022236
+EFO:0000677,biolink:Disease,EFO:0000677
+EFO:1000359,biolink:Disease,EFO:1000359
+OBA:2045223,biolink:Disease,OBA:2045223
+EFO:1001951,biolink:Disease,EFO:1001951
+MONDO:0009619,biolink:Disease,microcephaly-micromelia syndrome
+EFO:1001904,biolink:Disease,EFO:1001904
+EFO:1001942,biolink:Disease,EFO:1001942
+MONDO:0024280,biolink:Disease,polyarticular arthritis
+MONDO:0011661,biolink:Disease,inflammatory bowel disease 5
+Orphanet:79311,biolink:Disease,Orphanet:79311
+HP:0001732,biolink:Disease,HP:0001732
+EFO:0000712,biolink:Disease,EFO:0000712
+EFO:0007834,biolink:Disease,EFO:0007834
+MONDO:0001999,biolink:Disease,idiopathic pulmonary arterial hypertension
+EFO:1001517,biolink:Disease,EFO:1001517
+EFO:0003894,biolink:Disease,EFO:0003894
+EFO:0009594,biolink:Disease,EFO:0009594
+EFO:1002050,biolink:Disease,EFO:1002050
+MONDO:0014439,biolink:Disease,Bardet-Biedl syndrome 11
+Orphanet:1368,biolink:Disease,Orphanet:1368
+OBA:VT0000047,biolink:Disease,OBA:VT0000047
+MONDO:0007540,biolink:Disease,multiple endocrine neoplasia type 1
+EFO:1001326,biolink:Disease,EFO:1001326
+EFO:0005246,biolink:Disease,EFO:0005246
+EFO:1000229,biolink:Disease,EFO:1000229
+MONDO:0021512,biolink:Disease,benign neoplasm of thymus
+OBA:VT0000217,biolink:Disease,OBA:VT0000217
+MONDO:0002331,biolink:Disease,nephrosis
+Orphanet:101075,biolink:Disease,Orphanet:101075
+EFO:1001836,biolink:Disease,EFO:1001836
+MONDO:0011414,biolink:Disease,Peters anomaly
+MONDO:0030531,biolink:Disease,spermatogenic failure 65
+EFO:0003882,biolink:Disease,EFO:0003882
+MONDO:0018604,biolink:Disease,familial colorectal cancer type X
+EFO:0000734,biolink:Disease,EFO:0000734
+EFO:0005547,biolink:Disease,EFO:0005547
+MONDO:0009426,biolink:Disease,hypoparathyroidism-retardation-dysmorphism syndrome
+MONDO:0018906,biolink:Disease,follicular lymphoma
+EFO:0003839,biolink:Disease,EFO:0003839
+MONDO:0018088,biolink:Disease,familial Mediterranean fever
+EFO:0002687,biolink:Disease,EFO:0002687
+EFO:1001451,biolink:Disease,EFO:1001451
+EFO:0000389,biolink:Disease,EFO:0000389
+EFO:1001047,biolink:Disease,EFO:1001047
+EFO:1000809,biolink:Disease,EFO:1000809
+OBA:VT0015043,biolink:Disease,OBA:VT0015043
+EFO:0005803,biolink:Disease,EFO:0005803
+MONDO:0008231,biolink:Disease,Peyronie disease
+EFO:0004340,biolink:Disease,EFO:0004340
+EFO:0005717,biolink:Disease,EFO:0005717
+MONDO:0100114,biolink:Disease,dry age related macular degeneration
+EFO:0004305,biolink:Disease,EFO:0004305
+MONDO:0016060,biolink:Disease,laryngotracheoesophageal cleft
+MONDO:0100135,biolink:Disease,Dravet syndrome
+EFO:0004718,biolink:Disease,EFO:0004718
+MONDO:0011804,biolink:Disease,autoimmune lymphoproliferative syndrome type 2B
+MONDO:0013615,biolink:Disease,craniosynostosis and dental anomalies
+MONDO:0017317,biolink:Disease,phakomatosis pigmentokeratotica
+EFO:0004289,biolink:Disease,EFO:0004289
+EFO:0005232,biolink:Disease,EFO:0005232
+MONDO:0004985,biolink:Disease,bipolar disorder
+MONDO:0009486,biolink:Disease,autosomal recessive Kenny-Caffey syndrome
+MONDO:0002026,biolink:Disease,candidiasis
+MONDO:0014334,biolink:Disease,severe combined immunodeficiency due to LCK deficiency
+EFO:0002617,biolink:Disease,EFO:0002617
+EFO:1001209,biolink:Disease,EFO:1001209
+MONDO:0044348,biolink:Disease,hemoglobinopathy
+Orphanet:277,biolink:Disease,Orphanet:277
+MONDO:0007389,biolink:Disease,spondylocostal dysostosis 5
+HP:0002032,biolink:Disease,HP:0002032
+EFO:0005773,biolink:Disease,EFO:0005773
+Orphanet:169446,biolink:Disease,Orphanet:169446
+MONDO:0003758,biolink:Disease,childhood testicular germ cell tumor
+MONDO:0014789,biolink:Disease,CCDC115-CDG
+EFO:0009805,biolink:Disease,EFO:0009805
+MONDO:0016381,biolink:Disease,hypertrichosis lanuginosa congenita
+EFO:0006566,biolink:Disease,EFO:0006566
+MONDO:0016294,biolink:Disease,Hirschsprung disease-type D brachydactyly syndrome
+EFO:0002616,biolink:Disease,EFO:0002616
+EFO:0000326,biolink:Disease,EFO:0000326
+EFO:0006340,biolink:Disease,EFO:0006340
+MONDO:0100281,biolink:Disease,"macroglobulinemia, Waldenstrom, 1"
+EFO:0007990,biolink:Disease,EFO:0007990
+EFO:0003884,biolink:Disease,EFO:0003884
+MONDO:0007376,biolink:Disease,fleck corneal dystrophy
+EFO:0006859,biolink:Disease,EFO:0006859
+MONDO:0008618,biolink:Disease,"mesomelic dwarfism, Reinhardt-Pfeiffer type"
+MONDO:0024540,biolink:Disease,Jervell and Lange-Nielsen syndrome 1
+HP:0012115,biolink:Disease,HP:0012115
+OBA:VT0005416,biolink:Disease,OBA:VT0005416
+EFO:0009449,biolink:Disease,EFO:0009449
+MONDO:0018945,biolink:Disease,XK-related neurodegenerative disease
+MONDO:0011569,biolink:Disease,Charcot-Marie-Tooth disease type 2B1
+OBA:2050062,biolink:Disease,OBA:2050062
+MONDO:0017349,biolink:Disease,myopericytoma
+Orphanet:585,biolink:Disease,Orphanet:585
+EFO:0005207,biolink:Disease,EFO:0005207
+EFO:0009708,biolink:Disease,EFO:0009708
+EFO:0004247,biolink:Disease,EFO:0004247
+EFO:0000729,biolink:Disease,EFO:0000729
+MONDO:0016558,biolink:Disease,familial congenital mirror movements
+EFO:0007405,biolink:Disease,EFO:0007405
+HP:0100582,biolink:Disease,HP:0100582
+EFO:1001176,biolink:Disease,EFO:1001176
+EFO:0000612,biolink:Disease,EFO:0000612
+EFO:0000095,biolink:Disease,EFO:0000095
+OBA:0004528,biolink:Disease,OBA:0004528
+MONDO:0100319,biolink:Disease,COVID-19–associated multisystem inflammatory syndrome in adults
+HP:0040270,biolink:Disease,HP:0040270
+EFO:0003888,biolink:Disease,EFO:0003888
+EFO:1001312,biolink:Disease,EFO:1001312
+MONDO:0009872,biolink:Disease,Bjornstad syndrome
+EFO:1000478,biolink:Disease,EFO:1000478
+MONDO:0001134,biolink:Disease,essential hypertension
+MONDO:0014172,biolink:Disease,spermatogenic failure 12
+EFO:0004509,biolink:Disease,EFO:0004509
+MONDO:0008982,biolink:Disease,central areolar choroidal dystrophy
+EFO:0001378,biolink:Disease,EFO:0001378
+EFO:0007540,biolink:Disease,EFO:0007540
+EFO:0801555,biolink:Disease,EFO:0801555
+EFO:0022337,biolink:Disease,EFO:0022337
+MONDO:0033554,biolink:Disease,immunodeficiency 73b with defective neutrophil chemotaxis and lymphopenia
+EFO:1001927,biolink:Disease,EFO:1001927
+EFO:0009071,biolink:Disease,EFO:0009071
+EFO:0003029,biolink:Disease,EFO:0003029
+MONDO:0014137,biolink:Disease,"precocious puberty, central, 2"
+MONDO:0009655,biolink:Disease,mucopolysaccharidosis type 3A
+MONDO:0008903,biolink:Disease,lung cancer
+EFO:0001663,biolink:Disease,EFO:0001663
+EFO:0004288,biolink:Disease,EFO:0004288
+EFO:0007328,biolink:Disease,EFO:0007328
+MONDO:0008521,biolink:Disease,tarsal-carpal coalition syndrome
+MONDO:0019736,biolink:Disease,dense deposit disease
+EFO:0003769,biolink:Disease,EFO:0003769
+HP:0000739,biolink:Disease,HP:0000739
+EFO:0004462,biolink:Disease,EFO:0004462
+EFO:0010642,biolink:Disease,EFO:0010642
+MONDO:0007340,biolink:Disease,cleidocranial dysplasia 1
+EFO:0004265,biolink:Disease,EFO:0004265
+MONDO:0021355,biolink:Disease,neoplasm of esophagus
+EFO:0007456,biolink:Disease,EFO:0007456
+EFO:1000116,biolink:Disease,EFO:1000116
+MONDO:0009901,biolink:Disease,Bartsocas-Papas syndrome 1
+MONDO:0007888,biolink:Disease,hereditary leiomyomatosis and renal cell cancer
+EFO:0000708,biolink:Disease,EFO:0000708
+MONDO:0015300,biolink:Disease,cataract - microcornea syndrome
+EFO:0000681,biolink:Disease,EFO:0000681
+EFO:0003100,biolink:Disease,EFO:0003100
+EFO:0006834,biolink:Disease,EFO:0006834
+EFO:0003762,biolink:Disease,EFO:0003762
+MONDO:0800195,biolink:Disease,achalasia-alacrima syndrome
+EFO:0005815,biolink:Disease,EFO:0005815
+MONDO:0016683,biolink:Disease,gliomatosis cerebri
+HP:0001250,biolink:Disease,HP:0001250
+EFO:0003014,biolink:Disease,EFO:0003014
+MONDO:0020121,biolink:Disease,muscular dystrophy
+MONDO:0016525,biolink:Disease,familial hyperaldosteronism
+EFO:1000619,biolink:Disease,EFO:1000619
+EFO:0004346,biolink:Disease,EFO:0004346
+EFO:0004152,biolink:Disease,EFO:0004152
+EFO:0005802,biolink:Disease,EFO:0005802
+MONDO:0007987,biolink:Disease,Kniest dysplasia
+MONDO:0019202,biolink:Disease,myxofibrosarcoma
+EFO:1000636,biolink:Disease,EFO:1000636
+EFO:0000699,biolink:Disease,EFO:0000699
+MONDO:0002907,biolink:Disease,intracranial thrombosis
+EFO:0022145,biolink:Disease,EFO:0022145
+MONDO:0017400,biolink:Disease,hypoplastic pancreas-intestinal atresia-hypoplastic gallbalder syndrome
+EFO:0021897,biolink:Disease,EFO:0021897
+MONDO:0014403,biolink:Disease,short stature due to GHSR deficiency
+EFO:0010266,biolink:Disease,EFO:0010266
+MONDO:0007573,biolink:Disease,"erythroleukemia, familial, susceptibility to"
+MONDO:0017979,biolink:Disease,autoimmune lymphoproliferative syndrome
+EFO:1002048,biolink:Disease,EFO:1002048
+MONDO:0007635,biolink:Disease,Frasier syndrome
+OBA:2043190,biolink:Disease,OBA:2043190
+EFO:0000760,biolink:Disease,EFO:0000760
+EFO:0000186,biolink:Disease,EFO:0000186
+EFO:0002623,biolink:Disease,EFO:0002623
+EFO:1000172,biolink:Disease,EFO:1000172
+EFO:1001467,biolink:Disease,EFO:1001467
+EFO:0803382,biolink:Disease,EFO:0803382
+MONDO:0018075,biolink:Disease,neural tube defect
+MONDO:0004557,biolink:Disease,congenital fibrosarcoma
+EFO:0022238,biolink:Disease,EFO:0022238
+EFO:1000485,biolink:Disease,EFO:1000485
+EFO:1001875,biolink:Disease,EFO:1001875
+EFO:1000627,biolink:Disease,EFO:1000627
+EFO:0004911,biolink:Disease,EFO:0004911
+MONDO:0002025,biolink:Disease,psychiatric disorder
+HP:0001300,biolink:Disease,HP:0001300
+MONDO:0970943,biolink:Disease,"spermatogenic failure, X-linked, 8"
+EFO:1000156,biolink:Disease,EFO:1000156
+MONDO:0008840,biolink:Disease,ataxia telangiectasia
+MONDO:0008073,biolink:Disease,familial juvenile hyperuricemic nephropathy type 1
+HP:0001822,biolink:Disease,HP:0001822
+EFO:0000309,biolink:Disease,EFO:0000309
+HP:0002315,biolink:Disease,HP:0002315
+EFO:0000512,biolink:Disease,EFO:0000512
+MONDO:0005277,biolink:Disease,migraine disorder
+EFO:1001078,biolink:Disease,EFO:1001078
+EFO:0000519,biolink:Disease,EFO:0000519
+EFO:0005537,biolink:Disease,EFO:0005537
+Orphanet:69076,biolink:Disease,Orphanet:69076
+EFO:1000417,biolink:Disease,EFO:1000417
+EFO:1000727,biolink:Disease,EFO:1000727
+EFO:0007344,biolink:Disease,EFO:0007344
+HP:0003040,biolink:Disease,HP:0003040
+Orphanet:1334,biolink:Disease,Orphanet:1334
+MONDO:0014550,biolink:Disease,long QT syndrome 15
+MONDO:0005351,biolink:Disease,anorexia nervosa
+EFO:0010681,biolink:Disease,EFO:0010681
+MONDO:0002120,biolink:Disease,neuroendocrine carcinoma
+EFO:0007494,biolink:Disease,EFO:0007494
+MONDO:0001149,biolink:Disease,microcephaly
+EFO:1000601,biolink:Disease,EFO:1000601
+Orphanet:85199,biolink:Disease,Orphanet:85199
+MONDO:0021117,biolink:Disease,lung neoplasm
+EFO:1001219,biolink:Disease,EFO:1001219
+EFO:0003770,biolink:Disease,EFO:0003770
+EFO:0004259,biolink:Disease,EFO:0004259
+MONDO:0009239,biolink:Disease,hypogonadotropic hypogonadism 24 without anosmia
+EFO:0003768,biolink:Disease,EFO:0003768
+EFO:0001066,biolink:Disease,EFO:0001066
+MONDO:0018531,biolink:Disease,carcinoma of liver and intrahepatic biliary tract
+EFO:0009606,biolink:Disease,EFO:0009606
+MONDO:0019145,biolink:Disease,hereditary thrombophilia due to congenital protein C deficiency
+MONDO:0008380,biolink:Disease,retinoblastoma
+EFO:0801229,biolink:Disease,EFO:0801229
+EFO:1000566,biolink:Disease,EFO:1000566
+EFO:0007132,biolink:Disease,EFO:0007132
+EFO:0006792,biolink:Disease,EFO:0006792
+MONDO:0007142,biolink:Disease,Townes-Brocks syndrome
+HP:0100543,biolink:Disease,HP:0100543
+MONDO:0021086,biolink:Disease,gingival neoplasm
+EFO:0003086,biolink:Disease,EFO:0003086
+MONDO:0014491,biolink:Disease,immunodeficiency 37
+EFO:0022293,biolink:Disease,EFO:0022293
+MONDO:0016168,biolink:Disease,cryopyrin-associated periodic syndrome
+MONDO:0013960,biolink:Disease,sinoatrial node dysfunction and deafness
+MONDO:0044925,biolink:Disease,oral cavity carcinoma
+MONDO:0002462,biolink:Disease,glomerulonephritis
+EFO:0022335,biolink:Disease,EFO:0022335
+MONDO:0018079,biolink:Disease,thymic epithelial neoplasm
+HP:0000855,biolink:Disease,HP:0000855
+MONDO:0001657,biolink:Disease,brain cancer
+EFO:1001496,biolink:Disease,EFO:1001496
+EFO:0005319,biolink:Disease,EFO:0005319
+EFO:0003047,biolink:Disease,EFO:0003047
+MONDO:0044635,biolink:Disease,DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome
+EFO:0003948,biolink:Disease,EFO:0003948
+HP:0003419,biolink:Disease,HP:0003419
+EFO:0006527,biolink:Disease,EFO:0006527
+MONDO:0100316,biolink:Disease,long QT syndrome 1
+Orphanet:2484,biolink:Disease,Orphanet:2484
+MONDO:0007915,biolink:Disease,systemic lupus erythematosus
+MONDO:0100096,biolink:Disease,COVID-19
+MONDO:0013561,biolink:Disease,"chondrodysplasia with joint dislocations, gPAPP type"
+EFO:0004138,biolink:Disease,EFO:0004138
+EFO:0005545,biolink:Disease,EFO:0005545
+MONDO:0007817,biolink:Disease,"IgE responsiveness, atopic"
+MONDO:0014472,biolink:Disease,periodic fever-infantile enterocolitis-autoinflammatory syndrome
+MONDO:0004979,biolink:Disease,asthma
+MONDO:0011904,biolink:Disease,"seizures, benign familial infantile, 3"
+EFO:1001391,biolink:Disease,EFO:1001391
+EFO:0800672,biolink:Disease,EFO:0800672
+EFO:0005612,biolink:Disease,EFO:0005612
+EFO:0000478,biolink:Disease,EFO:0000478
+MONDO:0002630,biolink:Disease,small cell osteogenic sarcoma
+EFO:1001950,biolink:Disease,EFO:1001950
+EFO:0000495,biolink:Disease,EFO:0000495
+MONDO:0017904,biolink:Disease,steroid dehydrogenase deficiency-dental anomalies syndrome
+EFO:0003877,biolink:Disease,EFO:0003877
+EFO:0000178,biolink:Disease,EFO:0000178
+MONDO:0005053,biolink:Disease,ischemic disease
+MONDO:0008021,biolink:Disease,Cowden syndrome 1
+EFO:0005297,biolink:Disease,EFO:0005297
+MONDO:0009588,biolink:Disease,Langer mesomelic dysplasia
+Orphanet:79293,biolink:Disease,Orphanet:79293
+MONDO:0007576,biolink:Disease,esophageal cancer
+EFO:1001996,biolink:Disease,EFO:1001996
+MONDO:0002529,biolink:Disease,skin squamous cell carcinoma
+MONDO:0009597,biolink:Disease,"metaphyseal chondrodysplasia, Spahr type"
+MONDO:0018653,biolink:Disease,Polymerase proofreading-related adenomatous polyposis
+EFO:0022280,biolink:Disease,EFO:0022280
+EFO:1000388,biolink:Disease,EFO:1000388
+EFO:1000783,biolink:Disease,EFO:1000783
+MONDO:0018479,biolink:Disease,congenital adrenal hyperplasia
+MONDO:0016643,biolink:Disease,frontonasal dysplasia
+EFO:0003869,biolink:Disease,EFO:0003869
+MONDO:0010200,biolink:Disease,Wilson disease
+MONDO:0030602,biolink:Disease,Klebsiella pneumonia
+MONDO:0018948,biolink:Disease,multiminicore myopathy
+MONDO:0009903,biolink:Disease,postaxial acrofacial dysostosis
+EFO:0000701,biolink:Disease,EFO:0000701
+EFO:0009842,biolink:Disease,EFO:0009842
+EFO:0009518,biolink:Disease,EFO:0009518
+MONDO:0008173,biolink:Disease,pachyonychia congenita 1
+MP:0001845,biolink:Disease,MP:0001845
+EFO:0004784,biolink:Disease,EFO:0004784
+MONDO:0041052,biolink:Disease,postherpetic neuralgia
+MONDO:0010011,biolink:Disease,schizencephaly
+EFO:0008591,biolink:Disease,EFO:0008591
+EFO:0001065,biolink:Disease,EFO:0001065
+EFO:0000540,biolink:Disease,EFO:0000540
+MONDO:0002367,biolink:Disease,kidney cancer
+EFO:0000691,biolink:Disease,EFO:0000691
+MONDO:0032805,biolink:Disease,"hypopigmentation, organomegaly, and delayed myelination and development"
+Orphanet:1068,biolink:Disease,Orphanet:1068
+EFO:0000209,biolink:Disease,EFO:0000209
+MONDO:0007079,biolink:Disease,alcohol dependence
+MONDO:0013826,biolink:Disease,autosomal recessive nonsyndromic hearing loss 86
+MONDO:0020593,biolink:Disease,trichoblastoma
+EFO:0009448,biolink:Disease,EFO:0009448
+EFO:1001068,biolink:Disease,EFO:1001068
+EFO:0001061,biolink:Disease,EFO:0001061
+EFO:1000784,biolink:Disease,EFO:1000784
+EFO:0003865,biolink:Disease,EFO:0003865
+EFO:0006812,biolink:Disease,EFO:0006812
+EFO:0009756,biolink:Disease,EFO:0009756
+MONDO:0001336,biolink:Disease,familial hyperlipidemia
+EFO:0003891,biolink:Disease,EFO:0003891
+EFO:0000616,biolink:Disease,EFO:0000616
+EFO:0004986,biolink:Disease,EFO:0004986
+EFO:0000641,biolink:Disease,EFO:0000641
+EFO:1001961,biolink:Disease,EFO:1001961
+MONDO:0001751,biolink:Disease,cholestasis
+MONDO:0013518,biolink:Disease,"pituitary hormone deficiency, combined, 6"
+MONDO:0030938,biolink:Disease,spermatogenic failure 52
+EFO:0005540,biolink:Disease,EFO:0005540
+MONDO:0009805,biolink:Disease,osteogenesis imperfecta type 9
+EFO:0000707,biolink:Disease,EFO:0000707
+EFO:0022173,biolink:Disease,EFO:0022173
+EFO:1000368,biolink:Disease,EFO:1000368
+EFO:0003900,biolink:Disease,EFO:0003900
+Orphanet:228337,biolink:Disease,Orphanet:228337
+EFO:1001031,biolink:Disease,EFO:1001031
+Orphanet:383,biolink:Disease,Orphanet:383
+EFO:1001514,biolink:Disease,EFO:1001514
+MONDO:0019438,biolink:Disease,AL amyloidosis
+MONDO:0014981,biolink:Disease,immunodeficiency 49
+EFO:0003777,biolink:Disease,EFO:0003777
+EFO:0004533,biolink:Disease,EFO:0004533
+MONDO:0971173,biolink:Disease,autoinflammation with arthritis and vasculitis
+MONDO:0032714,biolink:Disease,"facial dysmorphism, hypertrichosis, epilepsy, intellectual/developmental delay, and gingival overgrowth syndrome"
+EFO:0004527,biolink:Disease,EFO:0004527
+EFO:0009373,biolink:Disease,EFO:0009373
+EFO:0004145,biolink:Disease,EFO:0004145
+MONDO:0003334,biolink:Disease,demyelinating polyneuropathy
+MONDO:0021259,biolink:Disease,prostate neoplasm
+MONDO:0005475,biolink:Disease,migraine with aura
+MONDO:0043579,biolink:Disease,enteritis
+MONDO:0957572,biolink:Disease,thrombocytopenia 9
+EFO:0004875,biolink:Disease,EFO:0004875
+MONDO:0100234,biolink:Disease,paroxysmal familial ventricular fibrillation
+EFO:0004208,biolink:Disease,EFO:0004208
+HP:0010783,biolink:Disease,HP:0010783
+MONDO:0013730,biolink:Disease,graft versus host disease
+EFO:0003921,biolink:Disease,EFO:0003921
+OBA:2041267,biolink:Disease,OBA:2041267
+EFO:0009614,biolink:Disease,EFO:0009614
+EFO:0700022,biolink:Disease,EFO:0700022
+MONDO:0019192,biolink:Disease,AKT2-related familial partial lipodystrophy
+EFO:1000453,biolink:Disease,EFO:1000453
+MONDO:0005784,biolink:Disease,hantavirus hemorrhagic fever with renal syndrome
+HP:0001394,biolink:Disease,HP:0001394
+MONDO:0014054,biolink:Disease,lymphoproliferative syndrome 2
+MONDO:0008222,biolink:Disease,Andersen-Tawil syndrome
+EFO:0009964,biolink:Disease,EFO:0009964
+MONDO:0003079,biolink:Disease,mastocytoma
+EFO:1000307,biolink:Disease,EFO:1000307
+EFO:0000181,biolink:Disease,EFO:0000181
+MONDO:0019098,biolink:Disease,autoimmune thrombocytopenia
+HP:0005359,biolink:Disease,HP:0005359
+EFO:0003060,biolink:Disease,EFO:0003060
+MONDO:0044212,biolink:Disease,chronic idiopathic urticaria
+EFO:0003099,biolink:Disease,EFO:0003099
+EFO:0022233,biolink:Disease,EFO:0022233
+EFO:0008511,biolink:Disease,EFO:0008511
+EFO:1000992,biolink:Disease,EFO:1000992
+MONDO:0016047,biolink:Disease,endophthalmitis
+EFO:0000565,biolink:Disease,EFO:0000565
+MONDO:0000521,biolink:Disease,salivary gland carcinoma
+HP:0002119,biolink:Disease,HP:0002119
+EFO:1001129,biolink:Disease,EFO:1001129
+MONDO:0100233,biolink:Disease,long COVID-19
+MONDO:0007834,biolink:Disease,islet cell adenomatosis
+MONDO:0008300,biolink:Disease,Prader-Willi syndrome
+EFO:0000662,biolink:Disease,EFO:0000662
+EFO:0005687,biolink:Disease,EFO:0005687
+MONDO:0015168,biolink:Disease,arthrogryposis multiplex congenita
+EFO:0007444,biolink:Disease,EFO:0007444
+MONDO:0016394,biolink:Disease,sporadic infantile bilateral striatal necrosis
+MONDO:0026722,biolink:Disease,Mullegama-Klein-Martinez syndrome
+EFO:0004286,biolink:Disease,EFO:0004286
+EFO:0000500,biolink:Disease,EFO:0000500
+Orphanet:2435,biolink:Disease,Orphanet:2435
+EFO:1001028,biolink:Disease,EFO:1001028
+EFO:0004335,biolink:Disease,EFO:0004335
+MONDO:0024662,biolink:Disease,colorectal tubulovillous adenoma
+MONDO:0971001,biolink:Disease,immunodeficiency 121 with autoinflammation
+MONDO:0017596,biolink:Disease,diffuse large B-cell lymphoma of the central nervous system
+MONDO:0100330,biolink:Disease,disease arising from reactivation of latent virus
+MONDO:0004782,biolink:Disease,diabetes insipidus
+EFO:0004612,biolink:Disease,EFO:0004612
+EFO:0007160,biolink:Disease,EFO:0007160
+MONDO:0019797,biolink:Disease,acrodysostosis
+MONDO:0018896,biolink:Disease,thrombotic thrombocytopenic purpura
+MONDO:0004355,biolink:Disease,childhood leukemia
+MONDO:0016471,biolink:Disease,pachyonychia congenita
+EFO:1000581,biolink:Disease,EFO:1000581
+EFO:1000262,biolink:Disease,EFO:1000262
+HP:0040223,biolink:Disease,HP:0040223
+EFO:1001418,biolink:Disease,EFO:1001418
+HP:0000975,biolink:Disease,HP:0000975
+EFO:0009429,biolink:Disease,EFO:0009429
+MONDO:0010662,biolink:Disease,paraplegia-intellectual disability-hyperkeratosis syndrome
+MONDO:0008493,biolink:Disease,overhydrated hereditary stomatocytosis
+EFO:1000045,biolink:Disease,EFO:1000045
+Orphanet:91088,biolink:Disease,Orphanet:91088
+EFO:0007944,biolink:Disease,EFO:0007944
+MONDO:0007295,biolink:Disease,self-limited epilepsy with centrotemporal spikes
+EFO:1000802,biolink:Disease,EFO:1000802
+EFO:0000278,biolink:Disease,EFO:0000278
+MONDO:0024647,biolink:Disease,urolithiasis
+EFO:0000569,biolink:Disease,EFO:0000569
+OBA:2044852,biolink:Disease,OBA:2044852
+MONDO:0054727,biolink:Disease,spermatogenic failure 23
+MONDO:0007113,biolink:Disease,Angelman syndrome
+EFO:0010925,biolink:Disease,EFO:0010925
+EFO:0003096,biolink:Disease,EFO:0003096
+HP:0012207,biolink:Disease,HP:0012207
+MONDO:0014300,biolink:Disease,proximal myopathy with extrapyramidal signs
+MONDO:0970993,biolink:Disease,immunodeficiency 119
+MONDO:0021104,biolink:Disease,alcoholic fatty liver disease
+MONDO:0007473,biolink:Disease,Duane retraction syndrome
+EFO:0700134,biolink:Disease,EFO:0700134
+Orphanet:1113,biolink:Disease,Orphanet:1113
+EFO:1001309,biolink:Disease,EFO:1001309
+MONDO:0014118,biolink:Disease,congenital neutropenia-myelofibrosis-nephromegaly syndrome
+EFO:0004833,biolink:Disease,EFO:0004833
+EFO:0004197,biolink:Disease,EFO:0004197
+MONDO:0016305,biolink:Disease,atypical pantothenate kinase-associated neurodegeneration
+EFO:1000223,biolink:Disease,EFO:1000223
+MONDO:0060507,biolink:Disease,retinal dystrophy with or without macular staphyloma
+OBA:2050068,biolink:Disease,OBA:2050068
+Orphanet:183539,biolink:Disease,Orphanet:183539
+MONDO:0007367,biolink:Disease,"febrile seizures, familial, 1"
+EFO:0000182,biolink:Disease,EFO:0000182
+EFO:0000684,biolink:Disease,EFO:0000684
+MONDO:0004784,biolink:Disease,allergic asthma
+MONDO:0008185,biolink:Disease,hereditary chronic pancreatitis
+EFO:1000999,biolink:Disease,EFO:1000999
+EFO:0009455,biolink:Disease,EFO:0009455
+EFO:0002610,biolink:Disease,EFO:0002610
+EFO:1000653,biolink:Disease,EFO:1000653
+EFO:0000574,biolink:Disease,EFO:0000574
+EFO:1000906,biolink:Disease,EFO:1000906
+MONDO:0016216,biolink:Disease,adult hepatocellular carcinoma
+MONDO:0019068,biolink:Disease,congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization
+EFO:0000588,biolink:Disease,EFO:0000588
+EFO:0010922,biolink:Disease,EFO:0010922
+MONDO:0018975,biolink:Disease,neurofibromatosis type 1
+OBA:0004561,biolink:Disease,OBA:0004561
+EFO:0004274,biolink:Disease,EFO:0004274
+EFO:0003859,biolink:Disease,EFO:0003859
+EFO:0003758,biolink:Disease,EFO:0003758
+MONDO:0003001,biolink:Disease,seminoma
+EFO:0000224,biolink:Disease,EFO:0000224
+EFO:0004587,biolink:Disease,EFO:0004587
+EFO:0006922,biolink:Disease,EFO:0006922
+EFO:1001463,biolink:Disease,EFO:1001463
+EFO:0005543,biolink:Disease,EFO:0005543
+EFO:0007536,biolink:Disease,EFO:0007536
+MONDO:0032696,biolink:Disease,oocyte maturation defect 6
+MONDO:0013291,biolink:Disease,glycogen storage disease XV
+MONDO:0958006,biolink:Disease,"spondyloepimetaphyseal dysplasia, Guo-Campeau type"
+EFO:0004980,biolink:Disease,EFO:0004980
+EFO:0003834,biolink:Disease,EFO:0003834
+EFO:0000096,biolink:Disease,EFO:0000096
+MONDO:0007705,biolink:Disease,Heinz body anemia
+EFO:0001067,biolink:Disease,EFO:0001067
+EFO:0000275,biolink:Disease,EFO:0000275
+EFO:1000961,biolink:Disease,EFO:1000961
+MONDO:0002708,biolink:Disease,retinitis
+MONDO:0013410,biolink:Disease,"46,XY sex reversal 6"
+EFO:1001938,biolink:Disease,EFO:1001938
+EFO:0004610,biolink:Disease,EFO:0004610
+MONDO:0032766,biolink:Disease,"hypoalphalipoproteinemia, primary, 2"
+Orphanet:93357,biolink:Disease,Orphanet:93357
+MONDO:0034054,biolink:Disease,severe combined immunodeficiency due to CD70 deficiency
+EFO:0007216,biolink:Disease,EFO:0007216
+MONDO:0020640,biolink:Disease,autoimmune encephalitis
+Orphanet:3217,biolink:Disease,Orphanet:3217
+MONDO:0054730,biolink:Disease,spermatogenic failure 26
+EFO:0004198,biolink:Disease,EFO:0004198
+EFO:1001516,biolink:Disease,EFO:1001516
+EFO:0003780,biolink:Disease,EFO:0003780
+HP:0012393,biolink:Disease,HP:0012393
+EFO:0009706,biolink:Disease,EFO:0009706
+MONDO:0001475,biolink:Disease,neutropenia
+MONDO:0010066,biolink:Disease,familial isolated congenital asplenia
+EFO:0004348,biolink:Disease,EFO:0004348
+Orphanet:263297,biolink:Disease,Orphanet:263297
+MONDO:0009676,biolink:Disease,autosomal recessive limb-girdle muscular dystrophy type 2B
+EFO:0007991,biolink:Disease,EFO:0007991
+MONDO:0015229,biolink:Disease,Bardet-Biedl syndrome
+MONDO:0007947,biolink:Disease,Marfan syndrome
+HP:0004418,biolink:Disease,HP:0004418
+MONDO:0004126,biolink:Disease,thyroiditis
+HP:0005180,biolink:Disease,HP:0005180
+MONDO:0015667,biolink:Disease,acute myeloid leukemia by FAB classification
+MONDO:0008810,biolink:Disease,familial apolipoprotein C-II deficiency
+MONDO:0007686,biolink:Disease,gray platelet syndrome
+EFO:0003968,biolink:Disease,EFO:0003968
+MONDO:0014851,biolink:Disease,"hypercalcemia, infantile, 2"
+HP:0031678,biolink:Disease,HP:0031678
+HP:0001643,biolink:Disease,HP:0001643
+EFO:0009430,biolink:Disease,EFO:0009430
+EFO:0000228,biolink:Disease,EFO:0000228
+EFO:0003763,biolink:Disease,EFO:0003763
+EFO:0010369,biolink:Disease,EFO:0010369
+EFO:0008501,biolink:Disease,EFO:0008501
+MONDO:0009582,biolink:Disease,Mietens syndrome
+EFO:0001361,biolink:Disease,EFO:0001361
+EFO:0000775,biolink:Disease,EFO:0000775
+EFO:1000024,biolink:Disease,EFO:1000024
+MONDO:0013758,biolink:Disease,Charcot-Marie-Tooth disease dominant intermediate E
+MONDO:0017778,biolink:Disease,lamellar ichthyosis
+MONDO:0010298,biolink:Disease,Lesch-Nyhan syndrome
+EFO:0007517,biolink:Disease,EFO:0007517
+HP:0002411,biolink:Disease,HP:0002411
+MONDO:0004928,biolink:Disease,lymph node disorder
+MONDO:0003024,biolink:Disease,breast angiosarcoma
+EFO:0000499,biolink:Disease,EFO:0000499
+EFO:0003959,biolink:Disease,EFO:0003959
+MONDO:0007732,biolink:Disease,Holt-Oram syndrome
+EFO:0000764,biolink:Disease,EFO:0000764
+HP:0011451,biolink:Disease,HP:0011451
+EFO:1000965,biolink:Disease,EFO:1000965
+EFO:0000474,biolink:Disease,EFO:0000474
+MONDO:0011760,biolink:Disease,Scheie syndrome
+EFO:1001916,biolink:Disease,EFO:1001916
+HP:0012758,biolink:Disease,HP:0012758
+MONDO:0005178,biolink:Disease,osteoarthritis
+Orphanet:404469,biolink:Disease,Orphanet:404469
+MONDO:0001823,biolink:Disease,sick sinus syndrome
+MONDO:0024573,biolink:Disease,familial hypertrophic cardiomyopathy
+Orphanet:891,biolink:Disease,Orphanet:891
+MONDO:0020074,biolink:Disease,progressive myoclonus epilepsy
+EFO:0022267,biolink:Disease,EFO:0022267
+MONDO:0010264,biolink:Disease,X-linked adrenal hypoplasia congenita
+EFO:0002913,biolink:Disease,EFO:0002913
+MONDO:0014621,biolink:Disease,Brugada syndrome 9
+EFO:0009458,biolink:Disease,EFO:0009458
+EFO:0001645,biolink:Disease,EFO:0001645
+EFO:0000239,biolink:Disease,EFO:0000239
+EFO:0004616,biolink:Disease,EFO:0004616
+EFO:0010270,biolink:Disease,EFO:0010270
+MONDO:0010679,biolink:Disease,Duchenne muscular dystrophy
+DOID:7551,biolink:Disease,DOID:7551
+HP:0005528,biolink:Disease,HP:0005528
+HP:0010976,biolink:Disease,HP:0010976
+EFO:0009551,biolink:Disease,EFO:0009551
+HP:0001520,biolink:Disease,HP:0001520
+EFO:0004255,biolink:Disease,EFO:0004255
+MONDO:0019154,biolink:Disease,androgen insensitivity syndrome
+EFO:0009676,biolink:Disease,EFO:0009676
+MONDO:0957981,biolink:Disease,immunodeficiency 115 with autoinflammation
+EFO:1000317,biolink:Disease,EFO:1000317
+EFO:0000341,biolink:Disease,EFO:0000341
+EFO:1000491,biolink:Disease,EFO:1000491
+HP:0003489,biolink:Disease,HP:0003489
+OBA:2045206,biolink:Disease,OBA:2045206
+HP:0100806,biolink:Disease,HP:0100806
+MONDO:0054723,biolink:Disease,spermatogenic failure 19
+MONDO:0037821,biolink:Disease,porphyrin metabolism disease
+EFO:0004696,biolink:Disease,EFO:0004696
+EFO:0002496,biolink:Disease,EFO:0002496
+EFO:1000785,biolink:Disease,EFO:1000785
+EFO:0004235,biolink:Disease,EFO:0004235
+MONDO:0002492,biolink:Disease,acute kidney injury
+EFO:0004842,biolink:Disease,EFO:0004842
+MONDO:0003453,biolink:Disease,conjunctival intraepithelial neoplasm
+MONDO:0001627,biolink:Disease,dementia
+EFO:1001494,biolink:Disease,EFO:1001494
+MONDO:0002358,biolink:Disease,laryngeal carcinoma
+MONDO:0000432,biolink:Disease,lymphoplasmacytic lymphoma
+HP:0001268,biolink:Disease,HP:0001268
+EFO:0004193,biolink:Disease,EFO:0004193
+MONDO:0019917,biolink:Disease,maternal uniparental disomy of chromosome 20
+EFO:0020685,biolink:Disease,EFO:0020685
+MONDO:0009685,biolink:Disease,Miyoshi myopathy
+EFO:0009452,biolink:Disease,EFO:0009452
+MONDO:0002616,biolink:Disease,mesenchymal cell neoplasm
+MONDO:0021192,biolink:Disease,odontogenic neoplasm
+EFO:0004220,biolink:Disease,EFO:0004220
+MONDO:0008038,biolink:Disease,ataxia-pancytopenia syndrome
+MONDO:0000490,biolink:Disease,glomerulosclerosis
+OBA:VT0005265,biolink:Disease,OBA:VT0005265
+MONDO:0002480,biolink:Disease,endometrioid tumor
+HP:0004398,biolink:Disease,HP:0004398
+MONDO:0000771,biolink:Disease,allergic respiratory disease
+MONDO:0007481,biolink:Disease,Leri-Weill dyschondrosteosis
+EFO:1001485,biolink:Disease,EFO:1001485
+EFO:0022159,biolink:Disease,EFO:0022159
+EFO:0011057,biolink:Disease,EFO:0011057
+MONDO:0016006,biolink:Disease,Cockayne syndrome
+MONDO:0015760,biolink:Disease,T-cell non-Hodgkin lymphoma
+EFO:1001351,biolink:Disease,EFO:1001351
+MONDO:0002525,biolink:Disease,inherited lipid metabolism disorder
+HP:0002075,biolink:Disease,HP:0002075
+MONDO:0001572,biolink:Disease,leiomyoma
+EFO:1000789,biolink:Disease,EFO:1000789
+EFO:0010351,biolink:Disease,EFO:0010351
+EFO:0004725,biolink:Disease,EFO:0004725
+EFO:0002618,biolink:Disease,EFO:0002618
+EFO:0004244,biolink:Disease,EFO:0004244
+MONDO:0021248,biolink:Disease,nervous system neoplasm
+MONDO:0007795,biolink:Disease,mullerian duct anomalies-limb anomalies syndrome
+MONDO:0005184,biolink:Disease,pancreatic ductal adenocarcinoma
+EFO:1000680,biolink:Disease,EFO:1000680
+Orphanet:98813,biolink:Disease,Orphanet:98813
+MONDO:0800373,biolink:Disease,carbon monoxide poisoning
+MONDO:0030307,biolink:Disease,spermatogenic failure 55
+MONDO:0008734,biolink:Disease,"adrenocortical carcinoma, hereditary"
+MONDO:0013372,biolink:Disease,long QT syndrome 5
+EFO:0020921,biolink:Disease,EFO:0020921
+EFO:0000719,biolink:Disease,EFO:0000719
+EFO:0022258,biolink:Disease,EFO:0022258
+EFO:0011011,biolink:Disease,EFO:0011011
+HP:0005268,biolink:Disease,HP:0005268
+MONDO:0009833,biolink:Disease,Shwachman-Diamond syndrome
+EFO:0007985,biolink:Disease,EFO:0007985
+EFO:0004309,biolink:Disease,EFO:0004309
+OBA:2042371,biolink:Disease,OBA:2042371
+EFO:1000483,biolink:Disease,EFO:1000483
+MONDO:0010726,biolink:Disease,Rett syndrome
+MONDO:0004975,biolink:Disease,Alzheimer disease
+MONDO:0007309,biolink:Disease,Charcot-Marie-Tooth disease type 1A
+MONDO:0019696,biolink:Disease,acromesomelic dysplasia
+EFO:0009689,biolink:Disease,EFO:0009689
+MONDO:0015974,biolink:Disease,severe combined immunodeficiency
+MONDO:0800043,biolink:Disease,Stüve-Wiedemann syndrome 1
+EFO:0009682,biolink:Disease,EFO:0009682
+MONDO:0013459,biolink:Disease,osteogenesis imperfecta type 10
+EFO:0002608,biolink:Disease,EFO:0002608
+HP:0001395,biolink:Disease,HP:0001395
+MONDO:0007739,biolink:Disease,Huntington disease
+HP:0000539,biolink:Disease,HP:0000539
+EFO:0022322,biolink:Disease,EFO:0022322
+MONDO:0019772,biolink:Disease,blepharospasm-oromandibular dystonia syndrome
+EFO:0022265,biolink:Disease,EFO:0022265
+Orphanet:47,biolink:Disease,Orphanet:47
+EFO:0005761,biolink:Disease,EFO:0005761
+MONDO:0007064,biolink:Disease,"severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency"
+EFO:1001052,biolink:Disease,EFO:1001052
+MONDO:0002814,biolink:Disease,adrenal carcinoma
+HP:0000112,biolink:Disease,HP:0000112
+HP:0002202,biolink:Disease,HP:0002202
+MONDO:0024465,biolink:Disease,"surfactant metabolism dysfunction, pulmonary, 2"
+EFO:1001991,biolink:Disease,EFO:1001991
+EFO:0000621,biolink:Disease,EFO:0000621
+Orphanet:654,biolink:Disease,Orphanet:654
+Orphanet:983,biolink:Disease,Orphanet:983
+MONDO:0005180,biolink:Disease,Parkinson disease
+EFO:0006807,biolink:Disease,EFO:0006807
+EFO:0008546,biolink:Disease,EFO:0008546
+MONDO:0009571,biolink:Disease,"Meckel syndrome, type 1"
+MONDO:0011962,biolink:Disease,endometrial cancer
+MONDO:0000491,biolink:Disease,limb ischemia
+EFO:0920022,biolink:Disease,EFO:0920022
+HP:0002960,biolink:Disease,HP:0002960
+EFO:1000355,biolink:Disease,EFO:1000355
+EFO:0008569,biolink:Disease,EFO:0008569
+EFO:0009188,biolink:Disease,EFO:0009188
+EFO:1000299,biolink:Disease,EFO:1000299
+EFO:1001955,biolink:Disease,EFO:1001955
+MONDO:0002635,biolink:Disease,periodontal disorder
+Orphanet:99750,biolink:Disease,Orphanet:99750
+HP:0002721,biolink:Disease,HP:0002721
+EFO:0003778,biolink:Disease,EFO:0003778
+HP:0011947,biolink:Disease,HP:0011947
+EFO:0004994,biolink:Disease,EFO:0004994
+EFO:0003833,biolink:Disease,EFO:0003833
+EFO:0009646,biolink:Disease,EFO:0009646
+EFO:1000318,biolink:Disease,EFO:1000318
+EFO:0004260,biolink:Disease,EFO:0004260
+EFO:0005952,biolink:Disease,EFO:0005952
+OBA:0003747,biolink:Disease,OBA:0003747
+EFO:0001379,biolink:Disease,EFO:0001379
+EFO:0005287,biolink:Disease,EFO:0005287
+MONDO:0007056,biolink:Disease,acroosteolysis
+EFO:0008509,biolink:Disease,EFO:0008509
+MONDO:0012923,biolink:Disease,congenital generalized lipodystrophy type 3
+EFO:0006888,biolink:Disease,EFO:0006888
+OBA:1000110,biolink:Disease,OBA:1000110
+EFO:0000195,biolink:Disease,EFO:0000195
+Orphanet:2697,biolink:Disease,Orphanet:2697
+HP:0100660,biolink:Disease,HP:0100660
+Orphanet:1788,biolink:Disease,Orphanet:1788
+MONDO:0018321,biolink:Disease,atypical juvenile parkinsonism
+EFO:0005689,biolink:Disease,EFO:0005689
+EFO:0005106,biolink:Disease,EFO:0005106
+EFO:0000649,biolink:Disease,EFO:0000649
+MONDO:0002253,biolink:Disease,spondylosis
+MONDO:0013279,biolink:Disease,long QT syndrome 13
+MONDO:0013318,biolink:Disease,early repolarization associated with ventricular fibrillation
+MONDO:0015746,biolink:Disease,male infertility due to globozoospermia
+MONDO:0011448,biolink:Disease,PPARG-related familial partial lipodystrophy
+MONDO:0019439,biolink:Disease,AA amyloidosis
+MONDO:0021118,biolink:Disease,intestinal neoplasm
+EFO:0004540,biolink:Disease,EFO:0004540
+EFO:0000255,biolink:Disease,EFO:0000255
+MONDO:0008476,biolink:Disease,"spondyloepimetaphyseal dysplasia, Strudwick type"
+Orphanet:30,biolink:Disease,Orphanet:30
+EFO:0009666,biolink:Disease,EFO:0009666
+Orphanet:167,biolink:Disease,Orphanet:167
+EFO:0008583,biolink:Disease,EFO:0008583
+MONDO:0033622,biolink:Disease,spermatogenic failure 44
+EFO:0000668,biolink:Disease,EFO:0000668
+EFO:1001491,biolink:Disease,EFO:1001491
+MONDO:0002050,biolink:Disease,depressive disorder
+EFO:1000263,biolink:Disease,EFO:1000263
+EFO:1000758,biolink:Disease,EFO:1000758
+MONDO:0043479,biolink:Disease,adenoviridae infectious disease
+EFO:0005592,biolink:Disease,EFO:0005592
+MONDO:0020066,biolink:Disease,Ehlers-Danlos syndrome
+MONDO:0009491,biolink:Disease,Haim-Munk syndrome
+MONDO:0009480,biolink:Disease,Joubert syndrome with oculorenal defect
+EFO:0000333,biolink:Disease,EFO:0000333
+MONDO:0030996,biolink:Disease,"bleeding disorder, platelet-type, 24"
+HP:0001987,biolink:Disease,HP:0001987
+EFO:0004710,biolink:Disease,EFO:0004710
+MONDO:0957809,biolink:Disease,"neutropenia, severe congenital, 10, autosomal recessive"
+EFO:0008496,biolink:Disease,EFO:0008496
+Orphanet:758,biolink:Disease,Orphanet:758
+EFO:0005251,biolink:Disease,EFO:0005251
+MONDO:0030925,biolink:Disease,oocyte maturation defect 10
+OBA:2050065,biolink:Disease,OBA:2050065
+EFO:0004254,biolink:Disease,EFO:0004254
+EFO:0009315,biolink:Disease,EFO:0009315
+EFO:0000713,biolink:Disease,EFO:0000713
+EFO:0007789,biolink:Disease,EFO:0007789
+EFO:0022160,biolink:Disease,EFO:0022160
+MONDO:0013044,biolink:Disease,atypical hemolytic-uremic syndrome with thrombomodulin anomaly
+MONDO:0017413,biolink:Disease,Reunion island Larsen syndrome
+MONDO:0033673,biolink:Disease,spermatogenic failure 46
+EFO:0004249,biolink:Disease,EFO:0004249
+EFO:0000555,biolink:Disease,EFO:0000555
+MONDO:0009735,biolink:Disease,Netherton syndrome
+EFO:0001421,biolink:Disease,EFO:0001421
+MONDO:0018237,biolink:Disease,acrofacial dysostosis
+EFO:0004214,biolink:Disease,EFO:0004214
+EFO:1000504,biolink:Disease,EFO:1000504
+MONDO:0015524,biolink:Disease,hyperplastic polyposis syndrome
+OBA:2041446,biolink:Disease,OBA:2041446
+EFO:1001471,biolink:Disease,EFO:1001471
+MONDO:0008708,biolink:Disease,acrocallosal syndrome
+MONDO:0859522,biolink:Disease,spermatogenic failure 81
+HP:0100526,biolink:Disease,HP:0100526
+MONDO:0004301,biolink:Disease,fibrosarcomatous osteosarcoma
+MONDO:0100147,biolink:Disease,SATB2 associated disorder
+MONDO:0021187,biolink:Disease,hyperlipidemia
+EFO:0009885,biolink:Disease,EFO:0009885
+MONDO:0004180,biolink:Disease,benign urinary system neoplasm
+MONDO:0011128,biolink:Disease,Sheldon-hall syndrome
+MONDO:0012859,biolink:Disease,autosomal recessive osteopetrosis 7
+MONDO:0018338,biolink:Disease,activated PI3K-delta syndrome
+OBA:2045560,biolink:Disease,OBA:2045560
+MONDO:0004651,biolink:Disease,smallpox
+MONDO:0020336,biolink:Disease,autosomal dominant Emery-Dreifuss muscular dystrophy
+EFO:0006336,biolink:Disease,EFO:0006336
+EFO:0022157,biolink:Disease,EFO:0022157
+HP:0000842,biolink:Disease,HP:0000842
+EFO:0021900,biolink:Disease,EFO:0021900
+MONDO:0014804,biolink:Disease,sideroblastic anemia 3
+EFO:0022296,biolink:Disease,EFO:0022296
+MONDO:0003519,biolink:Disease,malignant syringoma
+EFO:0009622,biolink:Disease,EFO:0009622
+EFO:0000503,biolink:Disease,EFO:0000503
+MONDO:0022529,biolink:Disease,BK-virus nephropathy
+HP:0002242,biolink:Disease,HP:0002242
+EFO:0800337,biolink:Disease,EFO:0800337
+HP:0001667,biolink:Disease,HP:0001667
+EFO:0004312,biolink:Disease,EFO:0004312
+MONDO:0019391,biolink:Disease,Fanconi anemia
+MONDO:0012657,biolink:Disease,Mungan syndrome
+MONDO:0001291,biolink:Disease,brain compression
+MONDO:0010997,biolink:Disease,"supranuclear palsy, progressive, 1"
+EFO:0005741,biolink:Disease,EFO:0005741
+EFO:0000183,biolink:Disease,EFO:0000183
+EFO:0004209,biolink:Disease,EFO:0004209
+EFO:0001062,biolink:Disease,EFO:0001062
+EFO:0920024,biolink:Disease,EFO:0920024
+MONDO:0030506,biolink:Disease,ovarian dysgenesis 9
+EFO:0010623,biolink:Disease,EFO:0010623
+MONDO:0021945,biolink:Disease,hearing disorder
+MONDO:0010580,biolink:Disease,immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome
+EFO:1000218,biolink:Disease,EFO:1000218
+EFO:0009783,biolink:Disease,EFO:0009783
+MONDO:0011182,biolink:Disease,trimethylaminuria
+MONDO:0010302,biolink:Disease,Ito hypomelanosis
+Orphanet:332,biolink:Disease,Orphanet:332
+EFO:0003811,biolink:Disease,EFO:0003811
+EFO:1000391,biolink:Disease,EFO:1000391
+EFO:0009003,biolink:Disease,EFO:0009003
+MONDO:0011717,biolink:Disease,hyperinsulinism-hyperammonemia syndrome
+MONDO:0004737,biolink:Disease,homocystinuria
+MONDO:0015540,biolink:Disease,hemophagocytic syndrome
+Orphanet:100,biolink:Disease,Orphanet:100
+EFO:0006835,biolink:Disease,EFO:0006835
+MONDO:0019472,biolink:Disease,extranodal nasal NK/T cell lymphoma
+EFO:0022154,biolink:Disease,EFO:0022154
+EFO:0004838,biolink:Disease,EFO:0004838
+MONDO:0002041,biolink:Disease,fungal infectious disease
+MONDO:0011988,biolink:Disease,neutrophil immunodeficiency syndrome
+EFO:0022326,biolink:Disease,EFO:0022326
+HP:0012531,biolink:Disease,HP:0012531
+MONDO:0010444,biolink:Disease,X-linked dyserythropoetic anemia with abnormal platelets and neutropenia
+EFO:0000551,biolink:Disease,EFO:0000551
+HP:0001410,biolink:Disease,HP:0001410
+HP:0032252,biolink:Disease,HP:0032252
+EFO:1000613,biolink:Disease,EFO:1000613

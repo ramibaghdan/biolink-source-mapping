@@ -1,0 +1,4 @@
+source_type,biolink_category,id_prefix,notes
+gene,biolink:Gene,NCBIGene,"DGIdb genes arrive as symbols; normalized to NCBIGene via the HGNC map. Open Targets genes arrive as Ensembl IDs and are reconciled to the same gene through HGNC."
+drug,biolink:ChemicalEntity,,"DGIdb drugs arrive as names with no stable identifier in the sample; kept as name-keyed nodes. A production version would resolve to CHEBI or RxNorm. See mapping_decisions.md."
+disease,biolink:Disease,,"Open Targets disease IDs arrive in mixed prefixes (EFO, MONDO, DOID, Orphanet, OTAR). Underscores are converted to colons and each disease keeps its original ontology CURIE, which Biolink permits. Single-ontology normalization to MONDO is a planned enhancement. See mapping_decisions.md."

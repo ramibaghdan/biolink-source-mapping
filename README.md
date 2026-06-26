@@ -6,7 +6,7 @@ interoperable biomedical knowledge graphs. The interesting part here are
 the mapping decisions: where a source does not map cleanly onto Biolink, those judgment
 calls are documented in [mappings/mapping_decisions.md](mappings/mapping_decisions.md).
 
-   ![Drug-gene-disease neighborhood for MAP2K2](figures/subgraph_6416.png)
+   ![Drug-gene-disease neighborhood for MAP2K2 (disease names from MONDO enrichment)](figures/subgraph_6416.png)
 
 ## Demo
 
@@ -63,7 +63,10 @@ biolink_source_mapping/
 │   ├── mondo_normalize.py       # EFO/DOID/Orphanet -> MONDO via release xrefs
 │   ├── fetch_mondo_release.py   # download mondo_nodes.tsv from a MONDO release
 │   ├── validate.py              # confirm Biolink terms, print a summary
+│   ├── visualize_subgraph.py    # drug-gene-disease neighborhood figure
 │   └── requirements.txt
+├── figures/
+│   └── subgraph_6416.png        # demo neighborhood figure
 └── output/
     ├── nodes.csv                # Biolink entities
     ├── edges.csv                # Biolink triples
@@ -88,6 +91,9 @@ python src/map_to_biolink.py --hgnc hgnc_complete_set.txt --mondo-nodes data/mon
 
 # 3. validate and summarize
 python src/validate.py
+
+# 4. optional: regenerate the demo figure (uses disease names from nodes.csv)
+python src/visualize_subgraph.py --gene NCBIGene:6416
 ```
 
 Install `bmt` (the Biolink Model Toolkit, included in requirements) so validation checks

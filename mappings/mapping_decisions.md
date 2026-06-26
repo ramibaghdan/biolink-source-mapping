@@ -35,11 +35,10 @@ DOID, Orphanet, and OTAR prefixes. Biolink prefers MONDO for disease nodes.
 Decisions made:
 - Converted the source underscore format to the CURIE colon format (EFO_0003950 becomes
   EFO:0003950), since Biolink identifiers are CURIEs.
-- Kept each disease in its original ontology (EFO, MONDO, DOID, Orphanet, OTAR). Biolink
-  allows disease identifiers from several ontologies, so these CURIEs are valid as-is.
-  Full normalization to a single ontology like MONDO would require a disease cross-reference
-  file (for example from MONDO or OXO), which is noted as a planned enhancement rather than
-  done here. Forcing an incorrect MONDO id would be worse than keeping the correct source id.
+- Originally kept each disease in its original ontology when no cross-reference was available.
+  **Update:** EFO, DOID, Orphanet, and OTAR ids now normalize to MONDO when `mondo_nodes.tsv`
+  provides a unique xref (see section below). Unmapped ids and phenotype ontologies (HP, OBA,
+  GO, MP) remain in their source ontology.
 
 ### MONDO disease name enrichment (added)
 
@@ -49,6 +48,20 @@ name (for example `MONDO:0002108`). The MONDO release asset `mondo_nodes.tsv`
 to `map_to_biolink.py`, MONDO-prefixed disease nodes are enriched with the release label
 (for example `breast carcinoma`). Obsolete MONDO terms are skipped for naming; unmatched
 ids keep the CURIE as the name. EFO, DOID, Orphanet, and OTAR nodes are unchanged.
+
+### Cross-ontology normalization to MONDO (added)
+
+Open Targets uses mixed disease ontologies. Using xrefs in MONDO release `mondo_nodes.tsv`
+(v2026-06-02), EFO, DOID, Orphanet, and OTAR ids are rewritten to MONDO where there is a
+unique xref match. Example: `EFO:0009491` → `MONDO:0000004` (adrenocortical insufficiency).
+
+Decisions made:
+- Only unambiguous xrefs are used (one external id → exactly one non-obsolete MONDO term).
+  Ambiguous xrefs are excluded from the map rather than guessing.
+- Phenotype and non-disease ontologies in the sample (HP, OBA, GO, MP) are not normalized;
+  they often describe traits or measurements, not disorders, and lack reliable MONDO xrefs.
+- Ids with no xref match stay in their original ontology.
+- After normalization, MONDO labels are applied to all MONDO disease nodes.
 
 ## 3. Mapping DGIdb interaction types to Biolink predicates
 

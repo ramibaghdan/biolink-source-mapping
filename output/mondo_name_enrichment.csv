@@ -1,40 +1,84 @@
 mondo_id,previous_name,mondo_label,matched
 MONDO:0000358,MONDO:0000358,orofacial cleft,True
+MONDO:0005420,EFO:0004705,hypothyroidism,True
+MONDO:0005348,EFO:0004212,keloid,True
+MONDO:0009239,Orphanet:52901,hypogonadotropic hypogonadism 24 without anosmia,True
+MONDO:0005058,EFO:0000564,leiomyosarcoma,True
 MONDO:0010121,MONDO:0010121,thrombocytopenia-absent radius syndrome,True
 MONDO:0002108,MONDO:0002108,thyroid cancer,True
+MONDO:0010434,EFO:0001376,synovial sarcoma,True
+MONDO:0040679,EFO:0008528,urothelial carcinoma,True
 MONDO:0008523,MONDO:0008523,Blau syndrome,True
 MONDO:0010891,MONDO:0010891,lethal hemolytic anemia-genital anomalies syndrome,True
 MONDO:0020310,MONDO:0020310,familial focal epilepsy with variable foci,True
+MONDO:0024883,EFO:0009709,metastatic neoplasm,True
 MONDO:0004483,MONDO:0004483,thyroid gland oncocytic adenoma,True
+MONDO:0005275,EFO:0003818,lung disorder,True
+MONDO:0005113,EFO:0000771,bacterial infectious disease,True
+MONDO:0005044,EFO:0000537,hypertensive disorder,True
 MONDO:0014248,MONDO:0014248,autism spectrum disorder - epilepsy - arthrogryposis syndrome,True
+MONDO:0005265,EFO:0003767,inflammatory bowel disease,True
+MONDO:0005015,EFO:0000400,diabetes mellitus,True
 MONDO:0011142,MONDO:0011142,"Ehlers-Danlos syndrome, musculocontractural type",True
 MONDO:0008170,MONDO:0008170,ovarian cancer,True
+MONDO:0019018,EFO:1002000,Tako-tsubo cardiomyopathy,True
 MONDO:0004992,MONDO:0004992,cancer,True
 MONDO:0021201,MONDO:0021201,skin infection,True
+MONDO:0005258,EFO:0003756,autism spectrum disorder,True
 MONDO:0010356,MONDO:0010356,nephrogenic syndrome of inappropriate antidiuresis,True
 MONDO:0008280,MONDO:0008280,Peutz-Jeghers syndrome,True
 MONDO:0005271,MONDO:0005271,allergic disease,True
 MONDO:0021681,MONDO:0021681,sexually transmitted disease,True
+MONDO:0005342,EFO:0004194,IgA glomerulonephritis,True
+MONDO:0005335,EFO:0004142,colorectal neoplasm,True
+MONDO:0005016,EFO:0000401,diabetic kidney disease,True
+MONDO:0017885,EFO:0000335,chromophobe renal cell carcinoma,True
 MONDO:0010720,MONDO:0010720,partial androgen insensitivity syndrome,True
 MONDO:0004986,MONDO:0004986,urinary bladder carcinoma,True
+MONDO:0007147,EFO:0003918,obstructive sleep apnea syndrome,True
 MONDO:0019306,MONDO:0019306,congenital non-bullous ichthyosiform erythroderma,True
+MONDO:0005369,EFO:0004243,carcinoid tumor,True
+MONDO:0005960,EFO:0007485,silicosis,True
 MONDO:0011382,MONDO:0011382,sickle cell disease,True
 MONDO:0044721,MONDO:0044721,severe combined immunodeficiency due to LAT deficiency,True
+MONDO:0007355,Orphanet:1473,uveal coloboma-cleft lip and palate-intellectual disability,True
+MONDO:0005155,EFO:0001422,cirrhosis of liver,True
 MONDO:0008315,MONDO:0008315,prostate cancer,True
+MONDO:0011603,Orphanet:602,GNE myopathy,True
 MONDO:0024477,MONDO:0024477,liver and intrahepatic bile duct neoplasm,True
+MONDO:0018078,EFO:1001968,soft tissue sarcoma,True
+MONDO:0006026,EFO:1000018,urinary bladder disorder,True
+MONDO:0005347,EFO:0004211,hypertriglyceridemia,True
+MONDO:0005814,EFO:0007330,intestinal cancer,True
 MONDO:0001085,MONDO:0001085,interstitial nephritis,True
+MONDO:0005037,EFO:0000504,gastric intestinal type adenocarcinoma,True
 MONDO:0009724,MONDO:0009724,nail-patella-like renal disease,True
 MONDO:0010015,MONDO:0010015,anterior segment dysgenesis 7,True
 MONDO:0009061,MONDO:0009061,cystic fibrosis,True
 MONDO:0016064,MONDO:0016064,cleft palate,True
 MONDO:0957594,MONDO:0957594,spermatogenic failure 87,True
+MONDO:0005311,EFO:0003914,atherosclerosis,True
 MONDO:0021156,MONDO:0021156,hypophysitis,True
 MONDO:0013588,MONDO:0013588,Perrault syndrome 3,True
 MONDO:0017795,MONDO:0017795,ameloblastoma,True
+MONDO:0005061,EFO:0000571,lung adenocarcinoma,True
 MONDO:0010383,MONDO:0010383,fragile X syndrome,True
+MONDO:0005100,EFO:0000717,systemic sclerosis,True
 MONDO:0032845,MONDO:0032845,spermatogenic failure 39,True
+MONDO:0006660,EFO:1000821,arthus reaction,True
 MONDO:0008006,MONDO:0008006,Mobius syndrome,True
+MONDO:0007803,EFO:1001050,multiple system atrophy,True
+MONDO:0005008,EFO:0000365,colorectal adenocarcinoma,True
+MONDO:0005615,EFO:0006738,plasmacytoma,True
+MONDO:0009692,EFO:0002430,primary myelofibrosis,True
+MONDO:0018510,EFO:1001928,small intestine neuroendocrine neoplasm,True
+MONDO:0004972,EFO:0000232,adenoma,True
+MONDO:0020325,EFO:0003032,anaplastic large cell lymphoma,True
+MONDO:0002728,EFO:0005701,rhabdoid tumor,True
 MONDO:0700044,MONDO:0700044,,False
+MONDO:0009691,EFO:1001051,mycosis fungoides,True
+MONDO:0019496,EFO:1001901,neuroendocrine neoplasm,True
+MONDO:0005611,EFO:0006544,bladder transitional cell carcinoma,True
 MONDO:0004286,MONDO:0004286,pancreatic intraductal papillary-mucinous neoplasm,True
 MONDO:0016780,MONDO:0016780,paternal 14q32.2 microdeletion syndrome,True
 MONDO:0021148,MONDO:0021148,female reproductive system neoplasm,True
@@ -42,150 +86,308 @@ MONDO:0002334,MONDO:0002334,hematopoietic and lymphoid system neoplasm,True
 MONDO:0013934,MONDO:0013934,combined immunodeficiency due to STK4 deficiency,True
 MONDO:0002974,MONDO:0002974,cervical cancer,True
 MONDO:0009216,MONDO:0009216,glycogen storage disease due to GLUT2 deficiency,True
+MONDO:0017361,EFO:0007218,congenital rubella syndrome,True
+MONDO:0007959,EFO:0002939,medulloblastoma,True
+MONDO:0005048,EFO:0000549,pancreatic insulin-producing neuroendocrine tumor,True
 MONDO:0007254,MONDO:0007254,breast cancer,True
 MONDO:0023161,MONDO:0023161,viral myocarditis,True
 MONDO:0004643,MONDO:0004643,myeloid leukemia,True
 MONDO:0018630,MONDO:0018630,hereditary nonpolyposis colon cancer,True
+MONDO:0005488,EFO:0005423,adolescent idiopathic scoliosis,True
 MONDO:0008733,MONDO:0008733,familial glucocorticoid deficiency,True
+MONDO:0007471,Orphanet:75376,Doyne honeycomb retinal dystrophy,True
+MONDO:0006130,EFO:1000158,central nervous system neoplasm,True
 MONDO:0002691,MONDO:0002691,liver cancer,True
 MONDO:0002207,MONDO:0002207,vulval Paget disease,True
 MONDO:0005041,MONDO:0005041,glaucoma,True
+MONDO:0019434,EFO:1001999,systemic-onset juvenile idiopathic arthritis,True
 MONDO:0007496,MONDO:0007496,dystonia 12,True
 MONDO:0007809,MONDO:0007809,"ichthyosis histrix, Lambert type",True
+MONDO:0019722,EFO:1002049,glomerular disorder,True
+MONDO:0011841,Orphanet:199348,biotin-responsive basal ganglia disease,True
 MONDO:0021251,MONDO:0021251,endometrium neoplasm,True
+MONDO:0006909,EFO:1001109,pituitary dwarfism,True
+MONDO:0005139,EFO:0001074,morbid obesity,True
 MONDO:0018875,MONDO:0018875,Li-Fraumeni syndrome,True
+MONDO:0016218,EFO:0007292,Guillain-Barre syndrome,True
+MONDO:0000190,EFO:0004287,ventricular fibrillation,True
 MONDO:0003783,MONDO:0003783,lymphopenia,True
+MONDO:0005105,EFO:0000756,melanoma,True
 MONDO:0014048,MONDO:0014048,Cowden syndrome 6,True
 MONDO:0016642,MONDO:0016642,meningioma,True
 MONDO:0005575,MONDO:0005575,colorectal cancer,True
 MONDO:0015674,MONDO:0015674,late infantile neuronal ceroid lipofuscinosis,True
 MONDO:0015459,MONDO:0015459,nasopharyngeal carcinoma,True
+MONDO:0005140,EFO:0001075,ovarian carcinoma,True
+MONDO:0019506,Orphanet:88643,obesity-colitis-hypothyroidism-cardiac hypertrophy-developmental delay syndrome,True
 MONDO:0009629,MONDO:0009629,Desbuquois dysplasia 1,True
+MONDO:0005459,EFO:0005225,human African trypanosomiasis,True
+MONDO:0015254,EFO:1001475,schistosomiasis,True
+MONDO:0005485,EFO:0005407,psychotic disorder,True
 MONDO:0008921,MONDO:0008921,carnosinemia,True
+MONDO:0009446,Orphanet:2278,ichthyosis-intellectual disability-dwarfism-renal impairment syndrome,True
+MONDO:0005532,EFO:0005622,Crohn's colitis,True
 MONDO:0018899,MONDO:0018899,posterior cortical atrophy,True
 MONDO:0012725,MONDO:0012725,lipoprotein glomerulopathy,True
+MONDO:0005161,EFO:0001668,human papilloma virus infection,True
+MONDO:0018874,EFO:0000222,acute myeloid leukemia,True
+MONDO:0005005,EFO:0000349,clear cell renal carcinoma,True
 MONDO:0007152,MONDO:0007152,arrhythmogenic right ventricular dysplasia 1,True
+MONDO:0005111,EFO:0000769,Epstein-Barr virus infection,True
+MONDO:0005288,EFO:0003855,intestinal polyp,True
+MONDO:0008608,EFO:0001064,Down syndrome,True
 MONDO:0002257,MONDO:0002257,ankylosis,True
+MONDO:0018876,EFO:1001469,mantle cell lymphoma,True
+MONDO:0018815,EFO:1001760,aneurysmal bone cyst,True
 MONDO:0016700,MONDO:0016700,anaplastic ependymoma,True
+MONDO:0003847,EFO:0000508,hereditary disease,True
+MONDO:0005328,EFO:0003966,eye disorder,True
 MONDO:0010788,MONDO:0010788,Leber hereditary optic neuropathy,True
 MONDO:0033262,MONDO:0033262,nephrotic syndrome 15,True
 MONDO:0020761,MONDO:0020761,Bowen disease of the skin,True
 MONDO:0045063,MONDO:0045063,major salivary gland adenoid cystic carcinoma,True
+MONDO:0005438,EFO:0004906,metastatic malignant neoplasm in the lymph nodes,True
 MONDO:0008411,MONDO:0008411,ulnar-mammary syndrome,True
+MONDO:0000525,EFO:1000155,cecum villous adenoma,True
 MONDO:0042491,MONDO:0042491,cervical squamous intraepithelial neoplasia,True
 MONDO:0012675,MONDO:0012675,corticosteroid-binding globulin deficiency,True
+MONDO:0012819,EFO:1000897,diabetic ketoacidosis,True
 MONDO:0004892,MONDO:0004892,refractive error,True
 MONDO:0016761,MONDO:0016761,spondyloepiphyseal dysplasia,True
 MONDO:0014810,MONDO:0014810,pancytopenia due to IKZF1 mutations,True
+MONDO:0008383,EFO:0000685,rheumatoid arthritis,True
 MONDO:0003036,MONDO:0003036,mucoepidermoid carcinoma,True
 MONDO:0002898,MONDO:0002898,skin cancer,True
-MONDO:0018177,MONDO:0018177,glioblastoma,True
+MONDO:0005580,EFO:0005922,esophageal squamous cell carcinoma,True
+MONDO:0004849,EFO:0000464,pulmonary emphysema,True
+MONDO:0007027,EFO:1001249,metabolic dysfunction-associated steatohepatitis,True
+MONDO:0005146,EFO:0001358,post-traumatic stress disorder,True
+MONDO:0018177,EFO:0000519,glioblastoma,True
+MONDO:0100010,EFO:1001434,disease of the tendon,True
+MONDO:0005083,EFO:0000676,psoriasis,True
+MONDO:0005108,EFO:0000763,viral infectious disease,True
 MONDO:0008233,MONDO:0008233,pheochromocytoma,True
 MONDO:0009830,MONDO:0009830,parkinsonian-pyramidal syndrome,True
 MONDO:0017967,MONDO:0017967,testicular agenesis,True
+MONDO:0004995,EFO:0000319,cardiovascular disorder,True
 MONDO:0019524,MONDO:0019524,Bartter syndrome type 4,True
+MONDO:0005306,EFO:0003898,ankylosing spondylitis,True
+MONDO:0007681,Orphanet:276399,"goiter, multinodular 1, with or without Sertoli-Leydig cell tumors",True
 MONDO:0020546,MONDO:0020546,acute graft versus host disease,True
+MONDO:0006170,EFO:1000203,conjunctival disorder,True
 MONDO:0019402,MONDO:0019402,beta thalassemia,True
 MONDO:0010463,MONDO:0010463,"X-linked dominant chondrodysplasia, Chassaing-Lacombe type",True
+MONDO:0005559,EFO:0005772,neurodegenerative disease,True
 MONDO:0005147,MONDO:0005147,type 1 diabetes mellitus,True
 MONDO:0007700,MONDO:0007700,hawkinsinuria,True
+MONDO:0015484,EFO:0007231,cysticercosis,True
+MONDO:0006192,EFO:1000233,endometrial endometrioid adenocarcinoma,True
+MONDO:0006639,EFO:1000796,adrenal cortex carcinoma,True
+MONDO:0011996,EFO:0000339,chronic myeloid leukemia,True
 MONDO:0005148,MONDO:0005148,type 2 diabetes mellitus,True
+MONDO:0017991,EFO:1001857,Takayasu arteritis,True
+MONDO:0013209,EFO:0003095,metabolic dysfunction-associated steatotic liver disease,True
 MONDO:0011456,MONDO:0011456,nephronophthisis 3,True
 MONDO:0003916,MONDO:0003916,overnutrition,True
 MONDO:0015701,MONDO:0015701,T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency,True
 MONDO:0004580,MONDO:0004580,retinal degeneration,True
+MONDO:0004993,EFO:0000313,carcinoma,True
 MONDO:0016107,MONDO:0016107,myotonic dystrophy,True
+MONDO:0005642,EFO:0007141,atopic conjunctivitis,True
 MONDO:0100574,MONDO:0100574,generalized epilepsy,True
+MONDO:0005023,EFO:0000432,ductal breast carcinoma in situ,True
+MONDO:0005595,EFO:0006352,laryngeal squamous cell carcinoma,True
+MONDO:0006047,EFO:1000044,pancreatic adenocarcinoma,True
 MONDO:0003825,MONDO:0003825,kidney oncocytoma,True
+MONDO:0006849,EFO:1001034,mastitis,True
+MONDO:0005366,EFO:0004239,chronic hepatitis B virus infection,True
+MONDO:0006515,EFO:1000652,acute pancreatitis,True
+MONDO:0007294,Orphanet:597,central core myopathy,True
 MONDO:0012209,MONDO:0012209,branchiogenic deafness syndrome,True
 MONDO:0012450,MONDO:0012450,spinocerebellar ataxia type 28,True
 MONDO:0013284,MONDO:0013284,"immunodeficiency, common variable, 4",True
+MONDO:0012220,Orphanet:79478,Griscelli syndrome type 3,True
 MONDO:0013427,MONDO:0013427,immunodeficiency 31B,True
+MONDO:0005084,EFO:0000677,mental disorder,True
+MONDO:0009831,EFO:1000359,malignant pancreatic neoplasm,True
+MONDO:0024331,EFO:1001951,colorectal carcinoma,True
 MONDO:0009619,MONDO:0009619,microcephaly-micromelia syndrome,True
+MONDO:0002806,EFO:1001942,bronchogenic carcinoma,True
 MONDO:0024280,MONDO:0024280,polyarticular arthritis,True
 MONDO:0011661,MONDO:0011661,inflammatory bowel disease 5,True
+MONDO:0009614,Orphanet:79311,"methylmalonic aciduria, cblB type",True
+MONDO:0005098,EFO:0000712,stroke disorder,True
 MONDO:0001999,MONDO:0001999,idiopathic pulmonary arterial hypertension,True
+MONDO:0000494,EFO:1001517,renal fibrosis,True
+MONDO:0011438,EFO:0003894,acne,True
+MONDO:0001166,EFO:1002050,nephritis,True
 MONDO:0014439,MONDO:0014439,Bardet-Biedl syndrome 11,True
+MONDO:0008928,Orphanet:1368,cataract-ataxia-deafness syndrome,True
 MONDO:0007540,MONDO:0007540,multiple endocrine neoplasia type 1,True
+MONDO:0005466,EFO:0005246,hypersomnia,True
+MONDO:0006189,EFO:1000229,eccrine porocarcinoma,True
 MONDO:0021512,MONDO:0021512,benign neoplasm of thymus,True
 MONDO:0002331,MONDO:0002331,nephrosis,True
+MONDO:0010549,Orphanet:101075,Charcot-Marie-Tooth disease X-linked dominant 1,True
 MONDO:0011414,MONDO:0011414,Peters anomaly,True
 MONDO:0030531,MONDO:0030531,spermatogenic failure 65,True
+MONDO:0005298,EFO:0003882,osteoporosis,True
 MONDO:0018604,MONDO:0018604,familial colorectal cancer type X,True
+MONDO:0020696,EFO:0000734,vitamin B12 deficiency,True
+MONDO:0005502,EFO:0005547,dengue disease,True
 MONDO:0009426,MONDO:0009426,hypoparathyroidism-retardation-dysmorphism syndrome,True
 MONDO:0018906,MONDO:0018906,follicular lymphoma,True
+MONDO:0005283,EFO:0003839,retinal disorder,True
 MONDO:0018088,MONDO:0018088,familial Mediterranean fever,True
+MONDO:0005203,EFO:0002687,ischemia reperfusion injury,True
+MONDO:0010730,EFO:1001451,"combined immunodeficiency, X-linked",True
+MONDO:0005012,EFO:0000389,cutaneous melanoma,True
+MONDO:0006858,EFO:1001047,mouth disorder,True
+MONDO:0006649,EFO:1000809,anterior ischemic optic neuropathy,True
+MONDO:0005570,EFO:0005803,hematologic disorder,True
 MONDO:0008231,MONDO:0008231,Peyronie disease,True
+MONDO:0018161,EFO:0005717,non-hereditary retinoblastoma,True
 MONDO:0100114,MONDO:0100114,dry age related macular degeneration,True
 MONDO:0016060,MONDO:0016060,laryngotracheoesophageal cleft,True
 MONDO:0100135,MONDO:0100135,Dravet syndrome,True
+MONDO:0004648,EFO:0004718,vascular dementia,True
 MONDO:0011804,MONDO:0011804,autoimmune lymphoproliferative syndrome type 2B,True
 MONDO:0013615,MONDO:0013615,craniosynostosis and dental anomalies,True
 MONDO:0017317,MONDO:0017317,phakomatosis pigmentokeratotica,True
+MONDO:0005402,EFO:0004289,lymphoid leukemia,True
+MONDO:0005461,EFO:0005232,endometrium adenocarcinoma,True
 MONDO:0004985,MONDO:0004985,bipolar disorder,True
 MONDO:0009486,MONDO:0009486,autosomal recessive Kenny-Caffey syndrome,True
 MONDO:0002026,MONDO:0002026,candidiasis,True
 MONDO:0014334,MONDO:0014334,severe combined immunodeficiency due to LCK deficiency,True
+MONDO:0005191,EFO:0002617,metastatic melanoma,True
+MONDO:0008538,EFO:1001209,temporal arteritis,True
 MONDO:0044348,MONDO:0044348,hemoglobinopathy,True
+MONDO:0007064,Orphanet:277,"severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency",True
 MONDO:0007389,MONDO:0007389,spondylocostal dysostosis 5,True
+MONDO:0008375,EFO:0005773,retinal detachment,True
 MONDO:0003758,MONDO:0003758,childhood testicular germ cell tumor,True
 MONDO:0014789,MONDO:0014789,CCDC115-CDG,True
 MONDO:0016381,MONDO:0016381,hypertrichosis lanuginosa congenita,True
 MONDO:0016294,MONDO:0016294,Hirschsprung disease-type D brachydactyly syndrome,True
+MONDO:0002714,EFO:0000326,central nervous system cancer,True
 MONDO:0100281,MONDO:0100281,"macroglobulinemia, Waldenstrom, 1",True
+MONDO:0005300,EFO:0003884,chronic kidney disease,True
 MONDO:0007376,MONDO:0007376,fleck corneal dystrophy,True
+MONDO:0005627,EFO:0006859,head and neck cancer,True
 MONDO:0008618,MONDO:0008618,"mesomelic dwarfism, Reinhardt-Pfeiffer type",True
 MONDO:0024540,MONDO:0024540,Jervell and Lange-Nielsen syndrome 1,True
+MONDO:0003085,EFO:0009449,keratitis,True
 MONDO:0018945,MONDO:0018945,XK-related neurodegenerative disease,True
 MONDO:0011569,MONDO:0011569,Charcot-Marie-Tooth disease type 2B1,True
 MONDO:0017349,MONDO:0017349,myopericytoma,True
+MONDO:0010088,Orphanet:585,mucosulfatidosis,True
+MONDO:0005453,EFO:0005207,congenital heart disease,True
+MONDO:0005371,EFO:0004247,mood disorder,True
+MONDO:0005101,EFO:0000729,ulcerative colitis,True
 MONDO:0016558,MONDO:0016558,familial congenital mirror movements,True
+MONDO:0005885,EFO:0007405,optic neuritis,True
+MONDO:0020678,EFO:1001176,sensorineural hearing loss disorder,True
+MONDO:0005068,EFO:0000612,myocardial infarction,True
+MONDO:0004948,EFO:0000095,B-cell chronic lymphocytic leukemia,True
 MONDO:0100319,MONDO:0100319,COVID-19–associated multisystem inflammatory syndrome in adults,True
+MONDO:0007743,EFO:0003888,attention deficit-hyperactivity disorder,True
+MONDO:0000918,EFO:1001312,endometritis,True
 MONDO:0009872,MONDO:0009872,Bjornstad syndrome,True
+MONDO:0006373,EFO:1000478,pituitary gland adenoma,True
 MONDO:0001134,MONDO:0001134,essential hypertension,True
 MONDO:0014172,MONDO:0014172,spermatogenic failure 12,True
 MONDO:0008982,MONDO:0008982,central areolar choroidal dystrophy,True
+MONDO:0009693,EFO:0001378,plasma cell myeloma,True
 MONDO:0033554,MONDO:0033554,immunodeficiency 73b with defective neutrophil chemotaxis and lymphopenia,True
+MONDO:0019458,EFO:0003029,acute basophilic leukemia,True
 MONDO:0014137,MONDO:0014137,"precocious puberty, central, 2",True
 MONDO:0009655,MONDO:0009655,mucopolysaccharidosis type 3A,True
 MONDO:0008903,MONDO:0008903,lung cancer,True
+MONDO:0005159,EFO:0001663,prostate carcinoma,True
+MONDO:0005401,EFO:0004288,colonic neoplasm,True
+MONDO:0005812,EFO:0007328,influenza,True
 MONDO:0008521,MONDO:0008521,tarsal-carpal coalition syndrome,True
 MONDO:0019736,MONDO:0019736,dense deposit disease,True
+MONDO:0002082,EFO:0003769,endocrine gland neoplasm,True
+MONDO:0700092,EFO:0010642,neurodevelopmental disorder,True
 MONDO:0007340,MONDO:0007340,cleidocranial dysplasia 1,True
+MONDO:0005386,EFO:0004265,peripheral arterial disease,True
 MONDO:0021355,MONDO:0021355,neoplasm of esophagus,True
+MONDO:0000646,EFO:1000116,ovarian benign neoplasm,True
 MONDO:0009901,MONDO:0009901,Bartsocas-Papas syndrome 1,True
 MONDO:0007888,MONDO:0007888,hereditary leiomyomatosis and renal cell cancer,True
+MONDO:0005097,EFO:0000708,squamous cell lung carcinoma,True
 MONDO:0015300,MONDO:0015300,cataract - microcornea syndrome,True
+MONDO:0005086,EFO:0000681,renal cell carcinoma,True
+MONDO:0005244,EFO:0003100,peripheral neuropathy,True
 MONDO:0800195,MONDO:0800195,achalasia-alacrima syndrome,True
+MONDO:0005574,EFO:0005815,tauopathy,True
 MONDO:0016683,MONDO:0016683,gliomatosis cerebri,True
+MONDO:0005219,EFO:0003014,breast fibrocystic disease,True
 MONDO:0020121,MONDO:0020121,muscular dystrophy,True
 MONDO:0016525,MONDO:0016525,familial hyperaldosteronism,True
+MONDO:0006489,EFO:1000619,vaginal melanoma,True
+MONDO:0001595,EFO:0004152,choreatic disease,True
 MONDO:0007987,MONDO:0007987,Kniest dysplasia,True
 MONDO:0019202,MONDO:0019202,myxofibrosarcoma,True
+MONDO:0010030,EFO:0000699,Sjogren syndrome,True
 MONDO:0002907,MONDO:0002907,intracranial thrombosis,True
 MONDO:0017400,MONDO:0017400,hypoplastic pancreas-intestinal atresia-hypoplastic gallbalder syndrome,True
 MONDO:0014403,MONDO:0014403,short stature due to GHSR deficiency,True
 MONDO:0007573,MONDO:0007573,"erythroleukemia, familial, susceptibility to",True
 MONDO:0017979,MONDO:0017979,autoimmune lymphoproliferative syndrome,True
+MONDO:0001106,EFO:1002048,kidney failure,True
 MONDO:0007635,MONDO:0007635,Frasier syndrome,True
+MONDO:0017827,EFO:0000760,malignant peripheral nerve sheath tumor,True
+MONDO:0004953,EFO:0000186,invasive ductal breast carcinoma,True
+MONDO:0005195,EFO:0002623,septic peritonitis,True
+MONDO:0006143,EFO:1000172,cervical squamous cell carcinoma,True
+MONDO:0015691,EFO:1001467,hypereosinophilic syndrome,True
 MONDO:0018075,MONDO:0018075,neural tube defect,True
 MONDO:0004557,MONDO:0004557,congenital fibrosarcoma,True
+MONDO:0003308,EFO:1000485,pleural mesothelioma,True
+MONDO:0019065,EFO:1001875,amyloidosis,True
+MONDO:0003240,EFO:1000627,thyroid gland disorder,True
+MONDO:0005439,EFO:0004911,familial hypercholesterolemia,True
 MONDO:0002025,MONDO:0002025,psychiatric disorder,True
 MONDO:0970943,MONDO:0970943,"spermatogenic failure, X-linked, 8",True
-MONDO:0008840,MONDO:0008840,ataxia telangiectasia,True
+MONDO:0006128,EFO:1000156,central nervous system anaplastic large cell lymphoma,True
+MONDO:0008840,Orphanet:100,ataxia telangiectasia,True
 MONDO:0008073,MONDO:0008073,familial juvenile hyperuricemic nephropathy type 1,True
+MONDO:0007243,EFO:0000309,Burkitt lymphoma,True
+MONDO:0005039,EFO:0000512,reproductive system disorder,True
 MONDO:0005277,MONDO:0005277,migraine disorder,True
+MONDO:0006882,EFO:1001078,orchitis,True
+MONDO:0005494,EFO:0005537,triple-negative breast carcinoma,True
+MONDO:0009297,Orphanet:69076,familial renal glucosuria,True
+MONDO:0006336,EFO:1000417,ovarian endometrioid adenocarcinoma with squamous differentiation,True
+MONDO:0006573,EFO:1000727,lipodystrophy,True
+MONDO:0005825,EFO:0007344,leptospirosis,True
+MONDO:0015279,Orphanet:1334,chronic mucocutaneous candidiasis,True
 MONDO:0014550,MONDO:0014550,long QT syndrome 15,True
 MONDO:0005351,MONDO:0005351,anorexia nervosa,True
 MONDO:0002120,MONDO:0002120,neuroendocrine carcinoma,True
+MONDO:0005968,EFO:0007494,sporotrichosis,True
 MONDO:0001149,MONDO:0001149,microcephaly,True
+MONDO:0006474,EFO:1000601,transitional cell carcinoma,True
+MONDO:0011287,Orphanet:85199,craniosynostosis-anal anomalies-porokeratosis syndrome,True
 MONDO:0021117,MONDO:0021117,lung neoplasm,True
-MONDO:0009239,MONDO:0009239,hypogonadotropic hypogonadism 24 without anosmia,True
+MONDO:0008599,EFO:1001219,trigeminal neuralgia,True
+MONDO:0005266,EFO:0003770,diabetic retinopathy,True
+MONDO:0005380,EFO:0004259,osteonecrosis,True
+MONDO:0008575,EFO:0003768,nicotine dependence,True
+MONDO:0005134,EFO:0001066,experimental autoimmune encephalomyelitis,True
 MONDO:0018531,MONDO:0018531,carcinoma of liver and intrahepatic biliary tract,True
+MONDO:0003004,EFO:0009606,macular degeneration,True
 MONDO:0019145,MONDO:0019145,hereditary thrombophilia due to congenital protein C deficiency,True
 MONDO:0008380,MONDO:0008380,retinoblastoma,True
+MONDO:0010108,EFO:1000566,testicular germ cell tumor,True
+MONDO:0011716,EFO:0007132,acute hemorrhagic leukoencephalitis,True
+MONDO:0007488,EFO:0006792,Lewy body dementia,True
 MONDO:0007142,MONDO:0007142,Townes-Brocks syndrome,True
 MONDO:0021086,MONDO:0021086,gingival neoplasm,True
+MONDO:0005240,EFO:0003086,kidney disorder,True
 MONDO:0014491,MONDO:0014491,immunodeficiency 37,True
 MONDO:0016168,MONDO:0016168,cryopyrin-associated periodic syndrome,True
 MONDO:0013960,MONDO:0013960,sinoatrial node dysfunction and deafness,True
@@ -193,108 +395,208 @@ MONDO:0044925,MONDO:0044925,oral cavity carcinoma,True
 MONDO:0002462,MONDO:0002462,glomerulonephritis,True
 MONDO:0018079,MONDO:0018079,thymic epithelial neoplasm,True
 MONDO:0001657,MONDO:0001657,brain cancer,True
+MONDO:0004691,EFO:1001496,autosomal dominant polycystic kidney disease,True
+MONDO:0005480,EFO:0005319,contact dermatitis,True
+MONDO:0005231,EFO:0003047,hepatitis C virus infection,True
 MONDO:0044635,MONDO:0044635,DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome,True
+MONDO:0007186,EFO:0003948,gastroesophageal reflux disease,True
 MONDO:0100316,MONDO:0100316,long QT syndrome 1,True
+MONDO:0010650,Orphanet:2484,Melnick-Needles syndrome,True
 MONDO:0007915,MONDO:0007915,systemic lupus erythematosus,True
 MONDO:0100096,MONDO:0100096,COVID-19,True
 MONDO:0013561,MONDO:0013561,"chondrodysplasia with joint dislocations, gPAPP type",True
+MONDO:0005500,EFO:0005545,congenital disorder of glycosylation type I,True
 MONDO:0007817,MONDO:0007817,"IgE responsiveness, atopic",True
 MONDO:0014472,MONDO:0014472,periodic fever-infantile enterocolitis-autoinflammatory syndrome,True
 MONDO:0004979,MONDO:0004979,asthma,True
 MONDO:0011904,MONDO:0011904,"seizures, benign familial infantile, 3",True
+MONDO:0004508,EFO:1001391,periapical periodontitis,True
+MONDO:0005531,EFO:0005612,morphine dependence,True
+MONDO:0005028,EFO:0000478,esophageal adenocarcinoma,True
 MONDO:0002630,MONDO:0002630,small cell osteogenic sarcoma,True
+MONDO:0002032,EFO:1001950,colon carcinoma,True
+MONDO:0005030,EFO:0000495,fetal growth restriction,True
 MONDO:0017904,MONDO:0017904,steroid dehydrogenase deficiency-dental anomalies syndrome,True
+MONDO:0005296,EFO:0003877,sleep apnea syndrome,True
+MONDO:0004950,EFO:0000178,gastric carcinoma,True
 MONDO:0005053,MONDO:0005053,ischemic disease,True
 MONDO:0008021,MONDO:0008021,Cowden syndrome 1,True
+MONDO:0012105,EFO:0005297,granulomatosis with polyangiitis,True
 MONDO:0009588,MONDO:0009588,Langer mesomelic dysplasia,True
+MONDO:0009515,Orphanet:79293,Norum disease,True
 MONDO:0007576,MONDO:0007576,esophageal cancer,True
+MONDO:0000984,EFO:1001996,thalassemia,True
 MONDO:0002529,MONDO:0002529,skin squamous cell carcinoma,True
 MONDO:0009597,MONDO:0009597,"metaphyseal chondrodysplasia, Spahr type",True
 MONDO:0018653,MONDO:0018653,Polymerase proofreading-related adenomatous polyposis,True
+MONDO:0006311,EFO:1000388,myelodysplastic/myeloproliferative neoplasm,True
+MONDO:0006626,EFO:1000783,diabetic neuropathy,True
 MONDO:0018479,MONDO:0018479,congenital adrenal hyperplasia,True
 MONDO:0016643,MONDO:0016643,frontonasal dysplasia,True
+MONDO:0021100,EFO:0003869,breast neoplasm,True
 MONDO:0010200,MONDO:0010200,Wilson disease,True
 MONDO:0030602,MONDO:0030602,Klebsiella pneumonia,True
 MONDO:0018948,MONDO:0018948,multiminicore myopathy,True
 MONDO:0009903,MONDO:0009903,postaxial acrofacial dysostosis,True
+MONDO:0005093,EFO:0000701,skin disorder,True
 MONDO:0008173,MONDO:0008173,pachyonychia congenita 1,True
 MONDO:0041052,MONDO:0041052,postherpetic neuralgia,True
 MONDO:0010011,MONDO:0010011,schizencephaly,True
+MONDO:0005133,EFO:0001065,endometriosis,True
+MONDO:0005046,EFO:0000540,immune system disorder,True
 MONDO:0002367,MONDO:0002367,kidney cancer,True
+MONDO:0005089,EFO:0000691,sarcoma,True
 MONDO:0032805,MONDO:0032805,"hypopigmentation, organomegaly, and delayed myelination and development",True
+MONDO:0015199,Orphanet:1068,aniridia - intellectual disability syndrome,True
+MONDO:0004963,EFO:0000209,T-cell acute lymphoblastic leukemia,True
 MONDO:0007079,MONDO:0007079,alcohol dependence,True
 MONDO:0013826,MONDO:0013826,autosomal recessive nonsyndromic hearing loss 86,True
 MONDO:0020593,MONDO:0020593,trichoblastoma,True
+MONDO:0002771,EFO:0009448,pulmonary fibrosis,True
+MONDO:0006874,EFO:1001068,obstructive jaundice,True
+MONDO:0005131,EFO:0001061,cervical carcinoma,True
+MONDO:0019124,EFO:1000784,microscopic polyangiitis,True
+MONDO:0021163,EFO:0003865,kidney neoplasm,True
+MONDO:0005623,EFO:0006812,autoimmune thyroid disease,True
 MONDO:0001336,MONDO:0001336,familial hyperlipidemia,True
+MONDO:0005304,EFO:0003891,biliary tract neoplasm,True
+MONDO:0005070,EFO:0000616,neoplasm,True
+MONDO:0005440,EFO:0004986,embryonal carcinoma,True
+MONDO:0005075,EFO:0000641,thyroid gland papillary carcinoma,True
+MONDO:0003210,EFO:1001961,intrahepatic cholangiocarcinoma,True
 MONDO:0001751,MONDO:0001751,cholestasis,True
 MONDO:0013518,MONDO:0013518,"pituitary hormone deficiency, combined, 6",True
 MONDO:0030938,MONDO:0030938,spermatogenic failure 52,True
+MONDO:0005496,EFO:0005540,bile duct carcinoma,True
 MONDO:0009805,MONDO:0009805,osteogenesis imperfecta type 9,True
+MONDO:0005096,EFO:0000707,squamous cell carcinoma,True
+MONDO:0006300,EFO:1000368,medullomyoblastoma with myogenic differentiation,True
+MONDO:0005308,EFO:0003900,ciliopathy,True
+MONDO:0012414,Orphanet:228337,neuronal ceroid lipofuscinosis 10,True
+MONDO:0006846,EFO:1001031,malignant hypertension,True
+MONDO:0010576,Orphanet:383,X-linked mixed hearing loss with perilymphatic gusher,True
 MONDO:0019438,MONDO:0019438,AL amyloidosis,True
 MONDO:0014981,MONDO:0014981,immunodeficiency 49,True
+MONDO:0005267,EFO:0003777,heart disorder,True
 MONDO:0971173,MONDO:0971173,autoinflammation with arthritis and vasculitis,True
 MONDO:0032714,MONDO:0032714,"facial dysmorphism, hypertrichosis, epilepsy, intellectual/developmental delay, and gingival overgrowth syndrome",True
+MONDO:0005336,EFO:0004145,myopathy,True
 MONDO:0003334,MONDO:0003334,demyelinating polyneuropathy,True
 MONDO:0021259,MONDO:0021259,prostate neoplasm,True
 MONDO:0005475,MONDO:0005475,migraine with aura,True
 MONDO:0043579,MONDO:0043579,enteritis,True
 MONDO:0957572,MONDO:0957572,thrombocytopenia 9,True
 MONDO:0100234,MONDO:0100234,paroxysmal familial ventricular fibrillation,True
+MONDO:0008661,EFO:0004208,vitiligo,True
 MONDO:0013730,MONDO:0013730,graft versus host disease,True
+MONDO:0005312,EFO:0003921,pouchitis,True
 MONDO:0019192,MONDO:0019192,AKT2-related familial partial lipodystrophy,True
+MONDO:0000448,EFO:1000453,paraganglioma,True
 MONDO:0005784,MONDO:0005784,hantavirus hemorrhagic fever with renal syndrome,True
 MONDO:0014054,MONDO:0014054,lymphoproliferative syndrome 2,True
 MONDO:0008222,MONDO:0008222,Andersen-Tawil syndrome,True
 MONDO:0003079,MONDO:0003079,mastocytoma,True
+MONDO:0006256,EFO:1000307,invasive breast carcinoma,True
+MONDO:0010150,EFO:0000181,head and neck squamous cell carcinoma,True
 MONDO:0019098,MONDO:0019098,autoimmune thrombocytopenia,True
+MONDO:0005233,EFO:0003060,non-small cell lung carcinoma,True
 MONDO:0044212,MONDO:0044212,chronic idiopathic urticaria,True
+MONDO:0018912,EFO:0003099,Cushing syndrome,True
+MONDO:0006810,EFO:1000992,intracranial hypertension,True
 MONDO:0016047,MONDO:0016047,endophthalmitis,True
+MONDO:0005059,EFO:0000565,leukemia,True
 MONDO:0000521,MONDO:0000521,salivary gland carcinoma,True
 MONDO:0100233,MONDO:0100233,long COVID-19,True
 MONDO:0007834,MONDO:0007834,islet cell adenomatosis,True
 MONDO:0008300,MONDO:0008300,Prader-Willi syndrome,True
+MONDO:0005079,EFO:0000662,polyp,True
+MONDO:0005546,EFO:0005687,fibromyalgia,True
 MONDO:0015168,MONDO:0015168,arthrogryposis multiplex congenita,True
+MONDO:0005920,EFO:0007444,Plasmodium falciparum malaria,True
 MONDO:0016394,MONDO:0016394,sporadic infantile bilateral striatal necrosis,True
 MONDO:0026722,MONDO:0026722,Mullegama-Klein-Martinez syndrome,True
+MONDO:0005399,EFO:0004286,venous thromboembolism,True
+MONDO:0005033,EFO:0000500,ganglioneuroma,True
+MONDO:0016574,Orphanet:2435,hypo- and hypermelanotic cutaneous macules-retarded growth-intellectual disability syndrome,True
+MONDO:0006843,EFO:1001028,macular holes,True
 MONDO:0024662,MONDO:0024662,colorectal tubulovillous adenoma,True
 MONDO:0971001,MONDO:0971001,immunodeficiency 121 with autoinflammation,True
 MONDO:0017596,MONDO:0017596,diffuse large B-cell lymphoma of the central nervous system,True
 MONDO:0100330,MONDO:0100330,disease arising from reactivation of latent virus,True
 MONDO:0004782,MONDO:0004782,diabetes insipidus,True
+MONDO:0008558,EFO:0007160,autoimmune thrombocytopenic purpura,True
 MONDO:0019797,MONDO:0019797,acrodysostosis,True
 MONDO:0018896,MONDO:0018896,thrombotic thrombocytopenic purpura,True
 MONDO:0004355,MONDO:0004355,childhood leukemia,True
 MONDO:0016471,MONDO:0016471,pachyonychia congenita,True
+MONDO:0006456,EFO:1000581,thymoma,True
+MONDO:0006215,EFO:1000262,gallbladder adenocarcinoma,True
 MONDO:0010662,MONDO:0010662,paraplegia-intellectual disability-hyperkeratosis syndrome,True
 MONDO:0008493,MONDO:0008493,overhydrated hereditary stomatocytosis,True
+MONDO:0019954,EFO:1000045,pancreatic neuroendocrine tumor,True
 MONDO:0007295,MONDO:0007295,self-limited epilepsy with centrotemporal spikes,True
+MONDO:0006644,EFO:1000802,alcoholic liver cirrhosis,True
+MONDO:0004982,EFO:0000278,pancreatitis,True
 MONDO:0024647,MONDO:0024647,urolithiasis,True
+MONDO:0005060,EFO:0000569,liposarcoma,True
 MONDO:0054727,MONDO:0054727,spermatogenic failure 23,True
 MONDO:0007113,MONDO:0007113,Angelman syndrome,True
+MONDO:0008243,EFO:0003096,Pick disease,True
 MONDO:0014300,MONDO:0014300,proximal myopathy with extrapyramidal signs,True
 MONDO:0970993,MONDO:0970993,immunodeficiency 119,True
 MONDO:0021104,MONDO:0021104,alcoholic fatty liver disease,True
 MONDO:0007473,MONDO:0007473,Duane retraction syndrome,True
+MONDO:0010882,Orphanet:1113,aphalangy-syndactyly-microcephaly syndrome,True
+MONDO:0017572,EFO:1001309,tick-borne encephalitis,True
 MONDO:0014118,MONDO:0014118,congenital neutropenia-myelofibrosis-nephromegaly syndrome,True
+MONDO:0005344,EFO:0004197,hepatitis B virus infection,True
 MONDO:0016305,MONDO:0016305,atypical pantothenate kinase-associated neurodegeneration,True
+MONDO:0006186,EFO:1000223,duodenal adenocarcinoma,True
 MONDO:0060507,MONDO:0060507,retinal dystrophy with or without macular staphyloma,True
 MONDO:0007367,MONDO:0007367,"febrile seizures, familial, 1",True
+MONDO:0007256,EFO:0000182,hepatocellular carcinoma,True
+MONDO:0005087,EFO:0000684,respiratory system disorder,True
 MONDO:0004784,MONDO:0004784,allergic asthma,True
 MONDO:0008185,MONDO:0008185,hereditary chronic pancreatitis,True
+MONDO:0006816,EFO:1000999,arthropathy,True
+MONDO:0001854,EFO:0009455,lacrimal apparatus disorder,True
+MONDO:0005186,EFO:0002610,cocaine dependence,True
+MONDO:0005062,EFO:0000574,lymphoma,True
+MONDO:0006733,EFO:1000906,dry eye syndrome,True
 MONDO:0016216,MONDO:0016216,adult hepatocellular carcinoma,True
 MONDO:0019068,MONDO:0019068,congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization,True
+MONDO:0005065,EFO:0000588,mesothelioma,True
 MONDO:0018975,MONDO:0018975,neurofibromatosis type 1,True
+MONDO:0005393,EFO:0004274,gout,True
+MONDO:0021353,EFO:0003859,tumor of uterus,True
+MONDO:0005260,EFO:0003758,autism,True
 MONDO:0003001,MONDO:0003001,seminoma,True
+MONDO:0012883,EFO:0000224,acute promyelocytic leukemia,True
+MONDO:0002269,EFO:1001463,gastroenteritis,True
+MONDO:0021042,EFO:0005543,glioma,True
+MONDO:0006007,EFO:0007536,vesicoureteral reflux,True
 MONDO:0032696,MONDO:0032696,oocyte maturation defect 6,True
-MONDO:0013291,MONDO:0013291,glycogen storage disease XV,True
+MONDO:0013291,Orphanet:263297,glycogen storage disease XV,True
 MONDO:0958006,MONDO:0958006,"spondyloepimetaphyseal dysplasia, Guo-Campeau type",True
+MONDO:0005282,EFO:0003834,cutaneous lupus erythematosus,True
+MONDO:0004949,EFO:0000096,neoplasm of mature B-cells,True
 MONDO:0007705,MONDO:0007705,Heinz body anemia,True
+MONDO:0005135,EFO:0001067,parasitic infectious disease,True
+MONDO:0004981,EFO:0000275,atrial fibrillation,True
+MONDO:0006781,EFO:1000961,Helicobacter pylori infectious disease,True
 MONDO:0002708,MONDO:0002708,retinitis,True
 MONDO:0013410,MONDO:0013410,"46,XY sex reversal 6",True
+MONDO:0015759,EFO:1001938,B-cell non-Hodgkin lymphoma,True
+MONDO:0015796,EFO:0004610,acute lung injury,True
 MONDO:0032766,MONDO:0032766,"hypoalphalipoproteinemia, primary, 2",True
+MONDO:0010068,Orphanet:93357,"spondyloepimetaphyseal dysplasia, sponastrime type",True
 MONDO:0034054,MONDO:0034054,severe combined immunodeficiency due to CD70 deficiency,True
+MONDO:0005711,EFO:0007216,congenital diaphragmatic hernia,True
 MONDO:0020640,MONDO:0020640,autoimmune encephalitis,True
+MONDO:0009086,Orphanet:3217,deafness-small bowel diverticulosis-neuropathy syndrome,True
 MONDO:0054730,MONDO:0054730,spermatogenic failure 26,True
+MONDO:0002531,EFO:0004198,skin neoplasm,True
+MONDO:0007191,EFO:0003780,Behcet disease,True
 MONDO:0001475,MONDO:0001475,neutropenia,True
 MONDO:0010066,MONDO:0010066,familial isolated congenital asplenia,True
 MONDO:0009676,MONDO:0009676,autosomal recessive limb-girdle muscular dystrophy type 2B,True
@@ -304,72 +606,137 @@ MONDO:0004126,MONDO:0004126,thyroiditis,True
 MONDO:0015667,MONDO:0015667,acute myeloid leukemia by FAB classification,True
 MONDO:0008810,MONDO:0008810,familial apolipoprotein C-II deficiency,True
 MONDO:0007686,MONDO:0007686,gray platelet syndrome,True
+MONDO:0016982,EFO:0003968,angiosarcoma,True
 MONDO:0014851,MONDO:0014851,"hypercalcemia, infantile, 2",True
+MONDO:0021667,EFO:0009430,neuralgia,True
+MONDO:0004970,EFO:0000228,adenocarcinoma,True
+MONDO:0011057,EFO:0003763,cerebrovascular disorder,True
 MONDO:0009582,MONDO:0009582,Mietens syndrome,True
+MONDO:0015924,EFO:0001361,pulmonary arterial hypertension,True
+MONDO:0005116,EFO:0000775,Whipple disease,True
+MONDO:0006031,EFO:1000024,chronic rhinosinusitis,True
 MONDO:0013758,MONDO:0013758,Charcot-Marie-Tooth disease dominant intermediate E,True
 MONDO:0017778,MONDO:0017778,lamellar ichthyosis,True
 MONDO:0010298,MONDO:0010298,Lesch-Nyhan syndrome,True
+MONDO:0005989,EFO:0007517,toxoplasmosis,True
 MONDO:0004928,MONDO:0004928,lymph node disorder,True
 MONDO:0003024,MONDO:0003024,breast angiosarcoma,True
+MONDO:0005032,EFO:0000499,follicular thyroid adenoma,True
 MONDO:0007732,MONDO:0007732,Holt-Oram syndrome,True
+MONDO:0005109,EFO:0000764,HIV infectious disease,True
+MONDO:0005027,EFO:0000474,epilepsy,True
 MONDO:0011760,MONDO:0011760,Scheie syndrome,True
+MONDO:0001098,EFO:1001916,separation anxiety disorder,True
 MONDO:0005178,MONDO:0005178,osteoarthritis,True
 MONDO:0001823,MONDO:0001823,sick sinus syndrome,True
 MONDO:0024573,MONDO:0024573,familial hypertrophic cardiomyopathy,True
+MONDO:0019516,Orphanet:891,exudative vitreoretinopathy,True
 MONDO:0020074,MONDO:0020074,progressive myoclonus epilepsy,True
 MONDO:0010264,MONDO:0010264,X-linked adrenal hypoplasia congenita,True
+MONDO:0000607,EFO:0002913,primary cutaneous T-cell non-Hodgkin lymphoma,True
 MONDO:0014621,MONDO:0014621,Brugada syndrome 9,True
+MONDO:0005010,EFO:0001645,coronary artery disorder,True
+MONDO:0004974,EFO:0000239,adrenal gland pheochromocytoma,True
+MONDO:0005416,EFO:0004616,"osteoarthritis, knee",True
 MONDO:0010679,MONDO:0010679,Duchenne muscular dystrophy,True
+MONDO:0004277,DOID:7551,gonorrhea,True
+MONDO:0002869,EFO:0009551,heart valve disorder,True
+MONDO:0005377,EFO:0004255,nephrotic syndrome,True
 MONDO:0019154,MONDO:0019154,androgen insensitivity syndrome,True
+MONDO:0002081,EFO:0009676,musculoskeletal system disorder,True
 MONDO:0957981,MONDO:0957981,immunodeficiency 115 with autoinflammation,True
+MONDO:0006262,EFO:1000317,lacrimal gland adenoid cystic carcinoma,True
+MONDO:0005002,EFO:0000341,chronic obstructive pulmonary disease,True
+MONDO:0018842,EFO:1000491,primary effusion lymphoma,True
 MONDO:0054723,MONDO:0054723,spermatogenic failure 19,True
 MONDO:0037821,MONDO:0037821,porphyrin metabolism disease,True
+MONDO:0005173,EFO:0002496,actinic keratosis,True
+MONDO:0017844,EFO:1000785,Sezary syndrome,True
+MONDO:0008327,EFO:0004235,exfoliation syndrome,True
 MONDO:0002492,MONDO:0002492,acute kidney injury,True
 MONDO:0003453,MONDO:0003453,conjunctival intraepithelial neoplasm,True
 MONDO:0001627,MONDO:0001627,dementia,True
 MONDO:0002358,MONDO:0002358,laryngeal carcinoma,True
 MONDO:0000432,MONDO:0000432,lymphoplasmacytic lymphoma,True
+MONDO:0020804,EFO:0004193,basal cell carcinoma,True
 MONDO:0019917,MONDO:0019917,maternal uniparental disomy of chromosome 20,True
 MONDO:0009685,MONDO:0009685,Miyoshi myopathy,True
+MONDO:0003009,EFO:0009452,hyperaldosteronism,True
 MONDO:0002616,MONDO:0002616,mesenchymal cell neoplasm,True
 MONDO:0021192,MONDO:0021192,odontogenic neoplasm,True
+MONDO:0005354,EFO:0004220,chronic hepatitis C virus infection,True
 MONDO:0008038,MONDO:0008038,ataxia-pancytopenia syndrome,True
 MONDO:0000490,MONDO:0000490,glomerulosclerosis,True
 MONDO:0002480,MONDO:0002480,endometrioid tumor,True
 MONDO:0000771,MONDO:0000771,allergic respiratory disease,True
 MONDO:0007481,MONDO:0007481,Leri-Weill dyschondrosteosis,True
+MONDO:0019933,EFO:1001485,acromegaly,True
 MONDO:0016006,MONDO:0016006,Cockayne syndrome,True
 MONDO:0015760,MONDO:0015760,T-cell non-Hodgkin lymphoma,True
+MONDO:0004471,EFO:1001351,bacterial arthritis,True
 MONDO:0002525,MONDO:0002525,inherited lipid metabolism disorder,True
 MONDO:0001572,MONDO:0001572,leiomyoma,True
+MONDO:0006632,EFO:1000789,"osteoarthritis, hand",True
+MONDO:0005192,EFO:0002618,exocrine pancreatic carcinoma,True
+MONDO:0015925,EFO:0004244,interstitial lung disease,True
 MONDO:0021248,MONDO:0021248,nervous system neoplasm,True
 MONDO:0007795,MONDO:0007795,mullerian duct anomalies-limb anomalies syndrome,True
 MONDO:0005184,MONDO:0005184,pancreatic ductal adenocarcinoma,True
+MONDO:0018746,EFO:1000680,mucous membrane pemphigoid,True
+MONDO:0010293,Orphanet:98813,ectodermal dysplasia and immune deficiency,True
 MONDO:0800373,MONDO:0800373,carbon monoxide poisoning,True
 MONDO:0030307,MONDO:0030307,spermatogenic failure 55,True
 MONDO:0008734,MONDO:0008734,"adrenocortical carcinoma, hereditary",True
 MONDO:0013372,MONDO:0013372,long QT syndrome 5,True
 MONDO:0009833,MONDO:0009833,Shwachman-Diamond syndrome,True
+MONDO:0006377,EFO:1000483,pleural biphasic mesothelioma,True
 MONDO:0010726,MONDO:0010726,Rett syndrome,True
 MONDO:0004975,MONDO:0004975,Alzheimer disease,True
 MONDO:0007309,MONDO:0007309,Charcot-Marie-Tooth disease type 1A,True
 MONDO:0019696,MONDO:0019696,acromesomelic dysplasia,True
+MONDO:0004184,EFO:0009689,urethral disorder,True
 MONDO:0015974,MONDO:0015974,severe combined immunodeficiency,True
 MONDO:0800043,MONDO:0800043,Stüve-Wiedemann syndrome 1,True
+MONDO:0024575,EFO:0009682,pregnancy disorder,True
 MONDO:0013459,MONDO:0013459,osteogenesis imperfecta type 10,True
+MONDO:0020689,EFO:0002608,AIDS dementia complex,True
 MONDO:0007739,MONDO:0007739,Huntington disease,True
 MONDO:0019772,MONDO:0019772,blepharospasm-oromandibular dystonia syndrome,True
-MONDO:0007064,MONDO:0007064,"severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency",True
+MONDO:0010421,Orphanet:47,Bruton-type agammaglobulinemia,True
+MONDO:0005556,EFO:0005761,lupus nephritis,True
+MONDO:0006861,EFO:1001052,myeloid sarcoma,True
 MONDO:0002814,MONDO:0002814,adrenal carcinoma,True
 MONDO:0024465,MONDO:0024465,"surfactant metabolism dysfunction, pulmonary, 2",True
+MONDO:0043905,EFO:1001991,pneumonitis,True
+MONDO:0005072,EFO:0000621,neuroblastoma,True
+MONDO:0019004,Orphanet:654,kidney Wilms tumor,True
+MONDO:8000015,Orphanet:983,"46,XY sex reversal 11",True
 MONDO:0005180,MONDO:0005180,Parkinson disease,True
+MONDO:0029000,EFO:0008546,poisoning,True
 MONDO:0009571,MONDO:0009571,"Meckel syndrome, type 1",True
 MONDO:0011962,MONDO:0011962,endometrial cancer,True
 MONDO:0000491,MONDO:0000491,limb ischemia,True
+MONDO:0006292,EFO:1000355,malignant mesothelioma,True
+MONDO:0006249,EFO:1000299,hyperplastic polyp,True
 MONDO:0002635,MONDO:0002635,periodontal disorder,True
+MONDO:0020488,Orphanet:99750,atypical progressive supranuclear palsy syndrome,True
+MONDO:0011849,EFO:0003778,psoriatic arthritis,True
+MONDO:0011385,EFO:0004994,intervertebral disk degenerative disorder,True
+MONDO:0021211,EFO:0003833,brain neoplasm,True
+MONDO:0015912,EFO:0009646,macrothrombocytopenia and granulocyte inclusions with or without nephritis or sensorineural hearing loss,True
+MONDO:0018310,EFO:1000318,Langerhans cell histiocytosis,True
+MONDO:0005381,EFO:0004260,bone disorder,True
+MONDO:0018908,EFO:0005952,non-Hodgkin lymphoma,True
+MONDO:0005151,EFO:0001379,endocrine system disorder,True
+MONDO:0009975,EFO:0005287,reticulum cell sarcoma,True
 MONDO:0007056,MONDO:0007056,acroosteolysis,True
+MONDO:0000552,EFO:0008509,breast lobular carcinoma,True
 MONDO:0012923,MONDO:0012923,congenital generalized lipodystrophy type 3,True
+MONDO:0024291,EFO:0006888,vascular malformation,True
+MONDO:0017123,Orphanet:2697,arthrogryposis-renal dysfunction-cholestasis syndrome,True
+MONDO:0008714,Orphanet:1788,acrofacial dysostosis Rodriguez type,True
 MONDO:0018321,MONDO:0018321,atypical juvenile parkinsonism,True
+MONDO:0005076,EFO:0000649,periodontitis,True
 MONDO:0002253,MONDO:0002253,spondylosis,True
 MONDO:0013279,MONDO:0013279,long QT syndrome 13,True
 MONDO:0013318,MONDO:0013318,early repolarization associated with ventricular fibrillation,True
@@ -377,21 +744,43 @@ MONDO:0015746,MONDO:0015746,male infertility due to globozoospermia,True
 MONDO:0011448,MONDO:0011448,PPARG-related familial partial lipodystrophy,True
 MONDO:0019439,MONDO:0019439,AA amyloidosis,True
 MONDO:0021118,MONDO:0021118,intestinal neoplasm,True
+MONDO:0005404,EFO:0004540,myalgic encephalomeyelitis/chronic fatigue syndrome,True
+MONDO:0004977,EFO:0000255,angioimmunoblastic T-cell lymphoma,True
 MONDO:0008476,MONDO:0008476,"spondyloepimetaphyseal dysplasia, Strudwick type",True
+MONDO:0009797,Orphanet:30,orotic aciduria,True
+MONDO:0002183,EFO:0009666,enthesopathy,True
+MONDO:0008963,Orphanet:167,Chediak-Higashi syndrome,True
+MONDO:0004781,EFO:0008583,acute myocardial infarction,True
 MONDO:0033622,MONDO:0033622,spermatogenic failure 44,True
+MONDO:0005081,EFO:0000668,preeclampsia,True
 MONDO:0002050,MONDO:0002050,depressive disorder,True
+MONDO:0006216,EFO:1000263,gallbladder adenoma,True
+MONDO:0007047,EFO:1000758,punctate palmoplantar keratoderma type III,True
 MONDO:0043479,MONDO:0043479,adenoviridae infectious disease,True
+MONDO:0005525,EFO:0005592,T-cell leukemia,True
 MONDO:0020066,MONDO:0020066,Ehlers-Danlos syndrome,True
 MONDO:0009491,MONDO:0009491,Haim-Munk syndrome,True
 MONDO:0009480,MONDO:0009480,Joubert syndrome with oculorenal defect,True
+MONDO:0008977,EFO:0000333,chondrosarcoma,True
 MONDO:0030996,MONDO:0030996,"bleeding disorder, platelet-type, 24",True
+MONDO:0000082,EFO:0004710,pelvic organ prolapse,True
 MONDO:0957809,MONDO:0957809,"neutropenia, severe congenital, 10, autosomal recessive",True
+MONDO:0009925,Orphanet:758,autosomal recessive inherited pseudoxanthoma elasticum,True
+MONDO:0005468,EFO:0005251,hypotensive disorder,True
 MONDO:0030925,MONDO:0030925,oocyte maturation defect 10,True
+MONDO:0005376,EFO:0004254,membranous glomerulonephritis,True
+MONDO:0002305,EFO:0009315,thrombophilia,True
+MONDO:0005099,EFO:0000713,subarachnoid hemorrhage,True
 MONDO:0013044,MONDO:0013044,atypical hemolytic-uremic syndrome with thrombomodulin anomaly,True
 MONDO:0017413,MONDO:0017413,Reunion island Larsen syndrome,True
 MONDO:0033673,MONDO:0033673,spermatogenic failure 46,True
+MONDO:0005373,EFO:0004249,meningococcal infection,True
+MONDO:0005052,EFO:0000555,irritable bowel syndrome,True
 MONDO:0009735,MONDO:0009735,Netherton syndrome,True
+MONDO:0005154,EFO:0001421,liver disorder,True
 MONDO:0018237,MONDO:0018237,acrofacial dysostosis,True
+MONDO:0005350,EFO:0004214,abdominal aortic aneurysm,True
+MONDO:0006394,EFO:1000504,rectal tubular adenoma,True
 MONDO:0015524,MONDO:0015524,hyperplastic polyposis syndrome,True
 MONDO:0008708,MONDO:0008708,acrocallosal syndrome,True
 MONDO:0859522,MONDO:0859522,spermatogenic failure 81,True
@@ -406,16 +795,26 @@ MONDO:0004651,MONDO:0004651,smallpox,True
 MONDO:0020336,MONDO:0020336,autosomal dominant Emery-Dreifuss muscular dystrophy,True
 MONDO:0014804,MONDO:0014804,sideroblastic anemia 3,True
 MONDO:0003519,MONDO:0003519,malignant syringoma,True
+MONDO:0005036,EFO:0000503,gastric adenocarcinoma,True
 MONDO:0022529,MONDO:0022529,BK-virus nephropathy,True
 MONDO:0019391,MONDO:0019391,Fanconi anemia,True
 MONDO:0012657,MONDO:0012657,Mungan syndrome,True
 MONDO:0001291,MONDO:0001291,brain compression,True
 MONDO:0010997,MONDO:0010997,"supranuclear palsy, progressive, 1",True
+MONDO:0005550,EFO:0005741,infectious disease,True
+MONDO:0004952,EFO:0000183,Hodgkins lymphoma,True
+MONDO:0005345,EFO:0004209,hypospadias,True
+MONDO:0005132,EFO:0001062,cytomegalovirus infection,True
 MONDO:0030506,MONDO:0030506,ovarian dysgenesis 9,True
 MONDO:0021945,MONDO:0021945,hearing disorder,True
 MONDO:0010580,MONDO:0010580,immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome,True
+MONDO:0006181,EFO:1000218,digestive system carcinoma,True
 MONDO:0011182,MONDO:0011182,trimethylaminuria,True
 MONDO:0010302,MONDO:0010302,Ito hypomelanosis,True
+MONDO:0009852,Orphanet:332,hereditary intrinsic factor deficiency,True
+MONDO:0019454,EFO:0003811,myelodysplastic syndrome with excess blasts,True
+MONDO:0006314,EFO:1000391,nasal cavity polyp,True
+MONDO:0001889,EFO:0009003,ovarian dysfunction,True
 MONDO:0011717,MONDO:0011717,hyperinsulinism-hyperammonemia syndrome,True
 MONDO:0004737,MONDO:0004737,homocystinuria,True
 MONDO:0015540,MONDO:0015540,hemophagocytic syndrome,True
@@ -423,3 +822,4 @@ MONDO:0019472,MONDO:0019472,extranodal nasal NK/T cell lymphoma,True
 MONDO:0002041,MONDO:0002041,fungal infectious disease,True
 MONDO:0011988,MONDO:0011988,neutrophil immunodeficiency syndrome,True
 MONDO:0010444,MONDO:0010444,X-linked dyserythropoetic anemia with abnormal platelets and neutropenia,True
+MONDO:0006485,EFO:1000613,uterine carcinosarcoma,True

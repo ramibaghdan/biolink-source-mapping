@@ -12,7 +12,8 @@ Identifier handling matches mapping_decisions.md:
     (symbol -> entrez for DGIdb, ensembl -> entrez for Open Targets). This is what makes
     the same gene one node, so drug -> gene -> disease paths actually connect.
   - disease ids are converted from underscore to colon CURIE form (EFO_0003950 -> EFO:0003950)
-    and kept in their original ontology where no cross-reference is supplied.
+    and, when --mondo-nodes is supplied, EFO/DOID/Orphanet/OTAR ids with unique MONDO xrefs
+    are normalized to MONDO; unmapped ids stay in their original ontology.
 No network calls.
 """
 
@@ -22,6 +23,7 @@ import pandas as pd
 
 import ingest
 from mondo_labels import apply_mondo_labels, load_mondo_labels
+from mondo_normalize import apply_mondo_normalization, load_mondo_xrefs
 
 MAP_DIR = "mappings"
 OUT_DIR = "output"
@@ -73,7 +75,6 @@ def build(hgnc_path, mondo_nodes_path=None):
     pred_map = load_maps()
     dgidb = ingest.load_dgidb()
     ot = ingest.load_opentargets()
-    mondo_labels = load_mondo_labels(mondo_nodes_path) if mondo_nodes_path else None
 
     pred_lookup = dict(zip(pred_map["source_relationship"].str.lower(),
                            pred_map["biolink_predicate"]))
@@ -142,13 +143,25 @@ def build(hgnc_path, mondo_nodes_path=None):
                              for k, v in nodes.items()])
     edges_df = pd.DataFrame(edges)
 
-    if mondo_labels:
-        nodes_df, mondo_report = apply_mondo_labels(nodes_df, mondo_labels)
-        mondo_report.to_csv(os.path.join(OUT_DIR, "mondo_name_enrichment.csv"), index=False)
-        matched = int(mondo_report["matched"].sum())
-        total = len(mondo_report)
+    if mondo_nodes_path:
+        xref_map, ambiguous_xrefs = load_mondo_xrefs(mondo_nodes_path)
+        nodes_df, edges_df, norm_report = apply_mondo_normalization(
+            nodes_df, edges_df, xref_map
+        )
+        norm_report.to_csv(os.path.join(OUT_DIR, "mondo_normalization.csv"), index=False)
+        mapped = int(norm_report["normalized"].sum())
+        candidates = norm_report[norm_report["status"].isin({"mapped", "unmapped"})]
+        print(f"mondo normalization: {mapped}/{len(candidates)} EFO/DOID/Orphanet/OTAR ids -> MONDO")
+        if ambiguous_xrefs:
+            print(f"  ambiguous xrefs excluded from map: {len(ambiguous_xrefs)}")
+
+        mondo_labels = load_mondo_labels(mondo_nodes_path)
+        nodes_df, label_report = apply_mondo_labels(nodes_df, mondo_labels)
+        label_report.to_csv(os.path.join(OUT_DIR, "mondo_name_enrichment.csv"), index=False)
+        matched = int(label_report["matched"].sum())
+        total = len(label_report)
         print(f"mondo labels applied: {matched}/{total} MONDO disease nodes named")
-        unmatched = mondo_report[~mondo_report["matched"]]["mondo_id"].tolist()
+        unmatched = label_report[~label_report["matched"]]["mondo_id"].tolist()
         if unmatched:
             print(f"mondo ids without label (kept as id): {unmatched[:5]}"
                   + (f" ... +{len(unmatched)-5} more" if len(unmatched) > 5 else ""))
@@ -178,7 +191,7 @@ if __name__ == "__main__":
     ap.add_argument(
         "--mondo-nodes",
         default=None,
-        help="path to mondo_nodes.tsv from a MONDO release (enriches MONDO disease names)",
+        help="path to mondo_nodes.tsv from a MONDO release (normalize to MONDO + enrich names)",
     )
     args = ap.parse_args()
     build(hgnc_path=args.hgnc, mondo_nodes_path=args.mondo_nodes)

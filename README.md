@@ -60,13 +60,15 @@ biolink_source_mapping/
 │   ├── ingest.py                # load and clean the samples
 │   ├── map_to_biolink.py        # apply the mappings, produce nodes and edges
 │   ├── mondo_labels.py          # MONDO id -> disease name from mondo_nodes.tsv
+│   ├── mondo_normalize.py       # EFO/DOID/Orphanet -> MONDO via release xrefs
 │   ├── fetch_mondo_release.py   # download mondo_nodes.tsv from a MONDO release
 │   ├── validate.py              # confirm Biolink terms, print a summary
 │   └── requirements.txt
 └── output/
     ├── nodes.csv                # Biolink entities
     ├── edges.csv                # Biolink triples
-    ├── mondo_name_enrichment.csv # MONDO id -> label lookup report (when --mondo-nodes used)
+    ├── mondo_normalization.csv  # EFO/DOID/Orphanet -> MONDO xref report
+    ├── mondo_name_enrichment.csv # MONDO id -> label lookup report
     └── before_after_examples.md # raw row -> triple, with explanation
 ```
 
@@ -106,9 +108,9 @@ downloads are not committed. See [data/README.md](data/README.md).
 ## Planned enhancements
 
 - ~~Normalize disease identifiers to a single ontology (MONDO) using a cross-reference file.~~
-  **Partial:** MONDO disease nodes are now enriched with human-readable labels from the
-  pinned MONDO release (`v2026-06-02`). Cross-ontology normalization (EFO/DOID → MONDO) is
-  still planned.
+  **Done (partial):** EFO, DOID, Orphanet, and OTAR ids map to MONDO via release xrefs;
+  unmapped ids and phenotype ontologies (HP, OBA, GO, MP) stay in their source ontology.
+  MONDO nodes also receive human-readable labels from release `v2026-06-02`.
 - An optional LLM-assisted step that proposes Biolink mappings for source terms not yet in the
   mapping tables, with a human accepting or rejecting each suggestion. The current version is
   fully deterministic.

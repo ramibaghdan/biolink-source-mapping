@@ -25,6 +25,10 @@ python src/fetch_mondo_release.py --release v2026-06-02 --out data/mondo/mondo_n
 python src/map_to_biolink.py --hgnc hgnc_complete_set.txt --mondo-nodes data/mondo/mondo_nodes.tsv
 ```
 
-MONDO-prefixed disease nodes in `output/nodes.csv` get human-readable names from the
-release. Non-MONDO disease ids (EFO, DOID, Orphanet, OTAR) are unchanged. The enrichment
-report is written to `output/mondo_name_enrichment.csv`.
+When `--mondo-nodes` is supplied, the pipeline:
+
+1. **Normalizes** EFO, DOID, Orphanet, and OTAR disease ids to MONDO using xrefs in the
+   release (report: `output/mondo_normalization.csv`). HP, OBA, GO, MP, and unmapped ids
+   are left unchanged.
+2. **Enriches** all MONDO disease nodes with human-readable labels (report:
+   `output/mondo_name_enrichment.csv`).

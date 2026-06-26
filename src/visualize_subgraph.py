@@ -2,17 +2,11 @@
 visualize_subgraph.py
 
 Draw the drug -> gene -> disease neighborhood for one gene from the generated edges,
-and save it as a PNG in figures/. This makes the connected structure visible: drugs on
-the left, the anchor gene in the middle, diseases on the right.
+and save it as a PNG in figures/. Drugs on the left, anchor gene in the center, diseases
+on the right. Labels come from output/nodes.csv (MONDO names after normalization).
 
-Disease labels come from output/nodes.csv (MONDO names after normalization/enrichment).
-Unmapped ids (where name equals the CURIE) are shown with their ontology prefix.
-
-Run from the project root, for example:
+Run from the project root:
   python src/visualize_subgraph.py --gene NCBIGene:6416
-  python src/visualize_subgraph.py --gene NCBIGene:6416 --max-diseases 10 --max-drugs 8
-
-NCBIGene:6416 is MAP2K2 (MEK2), a well-connected gene in the sample.
 """
 
 import argparse
@@ -20,21 +14,25 @@ import os
 import textwrap
 
 import matplotlib
-matplotlib.use("Agg")  # no display needed; write straight to file
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-import networkx as nx
+from matplotlib.patches import FancyArrowPatch, FancyBboxPatch
 import pandas as pd
 
 EDGES = "output/edges.csv"
 NODES = "output/nodes.csv"
 FIG_DIR = "figures"
 
-WRAP_WIDTH = {"drug": 11, "gene": 10, "disease": 16}
-FONT_SIZE = 7
+COLORS = {"drug": "#5B8FF9", "gene": "#F6BD16", "disease": "#5AD8A6"}
+FONT_SIZE = 8
+WRAP_WIDTH = {"drug": 14, "gene": 12, "disease": 22}
+PAD_X = 0.35
+PAD_Y = 0.22
+V_GAP = 0.35
+COL_GAP = 1.2
 
 
 def short(label, keep_prefix=False):
-    """Trim the source prefix so labels read cleanly."""
     if keep_prefix:
         return label
     return label.split(":", 1)[1] if ":" in label else label
@@ -46,7 +44,6 @@ def load_node_names():
 
 
 def raw_label(node_id, node_names, kind):
-    """Full display text before wrapping."""
     name = node_names.get(node_id, node_id)
     if kind == "disease":
         if name and name != node_id:
@@ -56,7 +53,6 @@ def raw_label(node_id, node_names, kind):
 
 
 def wrap_label(text, kind):
-    """Wrap label to multiple lines so it fits inside the node circle."""
     return textwrap.fill(
         str(text),
         width=WRAP_WIDTH[kind],
@@ -65,13 +61,85 @@ def wrap_label(text, kind):
     )
 
 
-def node_size(label, kind):
-    """Scale circle area from wrapped line count and longest line."""
-    lines = label.split("\n")
-    max_len = max(len(line) for line in lines)
-    n_lines = len(lines)
-    base = {"drug": 1500, "gene": 1700, "disease": 1700}[kind]
-    return base + (n_lines - 1) * 450 + max(0, max_len - 8) * 90
+class LabeledNode:
+    """Rounded box drawn to fit its label text."""
+
+    def __init__(self, node_id, kind, label):
+        self.node_id = node_id
+        self.kind = kind
+        self.label = label
+        self.x = 0.0
+        self.y = 0.0
+        self.w = 0.0
+        self.h = 0.0
+        self.patch = None
+        self.text = None
+
+    def measure(self, ax, renderer):
+        self.text = ax.text(
+            0, 0, self.label, ha="center", va="center",
+            fontsize=FONT_SIZE, linespacing=1.2, visible=False,
+        )
+        bbox = self.text.get_window_extent(renderer).transformed(ax.transData.inverted())
+        self.text.remove()
+        self.text = None
+        self.w = bbox.width + 2 * PAD_X
+        self.h = bbox.height + 2 * PAD_Y
+
+    def draw(self, ax):
+        rounding = min(self.w, self.h) * 0.18
+        self.patch = FancyBboxPatch(
+            (self.x - self.w / 2, self.y - self.h / 2),
+            self.w, self.h,
+            boxstyle=f"round,pad=0,rounding_size={rounding}",
+            facecolor=COLORS[self.kind],
+            edgecolor="white",
+            linewidth=0.8,
+            alpha=0.95,
+            zorder=2,
+        )
+        ax.add_patch(self.patch)
+        self.text = ax.text(
+            self.x, self.y, self.label, ha="center", va="center",
+            fontsize=FONT_SIZE, linespacing=1.2, zorder=3,
+        )
+
+    @property
+    def left(self):
+        return self.x - self.w / 2
+
+    @property
+    def right(self):
+        return self.x + self.w / 2
+
+
+def stack_column(nodes, x):
+    """Vertically stack nodes at column x without overlap."""
+    if not nodes:
+        return
+    total = sum(n.h for n in nodes) + V_GAP * (len(nodes) - 1)
+    y = total / 2
+    for node in nodes:
+        node.x = x
+        node.y = y - node.h / 2
+        y -= node.h + V_GAP
+
+
+def column_x(nodes, side, ref_x, ref_w):
+    """Place a column beside a reference node."""
+    max_w = max(n.w for n in nodes)
+    if side == "left":
+        return ref_x - ref_w / 2 - COL_GAP - max_w / 2
+    return ref_x + ref_w / 2 + COL_GAP + max_w / 2
+
+
+def draw_arrow(ax, src, dst):
+    ax.add_patch(FancyArrowPatch(
+        (src.right, src.y), (dst.left, dst.y),
+        arrowstyle="-|>", mutation_scale=12,
+        color="#888888", linewidth=1.0,
+        shrinkA=0, shrinkB=0, zorder=1,
+    ))
 
 
 def build(gene, max_drugs, max_diseases, gene_name):
@@ -86,70 +154,74 @@ def build(gene, max_drugs, max_diseases, gene_name):
     if drug_edges.empty and dis_edges.empty:
         raise SystemExit(f"No edges found for {gene}. Check the id against output/edges.csv.")
 
-    g = nx.DiGraph()
     center_text = gene_name or raw_label(gene, node_names, "gene")
-    center_label = wrap_label(center_text, "gene")
-    g.add_node(gene, kind="gene", label=center_label)
+    gene_node = LabeledNode(gene, "gene", wrap_label(center_text, "gene"))
 
-    pos = {}
-    pos[gene] = (0, 0)
+    drug_nodes = [
+        LabeledNode(row["subject"], "drug", wrap_label(raw_label(row["subject"], node_names, "drug"), "drug"))
+        for _, row in drug_edges.iterrows()
+    ]
+    disease_nodes = [
+        LabeledNode(row["object"], "disease", wrap_label(raw_label(row["object"], node_names, "disease"), "disease"))
+        for _, row in dis_edges.iterrows()
+    ]
 
-    row_count = max(len(drug_edges), len(dis_edges), 1)
-    y_step = max(1.15, 5.5 / row_count)
+    # Measure all label boxes on a scratch axis (same font/size as final figure).
+    fig, ax = plt.subplots(figsize=(8, 8))
+    ax.set_xlim(-10, 10)
+    ax.set_ylim(-10, 10)
+    renderer = fig.canvas.get_renderer()
+    for node in [gene_node] + drug_nodes + disease_nodes:
+        node.measure(ax, renderer)
+    plt.close(fig)
 
-    drugs = list(drug_edges["subject"])
-    for i, (_, row) in enumerate(drug_edges.iterrows()):
-        drug_id = row["subject"]
-        label = wrap_label(raw_label(drug_id, node_names, "drug"), "drug")
-        g.add_node(drug_id, kind="drug", label=label)
-        g.add_edge(drug_id, gene, label=row["source_relationship"])
-        y = (i - (len(drugs) - 1) / 2) * y_step
-        pos[drug_id] = (-4.2, y)
+    gene_node.x = 0.0
+    gene_node.y = 0.0
+    stack_column(drug_nodes, column_x(drug_nodes, "left", gene_node.x, gene_node.w))
+    stack_column(disease_nodes, column_x(disease_nodes, "right", gene_node.x, gene_node.w))
 
-    diseases = list(dis_edges["object"])
-    for i, (_, row) in enumerate(dis_edges.iterrows()):
-        disease_id = row["object"]
-        label = wrap_label(raw_label(disease_id, node_names, "disease"), "disease")
-        g.add_node(disease_id, kind="disease", label=label)
-        g.add_edge(gene, disease_id, label="associated_with")
-        y = (i - (len(diseases) - 1) / 2) * y_step
-        pos[disease_id] = (4.2, y)
+    # Center all columns vertically on the gene node.
+    for column in (drug_nodes, disease_nodes):
+        if not column:
+            continue
+        col_center = (column[0].y + column[-1].y) / 2
+        shift = gene_node.y - col_center
+        for node in column:
+            node.y += shift
 
-    node_list = list(g.nodes())
-    labels = {n: g.nodes[n]["label"] for n in node_list}
-    sizes = [node_size(labels[n], g.nodes[n]["kind"]) for n in node_list]
-    colors = [{"drug": "#5B8FF9", "gene": "#F6BD16", "disease": "#5AD8A6"}[g.nodes[n]["kind"]]
-              for n in node_list]
+    all_nodes = drug_nodes + [gene_node] + disease_nodes
+    xs = [n.left for n in all_nodes] + [n.right for n in all_nodes]
+    ys = [n.y - n.h / 2 for n in all_nodes] + [n.y + n.h / 2 for n in all_nodes]
 
-    fig_h = max(7, row_count * 0.85 + 2)
-    plt.figure(figsize=(15, fig_h))
-    nx.draw_networkx_nodes(
-        g, pos, nodelist=node_list, node_color=colors, node_size=sizes, alpha=0.95,
-    )
-    nx.draw_networkx_edges(
-        g, pos, arrows=True, arrowsize=12, edge_color="#999999",
-        node_size=sizes, min_source_margin=15, min_target_margin=20,
-    )
-    nx.draw_networkx_labels(
-        g, pos, labels=labels, font_size=FONT_SIZE, font_weight="regular",
-    )
+    fig_h = max(8, (max(ys) - min(ys)) + 2)
+    fig_w = max(14, (max(xs) - min(xs)) + 3)
+    fig, ax = plt.subplots(figsize=(fig_w, fig_h))
+    ax.set_xlim(min(xs) - 0.8, max(xs) + 0.8)
+    ax.set_ylim(min(ys) - 0.6, max(ys) + 0.6)
 
-    plt.title(f"Drug -> Gene -> Disease neighborhood for {center_text}", fontsize=12)
-    plt.axis("off")
-    plt.tight_layout()
+    for drug in drug_nodes:
+        draw_arrow(ax, drug, gene_node)
+    for disease in disease_nodes:
+        draw_arrow(ax, gene_node, disease)
+
+    for node in all_nodes:
+        node.draw(ax)
+
+    ax.set_title(f"Drug -> Gene -> Disease neighborhood for {center_text}", fontsize=12, pad=12)
+    ax.axis("off")
 
     os.makedirs(FIG_DIR, exist_ok=True)
     out = os.path.join(FIG_DIR, f"subgraph_{short(gene)}.png")
-    plt.savefig(out, dpi=150, bbox_inches="tight")
-    plt.close()
+    fig.savefig(out, dpi=150, bbox_inches="tight")
+    plt.close(fig)
     print(f"wrote {out}")
-    print(f"drugs shown: {len(drugs)}, diseases shown: {len(diseases)}")
+    print(f"drugs shown: {len(drug_nodes)}, diseases shown: {len(disease_nodes)}")
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--gene", default="NCBIGene:6416", help="gene node id from edges.csv")
-    ap.add_argument("--gene-name", default="MAP2K2", help="readable name for the center node")
+    ap.add_argument("--gene", default="NCBIGene:6416")
+    ap.add_argument("--gene-name", default="MAP2K2")
     ap.add_argument("--max-drugs", type=int, default=8)
     ap.add_argument("--max-diseases", type=int, default=10)
     args = ap.parse_args()

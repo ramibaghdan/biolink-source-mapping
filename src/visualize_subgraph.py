@@ -29,6 +29,9 @@ EDGES = "output/edges.csv"
 NODES = "output/nodes.csv"
 FIG_DIR = "figures"
 
+WRAP_WIDTH = {"drug": 11, "gene": 10, "disease": 16}
+FONT_SIZE = 7
+
 
 def short(label, keep_prefix=False):
     """Trim the source prefix so labels read cleanly."""
@@ -42,20 +45,33 @@ def load_node_names():
     return dict(zip(nodes["id"], nodes["name"].fillna(nodes["id"])))
 
 
-def display_label(node_id, node_names, kind, max_len=32):
-    """Prefer human-readable names from nodes.csv; fall back to CURIE form."""
+def raw_label(node_id, node_names, kind):
+    """Full display text before wrapping."""
     name = node_names.get(node_id, node_id)
     if kind == "disease":
         if name and name != node_id:
-            label = name
-        else:
-            label = short(node_id, keep_prefix=True)
-    else:
-        label = name if name else short(node_id)
+            return name
+        return short(node_id, keep_prefix=True)
+    return name if name else short(node_id)
 
-    if len(label) > max_len:
-        return textwrap.shorten(label, width=max_len, placeholder="…")
-    return label
+
+def wrap_label(text, kind):
+    """Wrap label to multiple lines so it fits inside the node circle."""
+    return textwrap.fill(
+        str(text),
+        width=WRAP_WIDTH[kind],
+        break_long_words=False,
+        break_on_hyphens=True,
+    )
+
+
+def node_size(label, kind):
+    """Scale circle area from wrapped line count and longest line."""
+    lines = label.split("\n")
+    max_len = max(len(line) for line in lines)
+    n_lines = len(lines)
+    base = {"drug": 1500, "gene": 1700, "disease": 1700}[kind]
+    return base + (n_lines - 1) * 450 + max(0, max_len - 8) * 90
 
 
 def build(gene, max_drugs, max_diseases, gene_name):
@@ -71,43 +87,54 @@ def build(gene, max_drugs, max_diseases, gene_name):
         raise SystemExit(f"No edges found for {gene}. Check the id against output/edges.csv.")
 
     g = nx.DiGraph()
-    center = gene_name or display_label(gene, node_names, "gene")
-    g.add_node(gene, kind="gene", label=center)
+    center_text = gene_name or raw_label(gene, node_names, "gene")
+    center_label = wrap_label(center_text, "gene")
+    g.add_node(gene, kind="gene", label=center_label)
 
     pos = {}
     pos[gene] = (0, 0)
 
-    # drugs on the left
+    row_count = max(len(drug_edges), len(dis_edges), 1)
+    y_step = max(1.15, 5.5 / row_count)
+
     drugs = list(drug_edges["subject"])
     for i, (_, row) in enumerate(drug_edges.iterrows()):
         drug_id = row["subject"]
-        g.add_node(drug_id, kind="drug",
-                   label=display_label(drug_id, node_names, "drug"))
+        label = wrap_label(raw_label(drug_id, node_names, "drug"), "drug")
+        g.add_node(drug_id, kind="drug", label=label)
         g.add_edge(drug_id, gene, label=row["source_relationship"])
-        y = (i - (len(drugs) - 1) / 2) * 1.0
-        pos[drug_id] = (-3, y)
+        y = (i - (len(drugs) - 1) / 2) * y_step
+        pos[drug_id] = (-4.2, y)
 
-    # diseases on the right
     diseases = list(dis_edges["object"])
     for i, (_, row) in enumerate(dis_edges.iterrows()):
         disease_id = row["object"]
-        g.add_node(disease_id, kind="disease",
-                   label=display_label(disease_id, node_names, "disease"))
+        label = wrap_label(raw_label(disease_id, node_names, "disease"), "disease")
+        g.add_node(disease_id, kind="disease", label=label)
         g.add_edge(gene, disease_id, label="associated_with")
-        y = (i - (len(diseases) - 1) / 2) * 1.0
-        pos[disease_id] = (3, y)
+        y = (i - (len(diseases) - 1) / 2) * y_step
+        pos[disease_id] = (4.2, y)
 
-    labels = {n: g.nodes[n]["label"] for n in g.nodes}
-    color = {"drug": "#5B8FF9", "gene": "#F6BD16", "disease": "#5AD8A6"}
-    node_colors = [color[g.nodes[n]["kind"]] for n in g.nodes]
+    node_list = list(g.nodes())
+    labels = {n: g.nodes[n]["label"] for n in node_list}
+    sizes = [node_size(labels[n], g.nodes[n]["kind"]) for n in node_list]
+    colors = [{"drug": "#5B8FF9", "gene": "#F6BD16", "disease": "#5AD8A6"}[g.nodes[n]["kind"]]
+              for n in node_list]
 
-    plt.figure(figsize=(14, max(6, 0.55 * max(len(drugs), len(diseases)) + 2)))
-    nx.draw_networkx_nodes(g, pos, node_color=node_colors, node_size=1800, alpha=0.95)
-    nx.draw_networkx_edges(g, pos, arrows=True, arrowsize=14, edge_color="#999999",
-                           node_size=1800)
-    nx.draw_networkx_labels(g, pos, labels=labels, font_size=8)
+    fig_h = max(7, row_count * 0.85 + 2)
+    plt.figure(figsize=(15, fig_h))
+    nx.draw_networkx_nodes(
+        g, pos, nodelist=node_list, node_color=colors, node_size=sizes, alpha=0.95,
+    )
+    nx.draw_networkx_edges(
+        g, pos, arrows=True, arrowsize=12, edge_color="#999999",
+        node_size=sizes, min_source_margin=15, min_target_margin=20,
+    )
+    nx.draw_networkx_labels(
+        g, pos, labels=labels, font_size=FONT_SIZE, font_weight="regular",
+    )
 
-    plt.title(f"Drug -> Gene -> Disease neighborhood for {center}", fontsize=12)
+    plt.title(f"Drug -> Gene -> Disease neighborhood for {center_text}", fontsize=12)
     plt.axis("off")
     plt.tight_layout()
 

@@ -372,7 +372,9 @@ def run(hgnc_path, mondo_nodes_path=None, label_cache=DEFAULT_LABEL_CACHE):
     if len(name_report):
         for source, group in name_report.groupby("label_source"):
             print(f"named ({source}): {int(group['matched'].sum())}/{len(group)}")
-        unresolved = name_report[~name_report["matched"]]["id"].tolist()
+        # Check the nodes, not the report. A node the release pass missed can still
+        # be named by the OLS4 pass, and it has one report row per pass.
+        unresolved = lookups.find_unlabeled(nodes)
         if unresolved:
             shown = ", ".join(unresolved[:5])
             more = f" +{len(unresolved) - 5} more" if len(unresolved) > 5 else ""

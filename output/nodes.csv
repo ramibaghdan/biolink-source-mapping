@@ -679,11 +679,11 @@ DRUG_NAME:GLPG-0974,biolink:ChemicalEntity,GLPG-0974
 DRUG_NAME:nedosiran,biolink:ChemicalEntity,nedosiran
 DRUG_NAME:PROGESTERONE,biolink:ChemicalEntity,PROGESTERONE
 MONDO:0000358,biolink:Disease,orofacial cleft
-EFO:0006890,biolink:Disease,EFO:0006890
+EFO:0006890,biolink:Disease,fibrosis
 MONDO:0005420,biolink:Disease,hypothyroidism
 MONDO:0005348,biolink:Disease,keloid
 MONDO:0009239,biolink:Disease,hypogonadotropic hypogonadism 24 without anosmia
-EFO:1001461,biolink:Disease,EFO:1001461
+EFO:1001461,biolink:Disease,endothelial dysfunction
 MONDO:0005058,biolink:Disease,leiomyosarcoma
 MONDO:0010121,biolink:Disease,thrombocytopenia-absent radius syndrome
 MONDO:0002108,biolink:Disease,thyroid cancer
@@ -692,39 +692,39 @@ MONDO:0040679,biolink:Disease,urothelial carcinoma
 MONDO:0008523,biolink:Disease,Blau syndrome
 MONDO:0010891,biolink:Disease,lethal hemolytic anemia-genital anomalies syndrome
 MONDO:0020310,biolink:Disease,familial focal epilepsy with variable foci
-EFO:0021901,biolink:Disease,EFO:0021901
-EFO:0005140,biolink:Disease,EFO:0005140
-GO:0009410,biolink:Disease,GO:0009410
+EFO:0021901,biolink:Disease,cholesterol in large LDL measurement
+EFO:0005140,biolink:Disease,obsolete_autoimmune disease
+GO:0009410,biolink:Disease,response to xenobiotic stimulus
 MONDO:0024883,biolink:Disease,metastatic neoplasm
 MONDO:0004483,biolink:Disease,thyroid gland oncocytic adenoma
 MONDO:0005275,biolink:Disease,lung disorder
-EFO:0022148,biolink:Disease,EFO:0022148
+EFO:0022148,biolink:Disease,total lipids in small VLDL
 MONDO:0005113,biolink:Disease,bacterial infectious disease
-EFO:0006335,biolink:Disease,EFO:0006335
+EFO:0006335,biolink:Disease,systolic blood pressure
 MONDO:0005044,biolink:Disease,hypertensive disorder
 MONDO:0014248,biolink:Disease,autism spectrum disorder - epilepsy - arthrogryposis syndrome
 MONDO:0005265,biolink:Disease,inflammatory bowel disease
 MONDO:0005015,biolink:Disease,diabetes mellitus
 MONDO:0011142,biolink:Disease,"Ehlers-Danlos syndrome, musculocontractural type"
 MONDO:0008170,biolink:Disease,ovarian cancer
-HP:0040187,biolink:Disease,HP:0040187
+HP:0040187,biolink:Disease,Neonatal sepsis
 MONDO:0019018,biolink:Disease,Tako-tsubo cardiomyopathy
 MONDO:0004992,biolink:Disease,cancer
 MONDO:0021201,biolink:Disease,skin infection
-OBA:1000840,biolink:Disease,OBA:1000840
+OBA:1000840,biolink:Disease,alcohol consumption quality
 MONDO:0005258,biolink:Disease,autism spectrum disorder
 MONDO:0010356,biolink:Disease,nephrogenic syndrome of inappropriate antidiuresis
 MONDO:0008280,biolink:Disease,Peutz-Jeghers syndrome
-HP:0001270,biolink:Disease,HP:0001270
+HP:0001270,biolink:Disease,Motor delay
 MONDO:0005271,biolink:Disease,allergic disease
 MONDO:0021681,biolink:Disease,sexually transmitted disease
 MONDO:0005342,biolink:Disease,IgA glomerulonephritis
 MONDO:0005335,biolink:Disease,colorectal neoplasm
 MONDO:0005016,biolink:Disease,diabetic kidney disease
 MONDO:0017885,biolink:Disease,chromophobe renal cell carcinoma
-HP:0002015,biolink:Disease,HP:0002015
+HP:0002015,biolink:Disease,Dysphagia
 MONDO:0010720,biolink:Disease,partial androgen insensitivity syndrome
-EFO:1001248,biolink:Disease,EFO:1001248
+EFO:1001248,biolink:Disease,non-alcoholic fatty liver
 MONDO:0004986,biolink:Disease,urinary bladder carcinoma
 MONDO:0007147,biolink:Disease,obstructive sleep apnea syndrome
 MONDO:0019306,biolink:Disease,congenital non-bullous ichthyosiform erythroderma
@@ -732,55 +732,55 @@ MONDO:0005369,biolink:Disease,carcinoid tumor
 MONDO:0005960,biolink:Disease,silicosis
 MONDO:0011382,biolink:Disease,sickle cell disease
 MONDO:0044721,biolink:Disease,severe combined immunodeficiency due to LAT deficiency
-EFO:0009765,biolink:Disease,EFO:0009765
+EFO:0009765,biolink:Disease,alanine measurement
 MONDO:0007355,biolink:Disease,uveal coloboma-cleft lip and palate-intellectual disability
 MONDO:0005155,biolink:Disease,cirrhosis of liver
 MONDO:0008315,biolink:Disease,prostate cancer
 MONDO:0011603,biolink:Disease,GNE myopathy
-OBA:0003277,biolink:Disease,OBA:0003277
+OBA:0003277,biolink:Disease,platelet volume
 MONDO:0024477,biolink:Disease,liver and intrahepatic bile duct neoplasm
 MONDO:0018078,biolink:Disease,soft tissue sarcoma
 MONDO:0006026,biolink:Disease,urinary bladder disorder
 MONDO:0005347,biolink:Disease,hypertriglyceridemia
 MONDO:0005814,biolink:Disease,intestinal cancer
-EFO:0004995,biolink:Disease,EFO:0004995
+EFO:0004995,biolink:Disease,lean body mass
 MONDO:0001085,biolink:Disease,interstitial nephritis
-EFO:0004530,biolink:Disease,EFO:0004530
+EFO:0004530,biolink:Disease,triglyceride measurement
 MONDO:0005037,biolink:Disease,gastric intestinal type adenocarcinoma
 MONDO:0009724,biolink:Disease,nail-patella-like renal disease
-EFO:0020865,biolink:Disease,EFO:0020865
+EFO:0020865,biolink:Disease,aortic measurement
 MONDO:0010015,biolink:Disease,anterior segment dysgenesis 7
-HP:0001873,biolink:Disease,HP:0001873
+HP:0001873,biolink:Disease,Thrombocytopenia
 MONDO:0009061,biolink:Disease,cystic fibrosis
 MONDO:0016064,biolink:Disease,cleft palate
 MONDO:0957594,biolink:Disease,spermatogenic failure 87
 MONDO:0005311,biolink:Disease,atherosclerosis
-EFO:0009085,biolink:Disease,EFO:0009085
+EFO:0009085,biolink:Disease,arterial occlusive disease
 MONDO:0021156,biolink:Disease,hypophysitis
 MONDO:0013588,biolink:Disease,Perrault syndrome 3
 MONDO:0017795,biolink:Disease,ameloblastoma
 MONDO:0005061,biolink:Disease,lung adenocarcinoma
-EFO:0022237,biolink:Disease,EFO:0022237
-EFO:0008572,biolink:Disease,EFO:0008572
+EFO:0022237,biolink:Disease,cholesterol to total lipids in medium HDL percentage
+EFO:0008572,biolink:Disease,malnutrition
 MONDO:0010383,biolink:Disease,fragile X syndrome
 MONDO:0005100,biolink:Disease,systemic sclerosis
-OBA:2040561,biolink:Disease,OBA:2040561
+OBA:2040561,biolink:Disease,"level of aldehyde dehydrogenase X, mitochondrial in blood serum"
 MONDO:0032845,biolink:Disease,spermatogenic failure 39
-EFO:0010134,biolink:Disease,EFO:0010134
-EFO:0009130,biolink:Disease,EFO:0009130
+EFO:0010134,biolink:Disease,kidney transplant
+EFO:0009130,biolink:Disease,clostridium difficile infection
 MONDO:0006660,biolink:Disease,arthus reaction
 MONDO:0008006,biolink:Disease,Mobius syndrome
 MONDO:0007803,biolink:Disease,multiple system atrophy
-OBA:2042538,biolink:Disease,OBA:2042538
+OBA:2042538,biolink:Disease,level of protein NDRG4 in blood serum
 MONDO:0005008,biolink:Disease,colorectal adenocarcinoma
 MONDO:0005615,biolink:Disease,plasmacytoma
 MONDO:0009692,biolink:Disease,primary myelofibrosis
 MONDO:0018510,biolink:Disease,small intestine neuroendocrine neoplasm
-EFO:0022317,biolink:Disease,EFO:0022317
+EFO:0022317,biolink:Disease,triglycerides in HDL measurement
 MONDO:0004972,biolink:Disease,adenoma
 MONDO:0020325,biolink:Disease,anaplastic large cell lymphoma
 MONDO:0002728,biolink:Disease,rhabdoid tumor
-MONDO:0700044,biolink:Disease,MONDO:0700044
+MONDO:0700044,biolink:Disease,obsolete TUBB2A-related tubulinopathy
 MONDO:0009691,biolink:Disease,mycosis fungoides
 MONDO:0019496,biolink:Disease,neuroendocrine neoplasm
 MONDO:0005611,biolink:Disease,bladder transitional cell carcinoma
@@ -788,7 +788,7 @@ MONDO:0004286,biolink:Disease,pancreatic intraductal papillary-mucinous neoplasm
 MONDO:0016780,biolink:Disease,paternal 14q32.2 microdeletion syndrome
 MONDO:0021148,biolink:Disease,female reproductive system neoplasm
 MONDO:0002334,biolink:Disease,hematopoietic and lymphoid system neoplasm
-EFO:0007874,biolink:Disease,EFO:0007874
+EFO:0007874,biolink:Disease,gut microbiome measurement
 MONDO:0013934,biolink:Disease,combined immunodeficiency due to STK4 deficiency
 MONDO:0002974,biolink:Disease,cervical cancer
 MONDO:0009216,biolink:Disease,glycogen storage disease due to GLUT2 deficiency
@@ -796,7 +796,7 @@ MONDO:0017361,biolink:Disease,congenital rubella syndrome
 MONDO:0007959,biolink:Disease,medulloblastoma
 MONDO:0005048,biolink:Disease,pancreatic insulin-producing neuroendocrine tumor
 MONDO:0007254,biolink:Disease,breast cancer
-HP:0009726,biolink:Disease,HP:0009726
+HP:0009726,biolink:Disease,Renal neoplasm
 MONDO:0023161,biolink:Disease,viral myocarditis
 MONDO:0004643,biolink:Disease,myeloid leukemia
 MONDO:0018630,biolink:Disease,hereditary nonpolyposis colon cancer
@@ -811,8 +811,8 @@ MONDO:0019434,biolink:Disease,systemic-onset juvenile idiopathic arthritis
 MONDO:0007496,biolink:Disease,dystonia 12
 MONDO:0007809,biolink:Disease,"ichthyosis histrix, Lambert type"
 MONDO:0019722,biolink:Disease,glomerular disorder
-HP:0002783,biolink:Disease,HP:0002783
-EFO:0010702,biolink:Disease,EFO:0010702
+HP:0002783,biolink:Disease,Recurrent lower respiratory tract infections
+EFO:0010702,biolink:Disease,opioid use disorder
 MONDO:0011841,biolink:Disease,biotin-responsive basal ganglia disease
 MONDO:0021251,biolink:Disease,endometrium neoplasm
 MONDO:0006909,biolink:Disease,pituitary dwarfism
@@ -829,15 +829,15 @@ MONDO:0015674,biolink:Disease,late infantile neuronal ceroid lipofuscinosis
 MONDO:0015459,biolink:Disease,nasopharyngeal carcinoma
 MONDO:0005140,biolink:Disease,ovarian carcinoma
 MONDO:0019506,biolink:Disease,obesity-colitis-hypothyroidism-cardiac hypertrophy-developmental delay syndrome
-OBA:VT0001253,biolink:Disease,OBA:VT0001253
-EFO:0004517,biolink:Disease,EFO:0004517
+OBA:VT0001253,biolink:Disease,body height
+EFO:0004517,biolink:Disease,arterial stiffness measurement
 MONDO:0009629,biolink:Disease,Desbuquois dysplasia 1
 MONDO:0005459,biolink:Disease,human African trypanosomiasis
-EFO:0002503,biolink:Disease,EFO:0002503
+EFO:0002503,biolink:Disease,cardiac hypertrophy
 MONDO:0015254,biolink:Disease,schistosomiasis
-EFO:0022254,biolink:Disease,EFO:0022254
-EFO:0007986,biolink:Disease,EFO:0007986
-HP:0003074,biolink:Disease,HP:0003074
+EFO:0022254,biolink:Disease,cholesteryl esters to total lipids in small HDL percentage
+EFO:0007986,biolink:Disease,reticulocyte count
+HP:0003074,biolink:Disease,Hyperglycemia
 MONDO:0005485,biolink:Disease,psychotic disorder
 MONDO:0008921,biolink:Disease,carnosinemia
 MONDO:0009446,biolink:Disease,ichthyosis-intellectual disability-dwarfism-renal impairment syndrome
@@ -846,71 +846,71 @@ MONDO:0018899,biolink:Disease,posterior cortical atrophy
 MONDO:0012725,biolink:Disease,lipoprotein glomerulopathy
 MONDO:0005161,biolink:Disease,human papilloma virus infection
 MONDO:0018874,biolink:Disease,acute myeloid leukemia
-EFO:0005241,biolink:Disease,EFO:0005241
+EFO:0005241,biolink:Disease,employment status
 MONDO:0005005,biolink:Disease,clear cell renal carcinoma
 MONDO:0007152,biolink:Disease,arrhythmogenic right ventricular dysplasia 1
-HP:0003073,biolink:Disease,HP:0003073
+HP:0003073,biolink:Disease,Hypoalbuminemia
 MONDO:0005111,biolink:Disease,Epstein-Barr virus infection
-HP:0011675,biolink:Disease,HP:0011675
+HP:0011675,biolink:Disease,Arrhythmia
 MONDO:0005288,biolink:Disease,intestinal polyp
 MONDO:0008608,biolink:Disease,Down syndrome
 MONDO:0002257,biolink:Disease,ankylosis
-EFO:0009860,biolink:Disease,EFO:0009860
-EFO:0004468,biolink:Disease,EFO:0004468
+EFO:0009860,biolink:Disease,chromosomal aberration frequency
+EFO:0004468,biolink:Disease,glucose measurement
 MONDO:0018876,biolink:Disease,mantle cell lymphoma
 MONDO:0018815,biolink:Disease,aneurysmal bone cyst
-EFO:0022008,biolink:Disease,EFO:0022008
+EFO:0022008,biolink:Disease,polyUbiquitin K63-linked measurement
 MONDO:0016700,biolink:Disease,anaplastic ependymoma
 MONDO:0003847,biolink:Disease,hereditary disease
 MONDO:0005328,biolink:Disease,eye disorder
-OBA:VT0010046,biolink:Disease,OBA:VT0010046
+OBA:VT0010046,biolink:Disease,fatty acid amount
 MONDO:0010788,biolink:Disease,Leber hereditary optic neuropathy
-HP:0006536,biolink:Disease,HP:0006536
-HP:0001397,biolink:Disease,HP:0001397
+HP:0006536,biolink:Disease,Airway obstruction
+HP:0001397,biolink:Disease,Hepatic steatosis
 MONDO:0033262,biolink:Disease,nephrotic syndrome 15
 MONDO:0020761,biolink:Disease,Bowen disease of the skin
 MONDO:0045063,biolink:Disease,major salivary gland adenoid cystic carcinoma
-EFO:0801819,biolink:Disease,EFO:0801819
+EFO:0801819,biolink:Disease,n-acetyltransferase 14 measurement
 MONDO:0005438,biolink:Disease,metastatic malignant neoplasm in the lymph nodes
 MONDO:0008411,biolink:Disease,ulnar-mammary syndrome
 MONDO:0000525,biolink:Disease,cecum villous adenoma
-EFO:0000544,biolink:Disease,EFO:0000544
-OBA:2040646,biolink:Disease,OBA:2040646
-HP:0001952,biolink:Disease,HP:0001952
+EFO:0000544,biolink:Disease,infection
+OBA:2040646,biolink:Disease,level of arfaptin-1 in blood serum
+HP:0001952,biolink:Disease,Glucose intolerance
 MONDO:0042491,biolink:Disease,cervical squamous intraepithelial neoplasia
 MONDO:0012675,biolink:Disease,corticosteroid-binding globulin deficiency
 MONDO:0012819,biolink:Disease,diabetic ketoacidosis
-EFO:0600064,biolink:Disease,EFO:0600064
-EFO:0004541,biolink:Disease,EFO:0004541
+EFO:0600064,biolink:Disease,serum lipopolysaccharide activity
+EFO:0004541,biolink:Disease,HbA1c measurement
 MONDO:0004892,biolink:Disease,refractive error
-EFO:0007800,biolink:Disease,EFO:0007800
+EFO:0007800,biolink:Disease,body fat percentage
 MONDO:0016761,biolink:Disease,spondyloepiphyseal dysplasia
 MONDO:0014810,biolink:Disease,pancytopenia due to IKZF1 mutations
 MONDO:0008383,biolink:Disease,rheumatoid arthritis
-EFO:0009946,biolink:Disease,EFO:0009946
+EFO:0009946,biolink:Disease,low density lipoprotein triglyceride measurement
 MONDO:0003036,biolink:Disease,mucoepidermoid carcinoma
 MONDO:0002898,biolink:Disease,skin cancer
-EFO:0010968,biolink:Disease,EFO:0010968
+EFO:0010968,biolink:Disease,phosphate measurement
 MONDO:0005580,biolink:Disease,esophageal squamous cell carcinoma
 MONDO:0004849,biolink:Disease,pulmonary emphysema
-HP:0010992,biolink:Disease,HP:0010992
-EFO:1001436,biolink:Disease,EFO:1001436
+HP:0010992,biolink:Disease,Stress urinary incontinence
+EFO:1001436,biolink:Disease,thyroid nodule
 MONDO:0007027,biolink:Disease,metabolic dysfunction-associated steatohepatitis
 MONDO:0005146,biolink:Disease,post-traumatic stress disorder
 MONDO:0018177,biolink:Disease,glioblastoma
-EFO:0000556,biolink:Disease,EFO:0000556
+EFO:0000556,biolink:Disease,ischemia
 MONDO:0100010,biolink:Disease,disease of the tendon
-EFO:0011052,biolink:Disease,EFO:0011052
+EFO:0011052,biolink:Disease,hepatotoxicity
 MONDO:0005083,biolink:Disease,psoriasis
 MONDO:0005108,biolink:Disease,viral infectious disease
 MONDO:0008233,biolink:Disease,pheochromocytoma
 MONDO:0009830,biolink:Disease,parkinsonian-pyramidal syndrome
-EFO:0803548,biolink:Disease,EFO:0803548
+EFO:0803548,biolink:Disease,neutrophil measurement
 MONDO:0017967,biolink:Disease,testicular agenesis
 MONDO:0004995,biolink:Disease,cardiovascular disorder
 MONDO:0019524,biolink:Disease,Bartter syndrome type 4
 MONDO:0005306,biolink:Disease,ankylosing spondylitis
-HP:0000356,biolink:Disease,HP:0000356
+HP:0000356,biolink:Disease,Abnormality of the outer ear
 MONDO:0007681,biolink:Disease,"goiter, multinodular 1, with or without Sertoli-Leydig cell tumors"
 MONDO:0020546,biolink:Disease,acute graft versus host disease
 MONDO:0006170,biolink:Disease,conjunctival disorder
@@ -919,12 +919,12 @@ MONDO:0010463,biolink:Disease,"X-linked dominant chondrodysplasia, Chassaing-Lac
 MONDO:0005559,biolink:Disease,neurodegenerative disease
 MONDO:0005147,biolink:Disease,type 1 diabetes mellitus
 MONDO:0007700,biolink:Disease,hawkinsinuria
-EFO:0001063,biolink:Disease,EFO:0001063
+EFO:0001063,biolink:Disease,deafness
 MONDO:0015484,biolink:Disease,cysticercosis
-OBA:2050096,biolink:Disease,OBA:2050096
+OBA:2050096,biolink:Disease,serum creatinine amount
 MONDO:0006192,biolink:Disease,endometrial endometrioid adenocarcinoma
 MONDO:0006639,biolink:Disease,adrenal cortex carcinoma
-EFO:0009589,biolink:Disease,EFO:0009589
+EFO:0009589,biolink:Disease,worry measurement
 MONDO:0011996,biolink:Disease,chronic myeloid leukemia
 MONDO:0005148,biolink:Disease,type 2 diabetes mellitus
 MONDO:0017991,biolink:Disease,Takayasu arteritis
@@ -938,53 +938,53 @@ MONDO:0016107,biolink:Disease,myotonic dystrophy
 MONDO:0005642,biolink:Disease,atopic conjunctivitis
 MONDO:0100574,biolink:Disease,generalized epilepsy
 MONDO:0005023,biolink:Disease,ductal breast carcinoma in situ
-OBA:2041840,biolink:Disease,OBA:2041840
+OBA:2041840,biolink:Disease,level of hemoglobin subunit delta in blood serum
 MONDO:0005595,biolink:Disease,laryngeal squamous cell carcinoma
-EFO:0004528,biolink:Disease,EFO:0004528
+EFO:0004528,biolink:Disease,mean corpuscular hemoglobin concentration
 MONDO:0006047,biolink:Disease,pancreatic adenocarcinoma
 MONDO:0003825,biolink:Disease,kidney oncocytoma
 MONDO:0006849,biolink:Disease,mastitis
-HP:0002135,biolink:Disease,HP:0002135
+HP:0002135,biolink:Disease,Basal ganglia calcification
 MONDO:0005366,biolink:Disease,chronic hepatitis B virus infection
 MONDO:0006515,biolink:Disease,acute pancreatitis
 MONDO:0007294,biolink:Disease,central core myopathy
 MONDO:0012209,biolink:Disease,branchiogenic deafness syndrome
-EFO:0008527,biolink:Disease,EFO:0008527
+EFO:0008527,biolink:Disease,steatosis
 MONDO:0012450,biolink:Disease,spinocerebellar ataxia type 28
 MONDO:0013284,biolink:Disease,"immunodeficiency, common variable, 4"
 MONDO:0012220,biolink:Disease,Griscelli syndrome type 3
 MONDO:0013427,biolink:Disease,immunodeficiency 31B
-EFO:0022236,biolink:Disease,EFO:0022236
+EFO:0022236,biolink:Disease,cholesterol to total lipids in large VLDL percentage
 MONDO:0005084,biolink:Disease,mental disorder
 MONDO:0009831,biolink:Disease,malignant pancreatic neoplasm
-OBA:2045223,biolink:Disease,OBA:2045223
+OBA:2045223,biolink:Disease,myeloid leukocyte count
 MONDO:0024331,biolink:Disease,colorectal carcinoma
 MONDO:0009619,biolink:Disease,microcephaly-micromelia syndrome
-EFO:1001904,biolink:Disease,EFO:1001904
+EFO:1001904,biolink:Disease,oral mucositis
 MONDO:0002806,biolink:Disease,bronchogenic carcinoma
 MONDO:0024280,biolink:Disease,polyarticular arthritis
 MONDO:0011661,biolink:Disease,inflammatory bowel disease 5
 MONDO:0009614,biolink:Disease,"methylmalonic aciduria, cblB type"
-HP:0001732,biolink:Disease,HP:0001732
+HP:0001732,biolink:Disease,Abnormality of the pancreas
 MONDO:0005098,biolink:Disease,stroke disorder
-EFO:0007834,biolink:Disease,EFO:0007834
+EFO:0007834,biolink:Disease,liver dysplastic nodule
 MONDO:0001999,biolink:Disease,idiopathic pulmonary arterial hypertension
 MONDO:0000494,biolink:Disease,renal fibrosis
 MONDO:0011438,biolink:Disease,acne
-EFO:0009594,biolink:Disease,EFO:0009594
+EFO:0009594,biolink:Disease,irritability measurement
 MONDO:0001166,biolink:Disease,nephritis
 MONDO:0014439,biolink:Disease,Bardet-Biedl syndrome 11
 MONDO:0008928,biolink:Disease,cataract-ataxia-deafness syndrome
-OBA:VT0000047,biolink:Disease,OBA:VT0000047
+OBA:VT0000047,biolink:Disease,head circumference
 MONDO:0007540,biolink:Disease,multiple endocrine neoplasia type 1
-EFO:1001326,biolink:Disease,EFO:1001326
+EFO:1001326,biolink:Disease,Flavivirus Infections
 MONDO:0005466,biolink:Disease,hypersomnia
 MONDO:0006189,biolink:Disease,eccrine porocarcinoma
 MONDO:0021512,biolink:Disease,benign neoplasm of thymus
-OBA:VT0000217,biolink:Disease,OBA:VT0000217
+OBA:VT0000217,biolink:Disease,leukocyte quantity
 MONDO:0002331,biolink:Disease,nephrosis
 MONDO:0010549,biolink:Disease,Charcot-Marie-Tooth disease X-linked dominant 1
-EFO:1001836,biolink:Disease,EFO:1001836
+EFO:1001836,biolink:Disease,pyogenic liver abscess
 MONDO:0011414,biolink:Disease,Peters anomaly
 MONDO:0030531,biolink:Disease,spermatogenic failure 65
 MONDO:0005298,biolink:Disease,osteoporosis
@@ -1000,13 +1000,13 @@ MONDO:0010730,biolink:Disease,"combined immunodeficiency, X-linked"
 MONDO:0005012,biolink:Disease,cutaneous melanoma
 MONDO:0006858,biolink:Disease,mouth disorder
 MONDO:0006649,biolink:Disease,anterior ischemic optic neuropathy
-OBA:VT0015043,biolink:Disease,OBA:VT0015043
+OBA:VT0015043,biolink:Disease,milk amount
 MONDO:0005570,biolink:Disease,hematologic disorder
 MONDO:0008231,biolink:Disease,Peyronie disease
-EFO:0004340,biolink:Disease,EFO:0004340
+EFO:0004340,biolink:Disease,body mass index
 MONDO:0018161,biolink:Disease,non-hereditary retinoblastoma
 MONDO:0100114,biolink:Disease,dry age related macular degeneration
-EFO:0004305,biolink:Disease,EFO:0004305
+EFO:0004305,biolink:Disease,erythrocyte count
 MONDO:0016060,biolink:Disease,laryngotracheoesophageal cleft
 MONDO:0100135,biolink:Disease,Dravet syndrome
 MONDO:0004648,biolink:Disease,vascular dementia
@@ -1024,61 +1024,61 @@ MONDO:0008538,biolink:Disease,temporal arteritis
 MONDO:0044348,biolink:Disease,hemoglobinopathy
 MONDO:0007064,biolink:Disease,"severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency"
 MONDO:0007389,biolink:Disease,spondylocostal dysostosis 5
-HP:0002032,biolink:Disease,HP:0002032
+HP:0002032,biolink:Disease,Esophageal atresia
 MONDO:0008375,biolink:Disease,retinal detachment
-Orphanet:169446,biolink:Disease,Orphanet:169446
+Orphanet:169446,biolink:Disease,Autosomal recessive hyper-IgE syndrome
 MONDO:0003758,biolink:Disease,childhood testicular germ cell tumor
 MONDO:0014789,biolink:Disease,CCDC115-CDG
-EFO:0009805,biolink:Disease,EFO:0009805
+EFO:0009805,biolink:Disease,whole body water mass
 MONDO:0016381,biolink:Disease,hypertrichosis lanuginosa congenita
-EFO:0006566,biolink:Disease,EFO:0006566
+EFO:0006566,biolink:Disease,dysplastic oral keratinocyte
 MONDO:0016294,biolink:Disease,Hirschsprung disease-type D brachydactyly syndrome
-EFO:0002616,biolink:Disease,EFO:0002616
+EFO:0002616,biolink:Disease,macroglobulinemia
 MONDO:0002714,biolink:Disease,central nervous system cancer
-EFO:0006340,biolink:Disease,EFO:0006340
+EFO:0006340,biolink:Disease,mean arterial pressure
 MONDO:0100281,biolink:Disease,"macroglobulinemia, Waldenstrom, 1"
-EFO:0007990,biolink:Disease,EFO:0007990
+EFO:0007990,biolink:Disease,neutrophil percentage of leukocytes
 MONDO:0005300,biolink:Disease,chronic kidney disease
 MONDO:0007376,biolink:Disease,fleck corneal dystrophy
 MONDO:0005627,biolink:Disease,head and neck cancer
 MONDO:0008618,biolink:Disease,"mesomelic dwarfism, Reinhardt-Pfeiffer type"
 MONDO:0024540,biolink:Disease,Jervell and Lange-Nielsen syndrome 1
-HP:0012115,biolink:Disease,HP:0012115
-OBA:VT0005416,biolink:Disease,OBA:VT0005416
+HP:0012115,biolink:Disease,Hepatitis
+OBA:VT0005416,biolink:Disease,blood protein amount
 MONDO:0003085,biolink:Disease,keratitis
 MONDO:0018945,biolink:Disease,XK-related neurodegenerative disease
 MONDO:0011569,biolink:Disease,Charcot-Marie-Tooth disease type 2B1
-OBA:2050062,biolink:Disease,OBA:2050062
+OBA:2050062,biolink:Disease,serum alanine aminotransferase amount
 MONDO:0017349,biolink:Disease,myopericytoma
 MONDO:0010088,biolink:Disease,mucosulfatidosis
 MONDO:0005453,biolink:Disease,congenital heart disease
-EFO:0009708,biolink:Disease,EFO:0009708
+EFO:0009708,biolink:Disease,metastasis
 MONDO:0005371,biolink:Disease,mood disorder
 MONDO:0005101,biolink:Disease,ulcerative colitis
 MONDO:0016558,biolink:Disease,familial congenital mirror movements
 MONDO:0005885,biolink:Disease,optic neuritis
-HP:0100582,biolink:Disease,HP:0100582
+HP:0100582,biolink:Disease,Nasal polyposis
 MONDO:0020678,biolink:Disease,sensorineural hearing loss disorder
 MONDO:0005068,biolink:Disease,myocardial infarction
 MONDO:0004948,biolink:Disease,B-cell chronic lymphocytic leukemia
-OBA:0004528,biolink:Disease,OBA:0004528
+OBA:0004528,biolink:Disease,fat pad mass
 MONDO:0100319,biolink:Disease,COVID-19–associated multisystem inflammatory syndrome in adults
-HP:0040270,biolink:Disease,HP:0040270
+HP:0040270,biolink:Disease,Impaired glucose tolerance
 MONDO:0007743,biolink:Disease,attention deficit-hyperactivity disorder
 MONDO:0000918,biolink:Disease,endometritis
 MONDO:0009872,biolink:Disease,Bjornstad syndrome
 MONDO:0006373,biolink:Disease,pituitary gland adenoma
 MONDO:0001134,biolink:Disease,essential hypertension
 MONDO:0014172,biolink:Disease,spermatogenic failure 12
-EFO:0004509,biolink:Disease,EFO:0004509
+EFO:0004509,biolink:Disease,hemoglobin measurement
 MONDO:0008982,biolink:Disease,central areolar choroidal dystrophy
 MONDO:0009693,biolink:Disease,plasma cell myeloma
-EFO:0007540,biolink:Disease,EFO:0007540
-EFO:0801555,biolink:Disease,EFO:0801555
-EFO:0022337,biolink:Disease,EFO:0022337
+EFO:0007540,biolink:Disease,animal viral hepatitis
+EFO:0801555,biolink:Disease,E3 ubiquitin-protein ligase RNF128 measurement
+EFO:0022337,biolink:Disease,triglycerides to total lipids in small LDL percentage
 MONDO:0033554,biolink:Disease,immunodeficiency 73b with defective neutrophil chemotaxis and lymphopenia
-EFO:1001927,biolink:Disease,EFO:1001927
-EFO:0009071,biolink:Disease,EFO:0009071
+EFO:1001927,biolink:Disease,cutaneous squamous cell carcinoma
+EFO:0009071,biolink:Disease,"obsolete_malignant hyperthermia, susceptibility to, 1"
 MONDO:0019458,biolink:Disease,acute basophilic leukemia
 MONDO:0014137,biolink:Disease,"precocious puberty, central, 2"
 MONDO:0009655,biolink:Disease,mucopolysaccharidosis type 3A
@@ -1089,13 +1089,13 @@ MONDO:0005812,biolink:Disease,influenza
 MONDO:0008521,biolink:Disease,tarsal-carpal coalition syndrome
 MONDO:0019736,biolink:Disease,dense deposit disease
 MONDO:0002082,biolink:Disease,endocrine gland neoplasm
-HP:0000739,biolink:Disease,HP:0000739
-EFO:0004462,biolink:Disease,EFO:0004462
+HP:0000739,biolink:Disease,Anxiety
+EFO:0004462,biolink:Disease,PR interval
 MONDO:0700092,biolink:Disease,neurodevelopmental disorder
 MONDO:0007340,biolink:Disease,cleidocranial dysplasia 1
 MONDO:0005386,biolink:Disease,peripheral arterial disease
 MONDO:0021355,biolink:Disease,neoplasm of esophagus
-EFO:0007456,biolink:Disease,EFO:0007456
+EFO:0007456,biolink:Disease,pseudomyxoma peritonei
 MONDO:0000646,biolink:Disease,ovarian benign neoplasm
 MONDO:0009901,biolink:Disease,Bartsocas-Papas syndrome 1
 MONDO:0007888,biolink:Disease,hereditary leiomyomatosis and renal cell cancer
@@ -1103,56 +1103,56 @@ MONDO:0005097,biolink:Disease,squamous cell lung carcinoma
 MONDO:0015300,biolink:Disease,cataract - microcornea syndrome
 MONDO:0005086,biolink:Disease,renal cell carcinoma
 MONDO:0005244,biolink:Disease,peripheral neuropathy
-EFO:0006834,biolink:Disease,EFO:0006834
-EFO:0003762,biolink:Disease,EFO:0003762
+EFO:0006834,biolink:Disease,septic shock
+EFO:0003762,biolink:Disease,vitamin D deficiency
 MONDO:0800195,biolink:Disease,achalasia-alacrima syndrome
 MONDO:0005574,biolink:Disease,tauopathy
 MONDO:0016683,biolink:Disease,gliomatosis cerebri
-HP:0001250,biolink:Disease,HP:0001250
+HP:0001250,biolink:Disease,Seizure
 MONDO:0005219,biolink:Disease,breast fibrocystic disease
 MONDO:0020121,biolink:Disease,muscular dystrophy
 MONDO:0016525,biolink:Disease,familial hyperaldosteronism
 MONDO:0006489,biolink:Disease,vaginal melanoma
-EFO:0004346,biolink:Disease,EFO:0004346
+EFO:0004346,biolink:Disease,neuroimaging measurement
 MONDO:0001595,biolink:Disease,choreatic disease
-EFO:0005802,biolink:Disease,EFO:0005802
+EFO:0005802,biolink:Disease,cartilage disease
 MONDO:0007987,biolink:Disease,Kniest dysplasia
 MONDO:0019202,biolink:Disease,myxofibrosarcoma
-EFO:1000636,biolink:Disease,EFO:1000636
+EFO:1000636,biolink:Disease,inflammatory skin disease
 MONDO:0010030,biolink:Disease,Sjogren syndrome
 MONDO:0002907,biolink:Disease,intracranial thrombosis
-EFO:0022145,biolink:Disease,EFO:0022145
+EFO:0022145,biolink:Disease,triglycerides in small VLDL measurement
 MONDO:0017400,biolink:Disease,hypoplastic pancreas-intestinal atresia-hypoplastic gallbalder syndrome
-EFO:0021897,biolink:Disease,EFO:0021897
+EFO:0021897,biolink:Disease,apolipoprotein B to apolipoprotein A1 ratio
 MONDO:0014403,biolink:Disease,short stature due to GHSR deficiency
-EFO:0010266,biolink:Disease,EFO:0010266
+EFO:0010266,biolink:Disease,Charcot-Marie-Tooth disease type 1G
 MONDO:0007573,biolink:Disease,"erythroleukemia, familial, susceptibility to"
 MONDO:0017979,biolink:Disease,autoimmune lymphoproliferative syndrome
 MONDO:0001106,biolink:Disease,kidney failure
 MONDO:0007635,biolink:Disease,Frasier syndrome
-OBA:2043190,biolink:Disease,OBA:2043190
+OBA:2043190,biolink:Disease,level of Ran-specific GTPase-activating protein in blood serum
 MONDO:0017827,biolink:Disease,malignant peripheral nerve sheath tumor
 MONDO:0004953,biolink:Disease,invasive ductal breast carcinoma
 MONDO:0005195,biolink:Disease,septic peritonitis
 MONDO:0006143,biolink:Disease,cervical squamous cell carcinoma
 MONDO:0015691,biolink:Disease,hypereosinophilic syndrome
-EFO:0803382,biolink:Disease,EFO:0803382
+EFO:0803382,biolink:Disease,perivascular space measurement
 MONDO:0018075,biolink:Disease,neural tube defect
 MONDO:0004557,biolink:Disease,congenital fibrosarcoma
-EFO:0022238,biolink:Disease,EFO:0022238
+EFO:0022238,biolink:Disease,cholesterol to total lipids in medium LDL percentage
 MONDO:0003308,biolink:Disease,pleural mesothelioma
 MONDO:0019065,biolink:Disease,amyloidosis
 MONDO:0003240,biolink:Disease,thyroid gland disorder
 MONDO:0005439,biolink:Disease,familial hypercholesterolemia
 MONDO:0002025,biolink:Disease,psychiatric disorder
-HP:0001300,biolink:Disease,HP:0001300
+HP:0001300,biolink:Disease,Parkinsonism
 MONDO:0970943,biolink:Disease,"spermatogenic failure, X-linked, 8"
 MONDO:0006128,biolink:Disease,central nervous system anaplastic large cell lymphoma
 MONDO:0008840,biolink:Disease,ataxia telangiectasia
 MONDO:0008073,biolink:Disease,familial juvenile hyperuricemic nephropathy type 1
-HP:0001822,biolink:Disease,HP:0001822
+HP:0001822,biolink:Disease,Hallux valgus
 MONDO:0007243,biolink:Disease,Burkitt lymphoma
-HP:0002315,biolink:Disease,HP:0002315
+HP:0002315,biolink:Disease,Headache
 MONDO:0005039,biolink:Disease,reproductive system disorder
 MONDO:0005277,biolink:Disease,migraine disorder
 MONDO:0006882,biolink:Disease,orchitis
@@ -1161,11 +1161,11 @@ MONDO:0009297,biolink:Disease,familial renal glucosuria
 MONDO:0006336,biolink:Disease,ovarian endometrioid adenocarcinoma with squamous differentiation
 MONDO:0006573,biolink:Disease,lipodystrophy
 MONDO:0005825,biolink:Disease,leptospirosis
-HP:0003040,biolink:Disease,HP:0003040
+HP:0003040,biolink:Disease,Arthropathy
 MONDO:0015279,biolink:Disease,chronic mucocutaneous candidiasis
 MONDO:0014550,biolink:Disease,long QT syndrome 15
 MONDO:0005351,biolink:Disease,anorexia nervosa
-EFO:0010681,biolink:Disease,EFO:0010681
+EFO:0010681,biolink:Disease,ileostomy
 MONDO:0002120,biolink:Disease,neuroendocrine carcinoma
 MONDO:0005968,biolink:Disease,sporotrichosis
 MONDO:0001149,biolink:Disease,microcephaly
@@ -1181,44 +1181,44 @@ MONDO:0018531,biolink:Disease,carcinoma of liver and intrahepatic biliary tract
 MONDO:0003004,biolink:Disease,macular degeneration
 MONDO:0019145,biolink:Disease,hereditary thrombophilia due to congenital protein C deficiency
 MONDO:0008380,biolink:Disease,retinoblastoma
-EFO:0801229,biolink:Disease,EFO:0801229
+EFO:0801229,biolink:Disease,oral microbiome measurement
 MONDO:0010108,biolink:Disease,testicular germ cell tumor
 MONDO:0011716,biolink:Disease,acute hemorrhagic leukoencephalitis
 MONDO:0007488,biolink:Disease,Lewy body dementia
 MONDO:0007142,biolink:Disease,Townes-Brocks syndrome
-HP:0100543,biolink:Disease,HP:0100543
+HP:0100543,biolink:Disease,Cognitive impairment
 MONDO:0021086,biolink:Disease,gingival neoplasm
 MONDO:0005240,biolink:Disease,kidney disorder
 MONDO:0014491,biolink:Disease,immunodeficiency 37
-EFO:0022293,biolink:Disease,EFO:0022293
+EFO:0022293,biolink:Disease,phospholipids in HDL measurement
 MONDO:0016168,biolink:Disease,cryopyrin-associated periodic syndrome
 MONDO:0013960,biolink:Disease,sinoatrial node dysfunction and deafness
 MONDO:0044925,biolink:Disease,oral cavity carcinoma
 MONDO:0002462,biolink:Disease,glomerulonephritis
-EFO:0022335,biolink:Disease,EFO:0022335
+EFO:0022335,biolink:Disease,triglycerides to total lipids in medium VLDL percentage
 MONDO:0018079,biolink:Disease,thymic epithelial neoplasm
-HP:0000855,biolink:Disease,HP:0000855
+HP:0000855,biolink:Disease,Insulin resistance
 MONDO:0001657,biolink:Disease,brain cancer
 MONDO:0004691,biolink:Disease,autosomal dominant polycystic kidney disease
 MONDO:0005480,biolink:Disease,contact dermatitis
 MONDO:0005231,biolink:Disease,hepatitis C virus infection
 MONDO:0044635,biolink:Disease,DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome
 MONDO:0007186,biolink:Disease,gastroesophageal reflux disease
-HP:0003419,biolink:Disease,HP:0003419
-EFO:0006527,biolink:Disease,EFO:0006527
+HP:0003419,biolink:Disease,Low back pain
+EFO:0006527,biolink:Disease,smoking status measurement
 MONDO:0100316,biolink:Disease,long QT syndrome 1
 MONDO:0010650,biolink:Disease,Melnick-Needles syndrome
 MONDO:0007915,biolink:Disease,systemic lupus erythematosus
 MONDO:0100096,biolink:Disease,COVID-19
 MONDO:0013561,biolink:Disease,"chondrodysplasia with joint dislocations, gPAPP type"
-EFO:0004138,biolink:Disease,EFO:0004138
+EFO:0004138,biolink:Disease,bundle branch block
 MONDO:0005500,biolink:Disease,congenital disorder of glycosylation type I
 MONDO:0007817,biolink:Disease,"IgE responsiveness, atopic"
 MONDO:0014472,biolink:Disease,periodic fever-infantile enterocolitis-autoinflammatory syndrome
 MONDO:0004979,biolink:Disease,asthma
 MONDO:0011904,biolink:Disease,"seizures, benign familial infantile, 3"
 MONDO:0004508,biolink:Disease,periapical periodontitis
-EFO:0800672,biolink:Disease,EFO:0800672
+EFO:0800672,biolink:Disease,fibrinopeptide A measurement
 MONDO:0005531,biolink:Disease,morphine dependence
 MONDO:0005028,biolink:Disease,esophageal adenocarcinoma
 MONDO:0002630,biolink:Disease,small cell osteogenic sarcoma
@@ -1237,7 +1237,7 @@ MONDO:0000984,biolink:Disease,thalassemia
 MONDO:0002529,biolink:Disease,skin squamous cell carcinoma
 MONDO:0009597,biolink:Disease,"metaphyseal chondrodysplasia, Spahr type"
 MONDO:0018653,biolink:Disease,Polymerase proofreading-related adenomatous polyposis
-EFO:0022280,biolink:Disease,EFO:0022280
+EFO:0022280,biolink:Disease,free cholesterol to total lipids in large LDL percentage
 MONDO:0006311,biolink:Disease,myelodysplastic/myeloproliferative neoplasm
 MONDO:0006626,biolink:Disease,diabetic neuropathy
 MONDO:0018479,biolink:Disease,congenital adrenal hyperplasia
@@ -1248,14 +1248,14 @@ MONDO:0030602,biolink:Disease,Klebsiella pneumonia
 MONDO:0018948,biolink:Disease,multiminicore myopathy
 MONDO:0009903,biolink:Disease,postaxial acrofacial dysostosis
 MONDO:0005093,biolink:Disease,skin disorder
-EFO:0009842,biolink:Disease,EFO:0009842
-EFO:0009518,biolink:Disease,EFO:0009518
+EFO:0009842,biolink:Disease,respiratory depression
+EFO:0009518,biolink:Disease,complication
 MONDO:0008173,biolink:Disease,pachyonychia congenita 1
-MP:0001845,biolink:Disease,MP:0001845
-EFO:0004784,biolink:Disease,EFO:0004784
+MP:0001845,biolink:Disease,abnormal inflammatory response
+EFO:0004784,biolink:Disease,self reported educational attainment
 MONDO:0041052,biolink:Disease,postherpetic neuralgia
 MONDO:0010011,biolink:Disease,schizencephaly
-EFO:0008591,biolink:Disease,EFO:0008591
+EFO:0008591,biolink:Disease,free cholesterol measurement
 MONDO:0005133,biolink:Disease,endometriosis
 MONDO:0005046,biolink:Disease,immune system disorder
 MONDO:0002367,biolink:Disease,kidney cancer
@@ -1272,7 +1272,7 @@ MONDO:0005131,biolink:Disease,cervical carcinoma
 MONDO:0019124,biolink:Disease,microscopic polyangiitis
 MONDO:0021163,biolink:Disease,kidney neoplasm
 MONDO:0005623,biolink:Disease,autoimmune thyroid disease
-EFO:0009756,biolink:Disease,EFO:0009756
+EFO:0009756,biolink:Disease,autoimmune type 1 diabetes
 MONDO:0001336,biolink:Disease,familial hyperlipidemia
 MONDO:0005304,biolink:Disease,biliary tract neoplasm
 MONDO:0005070,biolink:Disease,neoplasm
@@ -1285,59 +1285,59 @@ MONDO:0030938,biolink:Disease,spermatogenic failure 52
 MONDO:0005496,biolink:Disease,bile duct carcinoma
 MONDO:0009805,biolink:Disease,osteogenesis imperfecta type 9
 MONDO:0005096,biolink:Disease,squamous cell carcinoma
-EFO:0022173,biolink:Disease,EFO:0022173
+EFO:0022173,biolink:Disease,concentration of large VLDL particles measurement
 MONDO:0006300,biolink:Disease,medullomyoblastoma with myogenic differentiation
 MONDO:0005308,biolink:Disease,ciliopathy
 MONDO:0012414,biolink:Disease,neuronal ceroid lipofuscinosis 10
 MONDO:0006846,biolink:Disease,malignant hypertension
 MONDO:0010576,biolink:Disease,X-linked mixed hearing loss with perilymphatic gusher
-EFO:1001514,biolink:Disease,EFO:1001514
+EFO:1001514,biolink:Disease,endometrial endometrioid carcinoma
 MONDO:0019438,biolink:Disease,AL amyloidosis
 MONDO:0014981,biolink:Disease,immunodeficiency 49
 MONDO:0005267,biolink:Disease,heart disorder
-EFO:0004533,biolink:Disease,EFO:0004533
+EFO:0004533,biolink:Disease,alkaline phosphatase measurement
 MONDO:0971173,biolink:Disease,autoinflammation with arthritis and vasculitis
 MONDO:0032714,biolink:Disease,"facial dysmorphism, hypertrichosis, epilepsy, intellectual/developmental delay, and gingival overgrowth syndrome"
-EFO:0004527,biolink:Disease,EFO:0004527
-EFO:0009373,biolink:Disease,EFO:0009373
+EFO:0004527,biolink:Disease,mean corpuscular hemoglobin
+EFO:0009373,biolink:Disease,edema
 MONDO:0005336,biolink:Disease,myopathy
 MONDO:0003334,biolink:Disease,demyelinating polyneuropathy
 MONDO:0021259,biolink:Disease,prostate neoplasm
 MONDO:0005475,biolink:Disease,migraine with aura
 MONDO:0043579,biolink:Disease,enteritis
 MONDO:0957572,biolink:Disease,thrombocytopenia 9
-EFO:0004875,biolink:Disease,EFO:0004875
+EFO:0004875,biolink:Disease,mathematical ability
 MONDO:0100234,biolink:Disease,paroxysmal familial ventricular fibrillation
 MONDO:0008661,biolink:Disease,vitiligo
-HP:0010783,biolink:Disease,HP:0010783
+HP:0010783,biolink:Disease,Erythema
 MONDO:0013730,biolink:Disease,graft versus host disease
 MONDO:0005312,biolink:Disease,pouchitis
-OBA:2041267,biolink:Disease,OBA:2041267
-EFO:0009614,biolink:Disease,EFO:0009614
-EFO:0700022,biolink:Disease,EFO:0700022
+OBA:2041267,biolink:Disease,level of beta-defensin 104 in blood serum
+EFO:0009614,biolink:Disease,clavicle fracture
+EFO:0700022,biolink:Disease,obsolete_lysosomal acid lipase deficiency
 MONDO:0019192,biolink:Disease,AKT2-related familial partial lipodystrophy
 MONDO:0000448,biolink:Disease,paraganglioma
 MONDO:0005784,biolink:Disease,hantavirus hemorrhagic fever with renal syndrome
-HP:0001394,biolink:Disease,HP:0001394
+HP:0001394,biolink:Disease,Cirrhosis
 MONDO:0014054,biolink:Disease,lymphoproliferative syndrome 2
 MONDO:0008222,biolink:Disease,Andersen-Tawil syndrome
-EFO:0009964,biolink:Disease,EFO:0009964
+EFO:0009964,biolink:Disease,bipolar II disorder
 MONDO:0003079,biolink:Disease,mastocytoma
 MONDO:0006256,biolink:Disease,invasive breast carcinoma
 MONDO:0010150,biolink:Disease,head and neck squamous cell carcinoma
 MONDO:0019098,biolink:Disease,autoimmune thrombocytopenia
-HP:0005359,biolink:Disease,HP:0005359
+HP:0005359,biolink:Disease,Aplasia of the thymus
 MONDO:0005233,biolink:Disease,non-small cell lung carcinoma
 MONDO:0044212,biolink:Disease,chronic idiopathic urticaria
 MONDO:0018912,biolink:Disease,Cushing syndrome
-EFO:0022233,biolink:Disease,EFO:0022233
-EFO:0008511,biolink:Disease,EFO:0008511
+EFO:0022233,biolink:Disease,cholesterol to total lipids in IDL percentage
+EFO:0008511,biolink:Disease,metopic craniosynostosis
 MONDO:0006810,biolink:Disease,intracranial hypertension
 MONDO:0016047,biolink:Disease,endophthalmitis
 MONDO:0005059,biolink:Disease,leukemia
 MONDO:0000521,biolink:Disease,salivary gland carcinoma
-HP:0002119,biolink:Disease,HP:0002119
-EFO:1001129,biolink:Disease,EFO:1001129
+HP:0002119,biolink:Disease,Ventriculomegaly
+EFO:1001129,biolink:Disease,obsolete_proliferative vitreoretinopathy
 MONDO:0100233,biolink:Disease,long COVID-19
 MONDO:0007834,biolink:Disease,islet cell adenomatosis
 MONDO:0008300,biolink:Disease,Prader-Willi syndrome
@@ -1351,13 +1351,13 @@ MONDO:0005399,biolink:Disease,venous thromboembolism
 MONDO:0005033,biolink:Disease,ganglioneuroma
 MONDO:0016574,biolink:Disease,hypo- and hypermelanotic cutaneous macules-retarded growth-intellectual disability syndrome
 MONDO:0006843,biolink:Disease,macular holes
-EFO:0004335,biolink:Disease,EFO:0004335
+EFO:0004335,biolink:Disease,short-term memory
 MONDO:0024662,biolink:Disease,colorectal tubulovillous adenoma
 MONDO:0971001,biolink:Disease,immunodeficiency 121 with autoinflammation
 MONDO:0017596,biolink:Disease,diffuse large B-cell lymphoma of the central nervous system
 MONDO:0100330,biolink:Disease,disease arising from reactivation of latent virus
 MONDO:0004782,biolink:Disease,diabetes insipidus
-EFO:0004612,biolink:Disease,EFO:0004612
+EFO:0004612,biolink:Disease,high density lipoprotein cholesterol measurement
 MONDO:0008558,biolink:Disease,autoimmune thrombocytopenic purpura
 MONDO:0019797,biolink:Disease,acrodysostosis
 MONDO:0018896,biolink:Disease,thrombotic thrombocytopenic purpura
@@ -1365,41 +1365,41 @@ MONDO:0004355,biolink:Disease,childhood leukemia
 MONDO:0016471,biolink:Disease,pachyonychia congenita
 MONDO:0006456,biolink:Disease,thymoma
 MONDO:0006215,biolink:Disease,gallbladder adenocarcinoma
-HP:0040223,biolink:Disease,HP:0040223
-EFO:1001418,biolink:Disease,EFO:1001418
-HP:0000975,biolink:Disease,HP:0000975
-EFO:0009429,biolink:Disease,EFO:0009429
+HP:0040223,biolink:Disease,Pulmonary hemorrhage
+EFO:1001418,biolink:Disease,Salmonella Infections
+HP:0000975,biolink:Disease,Hyperhidrosis
+EFO:0009429,biolink:Disease,Mycobacterium infection
 MONDO:0010662,biolink:Disease,paraplegia-intellectual disability-hyperkeratosis syndrome
 MONDO:0008493,biolink:Disease,overhydrated hereditary stomatocytosis
 MONDO:0019954,biolink:Disease,pancreatic neuroendocrine tumor
-Orphanet:91088,biolink:Disease,Orphanet:91088
-EFO:0007944,biolink:Disease,EFO:0007944
+Orphanet:91088,biolink:Disease,Other metabolic disease
+EFO:0007944,biolink:Disease,allergen exposure measurement
 MONDO:0007295,biolink:Disease,self-limited epilepsy with centrotemporal spikes
 MONDO:0006644,biolink:Disease,alcoholic liver cirrhosis
 MONDO:0004982,biolink:Disease,pancreatitis
 MONDO:0024647,biolink:Disease,urolithiasis
 MONDO:0005060,biolink:Disease,liposarcoma
-OBA:2044852,biolink:Disease,OBA:2044852
+OBA:2044852,biolink:Disease,level of UPF0235 protein C15orf40 in blood serum
 MONDO:0054727,biolink:Disease,spermatogenic failure 23
 MONDO:0007113,biolink:Disease,Angelman syndrome
-EFO:0010925,biolink:Disease,EFO:0010925
+EFO:0010925,biolink:Disease,protein S100-A12 measurement
 MONDO:0008243,biolink:Disease,Pick disease
-HP:0012207,biolink:Disease,HP:0012207
+HP:0012207,biolink:Disease,Reduced sperm motility
 MONDO:0014300,biolink:Disease,proximal myopathy with extrapyramidal signs
 MONDO:0970993,biolink:Disease,immunodeficiency 119
 MONDO:0021104,biolink:Disease,alcoholic fatty liver disease
 MONDO:0007473,biolink:Disease,Duane retraction syndrome
-EFO:0700134,biolink:Disease,EFO:0700134
+EFO:0700134,biolink:Disease,obsolete_resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta
 MONDO:0010882,biolink:Disease,aphalangy-syndactyly-microcephaly syndrome
 MONDO:0017572,biolink:Disease,tick-borne encephalitis
 MONDO:0014118,biolink:Disease,congenital neutropenia-myelofibrosis-nephromegaly syndrome
-EFO:0004833,biolink:Disease,EFO:0004833
+EFO:0004833,biolink:Disease,neutrophil count
 MONDO:0005344,biolink:Disease,hepatitis B virus infection
 MONDO:0016305,biolink:Disease,atypical pantothenate kinase-associated neurodegeneration
 MONDO:0006186,biolink:Disease,duodenal adenocarcinoma
 MONDO:0060507,biolink:Disease,retinal dystrophy with or without macular staphyloma
-OBA:2050068,biolink:Disease,OBA:2050068
-Orphanet:183539,biolink:Disease,Orphanet:183539
+OBA:2050068,biolink:Disease,serum albumin amount
+Orphanet:183539,biolink:Disease,Genetic renal or urinary tract malformation
 MONDO:0007367,biolink:Disease,"febrile seizures, familial, 1"
 MONDO:0007256,biolink:Disease,hepatocellular carcinoma
 MONDO:0005087,biolink:Disease,respiratory system disorder
@@ -1408,29 +1408,29 @@ MONDO:0008185,biolink:Disease,hereditary chronic pancreatitis
 MONDO:0006816,biolink:Disease,arthropathy
 MONDO:0001854,biolink:Disease,lacrimal apparatus disorder
 MONDO:0005186,biolink:Disease,cocaine dependence
-EFO:1000653,biolink:Disease,EFO:1000653
+EFO:1000653,biolink:Disease,sarcopenia
 MONDO:0005062,biolink:Disease,lymphoma
 MONDO:0006733,biolink:Disease,dry eye syndrome
 MONDO:0016216,biolink:Disease,adult hepatocellular carcinoma
 MONDO:0019068,biolink:Disease,congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization
 MONDO:0005065,biolink:Disease,mesothelioma
-EFO:0010922,biolink:Disease,EFO:0010922
+EFO:0010922,biolink:Disease,P-selectin glycoprotein ligand 1 measurement
 MONDO:0018975,biolink:Disease,neurofibromatosis type 1
-OBA:0004561,biolink:Disease,OBA:0004561
+OBA:0004561,biolink:Disease,blood osmolality
 MONDO:0005393,biolink:Disease,gout
 MONDO:0021353,biolink:Disease,tumor of uterus
 MONDO:0005260,biolink:Disease,autism
 MONDO:0003001,biolink:Disease,seminoma
 MONDO:0012883,biolink:Disease,acute promyelocytic leukemia
-EFO:0004587,biolink:Disease,EFO:0004587
-EFO:0006922,biolink:Disease,EFO:0006922
+EFO:0004587,biolink:Disease,lymphocyte count
+EFO:0006922,biolink:Disease,delivery measurement
 MONDO:0002269,biolink:Disease,gastroenteritis
 MONDO:0021042,biolink:Disease,glioma
 MONDO:0006007,biolink:Disease,vesicoureteral reflux
 MONDO:0032696,biolink:Disease,oocyte maturation defect 6
 MONDO:0013291,biolink:Disease,glycogen storage disease XV
 MONDO:0958006,biolink:Disease,"spondyloepimetaphyseal dysplasia, Guo-Campeau type"
-EFO:0004980,biolink:Disease,EFO:0004980
+EFO:0004980,biolink:Disease,appendicular lean mass
 MONDO:0005282,biolink:Disease,cutaneous lupus erythematosus
 MONDO:0004949,biolink:Disease,neoplasm of mature B-cells
 MONDO:0007705,biolink:Disease,Heinz body anemia
@@ -1449,32 +1449,32 @@ MONDO:0020640,biolink:Disease,autoimmune encephalitis
 MONDO:0009086,biolink:Disease,deafness-small bowel diverticulosis-neuropathy syndrome
 MONDO:0054730,biolink:Disease,spermatogenic failure 26
 MONDO:0002531,biolink:Disease,skin neoplasm
-EFO:1001516,biolink:Disease,EFO:1001516
+EFO:1001516,biolink:Disease,ovarian serous carcinoma
 MONDO:0007191,biolink:Disease,Behcet disease
-HP:0012393,biolink:Disease,HP:0012393
-EFO:0009706,biolink:Disease,EFO:0009706
+HP:0012393,biolink:Disease,Allergy
+EFO:0009706,biolink:Disease,latent autoimmune diabetes in adults
 MONDO:0001475,biolink:Disease,neutropenia
 MONDO:0010066,biolink:Disease,familial isolated congenital asplenia
-EFO:0004348,biolink:Disease,EFO:0004348
+EFO:0004348,biolink:Disease,hematocrit
 MONDO:0009676,biolink:Disease,autosomal recessive limb-girdle muscular dystrophy type 2B
-EFO:0007991,biolink:Disease,EFO:0007991
+EFO:0007991,biolink:Disease,eosinophil percentage of leukocytes
 MONDO:0015229,biolink:Disease,Bardet-Biedl syndrome
 MONDO:0007947,biolink:Disease,Marfan syndrome
-HP:0004418,biolink:Disease,HP:0004418
+HP:0004418,biolink:Disease,Thrombophlebitis
 MONDO:0004126,biolink:Disease,thyroiditis
-HP:0005180,biolink:Disease,HP:0005180
+HP:0005180,biolink:Disease,Tricuspid regurgitation
 MONDO:0015667,biolink:Disease,acute myeloid leukemia by FAB classification
 MONDO:0008810,biolink:Disease,familial apolipoprotein C-II deficiency
 MONDO:0007686,biolink:Disease,gray platelet syndrome
 MONDO:0016982,biolink:Disease,angiosarcoma
 MONDO:0014851,biolink:Disease,"hypercalcemia, infantile, 2"
-HP:0031678,biolink:Disease,HP:0031678
-HP:0001643,biolink:Disease,HP:0001643
+HP:0031678,biolink:Disease,Atherosclerotic lesion
+HP:0001643,biolink:Disease,Patent ductus arteriosus
 MONDO:0021667,biolink:Disease,neuralgia
 MONDO:0004970,biolink:Disease,adenocarcinoma
 MONDO:0011057,biolink:Disease,cerebrovascular disorder
-EFO:0010369,biolink:Disease,EFO:0010369
-EFO:0008501,biolink:Disease,EFO:0008501
+EFO:0010369,biolink:Disease,lysophosphatidylethanolamine 18:2 measurement
+EFO:0008501,biolink:Disease,dysplasia
 MONDO:0009582,biolink:Disease,Mietens syndrome
 MONDO:0015924,biolink:Disease,pulmonary arterial hypertension
 MONDO:0005116,biolink:Disease,Whipple disease
@@ -1483,40 +1483,40 @@ MONDO:0013758,biolink:Disease,Charcot-Marie-Tooth disease dominant intermediate 
 MONDO:0017778,biolink:Disease,lamellar ichthyosis
 MONDO:0010298,biolink:Disease,Lesch-Nyhan syndrome
 MONDO:0005989,biolink:Disease,toxoplasmosis
-HP:0002411,biolink:Disease,HP:0002411
+HP:0002411,biolink:Disease,Myokymia
 MONDO:0004928,biolink:Disease,lymph node disorder
 MONDO:0003024,biolink:Disease,breast angiosarcoma
 MONDO:0005032,biolink:Disease,follicular thyroid adenoma
-EFO:0003959,biolink:Disease,EFO:0003959
+EFO:0003959,biolink:Disease,cleft lip
 MONDO:0007732,biolink:Disease,Holt-Oram syndrome
 MONDO:0005109,biolink:Disease,HIV infectious disease
-HP:0011451,biolink:Disease,HP:0011451
-EFO:1000965,biolink:Disease,EFO:1000965
+HP:0011451,biolink:Disease,Primary microcephaly
+EFO:1000965,biolink:Disease,Henoch-Schoenlein purpura
 MONDO:0005027,biolink:Disease,epilepsy
 MONDO:0011760,biolink:Disease,Scheie syndrome
 MONDO:0001098,biolink:Disease,separation anxiety disorder
-HP:0012758,biolink:Disease,HP:0012758
+HP:0012758,biolink:Disease,Neurodevelopmental delay
 MONDO:0005178,biolink:Disease,osteoarthritis
-Orphanet:404469,biolink:Disease,Orphanet:404469
+Orphanet:404469,biolink:Disease,Rare female infertility due to oocyte maturation defect
 MONDO:0001823,biolink:Disease,sick sinus syndrome
 MONDO:0024573,biolink:Disease,familial hypertrophic cardiomyopathy
 MONDO:0019516,biolink:Disease,exudative vitreoretinopathy
 MONDO:0020074,biolink:Disease,progressive myoclonus epilepsy
-EFO:0022267,biolink:Disease,EFO:0022267
+EFO:0022267,biolink:Disease,free cholesterol in medium HDL measurement
 MONDO:0010264,biolink:Disease,X-linked adrenal hypoplasia congenita
 MONDO:0000607,biolink:Disease,primary cutaneous T-cell non-Hodgkin lymphoma
 MONDO:0014621,biolink:Disease,Brugada syndrome 9
-EFO:0009458,biolink:Disease,EFO:0009458
+EFO:0009458,biolink:Disease,alcohol use disorder measurement
 MONDO:0005010,biolink:Disease,coronary artery disorder
 MONDO:0004974,biolink:Disease,adrenal gland pheochromocytoma
 MONDO:0005416,biolink:Disease,"osteoarthritis, knee"
-EFO:0010270,biolink:Disease,EFO:0010270
+EFO:0010270,biolink:Disease,Menstrual disorder
 MONDO:0010679,biolink:Disease,Duchenne muscular dystrophy
 MONDO:0004277,biolink:Disease,gonorrhea
-HP:0005528,biolink:Disease,HP:0005528
-HP:0010976,biolink:Disease,HP:0010976
+HP:0005528,biolink:Disease,Bone marrow hypocellularity
+HP:0010976,biolink:Disease,Decreased total B cell count
 MONDO:0002869,biolink:Disease,heart valve disorder
-HP:0001520,biolink:Disease,HP:0001520
+HP:0001520,biolink:Disease,Large for gestational age
 MONDO:0005377,biolink:Disease,nephrotic syndrome
 MONDO:0019154,biolink:Disease,androgen insensitivity syndrome
 MONDO:0002081,biolink:Disease,musculoskeletal system disorder
@@ -1524,26 +1524,26 @@ MONDO:0957981,biolink:Disease,immunodeficiency 115 with autoinflammation
 MONDO:0006262,biolink:Disease,lacrimal gland adenoid cystic carcinoma
 MONDO:0005002,biolink:Disease,chronic obstructive pulmonary disease
 MONDO:0018842,biolink:Disease,primary effusion lymphoma
-HP:0003489,biolink:Disease,HP:0003489
-OBA:2045206,biolink:Disease,OBA:2045206
-HP:0100806,biolink:Disease,HP:0100806
+HP:0003489,biolink:Disease,Acute episodes of neuropathic symptoms
+OBA:2045206,biolink:Disease,level of serum globulin type protein
+HP:0100806,biolink:Disease,Sepsis
 MONDO:0054723,biolink:Disease,spermatogenic failure 19
 MONDO:0037821,biolink:Disease,porphyrin metabolism disease
-EFO:0004696,biolink:Disease,EFO:0004696
+EFO:0004696,biolink:Disease,sex hormone-binding globulin measurement
 MONDO:0005173,biolink:Disease,actinic keratosis
 MONDO:0017844,biolink:Disease,Sezary syndrome
 MONDO:0008327,biolink:Disease,exfoliation syndrome
 MONDO:0002492,biolink:Disease,acute kidney injury
-EFO:0004842,biolink:Disease,EFO:0004842
+EFO:0004842,biolink:Disease,eosinophil count
 MONDO:0003453,biolink:Disease,conjunctival intraepithelial neoplasm
 MONDO:0001627,biolink:Disease,dementia
-EFO:1001494,biolink:Disease,EFO:1001494
+EFO:1001494,biolink:Disease,psoriasis vulgaris
 MONDO:0002358,biolink:Disease,laryngeal carcinoma
 MONDO:0000432,biolink:Disease,lymphoplasmacytic lymphoma
-HP:0001268,biolink:Disease,HP:0001268
+HP:0001268,biolink:Disease,Mental deterioration
 MONDO:0020804,biolink:Disease,basal cell carcinoma
 MONDO:0019917,biolink:Disease,maternal uniparental disomy of chromosome 20
-EFO:0020685,biolink:Disease,EFO:0020685
+EFO:0020685,biolink:Disease,protein nov homolog measurement
 MONDO:0009685,biolink:Disease,Miyoshi myopathy
 MONDO:0003009,biolink:Disease,hyperaldosteronism
 MONDO:0002616,biolink:Disease,mesenchymal cell neoplasm
@@ -1551,23 +1551,23 @@ MONDO:0021192,biolink:Disease,odontogenic neoplasm
 MONDO:0005354,biolink:Disease,chronic hepatitis C virus infection
 MONDO:0008038,biolink:Disease,ataxia-pancytopenia syndrome
 MONDO:0000490,biolink:Disease,glomerulosclerosis
-OBA:VT0005265,biolink:Disease,OBA:VT0005265
+OBA:VT0005265,biolink:Disease,blood urea nitrogen amount
 MONDO:0002480,biolink:Disease,endometrioid tumor
-HP:0004398,biolink:Disease,HP:0004398
+HP:0004398,biolink:Disease,Peptic ulcer
 MONDO:0000771,biolink:Disease,allergic respiratory disease
 MONDO:0007481,biolink:Disease,Leri-Weill dyschondrosteosis
 MONDO:0019933,biolink:Disease,acromegaly
-EFO:0022159,biolink:Disease,EFO:0022159
-EFO:0011057,biolink:Disease,EFO:0011057
+EFO:0022159,biolink:Disease,cholesteryl esters in large HDL measurement
+EFO:0011057,biolink:Disease,neurotoxicity
 MONDO:0016006,biolink:Disease,Cockayne syndrome
 MONDO:0015760,biolink:Disease,T-cell non-Hodgkin lymphoma
 MONDO:0004471,biolink:Disease,bacterial arthritis
 MONDO:0002525,biolink:Disease,inherited lipid metabolism disorder
-HP:0002075,biolink:Disease,HP:0002075
+HP:0002075,biolink:Disease,Dysdiadochokinesis
 MONDO:0001572,biolink:Disease,leiomyoma
 MONDO:0006632,biolink:Disease,"osteoarthritis, hand"
-EFO:0010351,biolink:Disease,EFO:0010351
-EFO:0004725,biolink:Disease,EFO:0004725
+EFO:0010351,biolink:Disease,cholesteryl ester measurement
+EFO:0004725,biolink:Disease,metabolite measurement
 MONDO:0005192,biolink:Disease,exocrine pancreatic carcinoma
 MONDO:0015925,biolink:Disease,interstitial lung disease
 MONDO:0021248,biolink:Disease,nervous system neoplasm
@@ -1579,15 +1579,15 @@ MONDO:0800373,biolink:Disease,carbon monoxide poisoning
 MONDO:0030307,biolink:Disease,spermatogenic failure 55
 MONDO:0008734,biolink:Disease,"adrenocortical carcinoma, hereditary"
 MONDO:0013372,biolink:Disease,long QT syndrome 5
-EFO:0020921,biolink:Disease,EFO:0020921
-EFO:0000719,biolink:Disease,EFO:0000719
-EFO:0022258,biolink:Disease,EFO:0022258
-EFO:0011011,biolink:Disease,EFO:0011011
-HP:0005268,biolink:Disease,HP:0005268
+EFO:0020921,biolink:Disease,hemorrhagic stroke
+EFO:0000719,biolink:Disease,temporal measurement
+EFO:0022258,biolink:Disease,cholesteryl esters to total lipids in very large VLDL percentage
+EFO:0011011,biolink:Disease,sitting height measurement
+HP:0005268,biolink:Disease,Miscarriage
 MONDO:0009833,biolink:Disease,Shwachman-Diamond syndrome
-EFO:0007985,biolink:Disease,EFO:0007985
-EFO:0004309,biolink:Disease,EFO:0004309
-OBA:2042371,biolink:Disease,OBA:2042371
+EFO:0007985,biolink:Disease,platelet crit
+EFO:0004309,biolink:Disease,platelet count
+OBA:2042371,biolink:Disease,level of MIT domain-containing protein 1 in blood serum
 MONDO:0006377,biolink:Disease,pleural biphasic mesothelioma
 MONDO:0010726,biolink:Disease,Rett syndrome
 MONDO:0004975,biolink:Disease,Alzheimer disease
@@ -1599,62 +1599,62 @@ MONDO:0800043,biolink:Disease,Stüve-Wiedemann syndrome 1
 MONDO:0024575,biolink:Disease,pregnancy disorder
 MONDO:0013459,biolink:Disease,osteogenesis imperfecta type 10
 MONDO:0020689,biolink:Disease,AIDS dementia complex
-HP:0001395,biolink:Disease,HP:0001395
+HP:0001395,biolink:Disease,Hepatic fibrosis
 MONDO:0007739,biolink:Disease,Huntington disease
-HP:0000539,biolink:Disease,HP:0000539
-EFO:0022322,biolink:Disease,EFO:0022322
+HP:0000539,biolink:Disease,Abnormality of refraction
+EFO:0022322,biolink:Disease,triglycerides in medium LDL measurement
 MONDO:0019772,biolink:Disease,blepharospasm-oromandibular dystonia syndrome
-EFO:0022265,biolink:Disease,EFO:0022265
+EFO:0022265,biolink:Disease,free cholesterol in large VLDL measurement
 MONDO:0010421,biolink:Disease,Bruton-type agammaglobulinemia
 MONDO:0005556,biolink:Disease,lupus nephritis
 MONDO:0006861,biolink:Disease,myeloid sarcoma
 MONDO:0002814,biolink:Disease,adrenal carcinoma
-HP:0000112,biolink:Disease,HP:0000112
-HP:0002202,biolink:Disease,HP:0002202
+HP:0000112,biolink:Disease,Nephropathy
+HP:0002202,biolink:Disease,Pleural effusion
 MONDO:0024465,biolink:Disease,"surfactant metabolism dysfunction, pulmonary, 2"
 MONDO:0043905,biolink:Disease,pneumonitis
 MONDO:0005072,biolink:Disease,neuroblastoma
 MONDO:0019004,biolink:Disease,kidney Wilms tumor
 MONDO:8000015,biolink:Disease,"46,XY sex reversal 11"
 MONDO:0005180,biolink:Disease,Parkinson disease
-EFO:0006807,biolink:Disease,EFO:0006807
+EFO:0006807,biolink:Disease,linoleic acid measurement
 MONDO:0029000,biolink:Disease,poisoning
 MONDO:0009571,biolink:Disease,"Meckel syndrome, type 1"
 MONDO:0011962,biolink:Disease,endometrial cancer
 MONDO:0000491,biolink:Disease,limb ischemia
-EFO:0920022,biolink:Disease,EFO:0920022
-HP:0002960,biolink:Disease,HP:0002960
+EFO:0920022,biolink:Disease,cholesteryl esters in HDL measurement
+HP:0002960,biolink:Disease,Autoimmunity
 MONDO:0006292,biolink:Disease,malignant mesothelioma
-EFO:0008569,biolink:Disease,EFO:0008569
-EFO:0009188,biolink:Disease,EFO:0009188
+EFO:0008569,biolink:Disease,Thiamine deficiency
+EFO:0009188,biolink:Disease,Red cell distribution width
 MONDO:0006249,biolink:Disease,hyperplastic polyp
-EFO:1001955,biolink:Disease,EFO:1001955
+EFO:1001955,biolink:Disease,erythroleukemia
 MONDO:0002635,biolink:Disease,periodontal disorder
 MONDO:0020488,biolink:Disease,atypical progressive supranuclear palsy syndrome
-HP:0002721,biolink:Disease,HP:0002721
+HP:0002721,biolink:Disease,Immunodeficiency
 MONDO:0011849,biolink:Disease,psoriatic arthritis
-HP:0011947,biolink:Disease,HP:0011947
+HP:0011947,biolink:Disease,Respiratory tract infection
 MONDO:0011385,biolink:Disease,intervertebral disk degenerative disorder
 MONDO:0021211,biolink:Disease,brain neoplasm
 MONDO:0015912,biolink:Disease,macrothrombocytopenia and granulocyte inclusions with or without nephritis or sensorineural hearing loss
 MONDO:0018310,biolink:Disease,Langerhans cell histiocytosis
 MONDO:0005381,biolink:Disease,bone disorder
 MONDO:0018908,biolink:Disease,non-Hodgkin lymphoma
-OBA:0003747,biolink:Disease,OBA:0003747
+OBA:0003747,biolink:Disease,glomerular filtration rate
 MONDO:0005151,biolink:Disease,endocrine system disorder
 MONDO:0009975,biolink:Disease,reticulum cell sarcoma
 MONDO:0007056,biolink:Disease,acroosteolysis
 MONDO:0000552,biolink:Disease,breast lobular carcinoma
 MONDO:0012923,biolink:Disease,congenital generalized lipodystrophy type 3
 MONDO:0024291,biolink:Disease,vascular malformation
-OBA:1000110,biolink:Disease,OBA:1000110
-EFO:0000195,biolink:Disease,EFO:0000195
+OBA:1000110,biolink:Disease,bone tissue density
+EFO:0000195,biolink:Disease,metabolic syndrome
 MONDO:0017123,biolink:Disease,arthrogryposis-renal dysfunction-cholestasis syndrome
-HP:0100660,biolink:Disease,HP:0100660
+HP:0100660,biolink:Disease,Dyskinesia
 MONDO:0008714,biolink:Disease,acrofacial dysostosis Rodriguez type
 MONDO:0018321,biolink:Disease,atypical juvenile parkinsonism
-EFO:0005689,biolink:Disease,EFO:0005689
-EFO:0005106,biolink:Disease,EFO:0005106
+EFO:0005689,biolink:Disease,non-high density lipoprotein cholesterol measurement
+EFO:0005106,biolink:Disease,body composition measurement
 MONDO:0005076,biolink:Disease,periodontitis
 MONDO:0002253,biolink:Disease,spondylosis
 MONDO:0013279,biolink:Disease,long QT syndrome 13
@@ -1672,7 +1672,7 @@ MONDO:0008963,biolink:Disease,Chediak-Higashi syndrome
 MONDO:0004781,biolink:Disease,acute myocardial infarction
 MONDO:0033622,biolink:Disease,spermatogenic failure 44
 MONDO:0005081,biolink:Disease,preeclampsia
-EFO:1001491,biolink:Disease,EFO:1001491
+EFO:1001491,biolink:Disease,abortion
 MONDO:0002050,biolink:Disease,depressive disorder
 MONDO:0006216,biolink:Disease,gallbladder adenoma
 MONDO:0007047,biolink:Disease,punctate palmoplantar keratoderma type III
@@ -1683,19 +1683,19 @@ MONDO:0009491,biolink:Disease,Haim-Munk syndrome
 MONDO:0009480,biolink:Disease,Joubert syndrome with oculorenal defect
 MONDO:0008977,biolink:Disease,chondrosarcoma
 MONDO:0030996,biolink:Disease,"bleeding disorder, platelet-type, 24"
-HP:0001987,biolink:Disease,HP:0001987
+HP:0001987,biolink:Disease,Hyperammonemia
 MONDO:0000082,biolink:Disease,pelvic organ prolapse
 MONDO:0957809,biolink:Disease,"neutropenia, severe congenital, 10, autosomal recessive"
-EFO:0008496,biolink:Disease,EFO:0008496
+EFO:0008496,biolink:Disease,chronic hepatitis
 MONDO:0009925,biolink:Disease,autosomal recessive inherited pseudoxanthoma elasticum
 MONDO:0005468,biolink:Disease,hypotensive disorder
 MONDO:0030925,biolink:Disease,oocyte maturation defect 10
-OBA:2050065,biolink:Disease,OBA:2050065
+OBA:2050065,biolink:Disease,serum urea amount
 MONDO:0005376,biolink:Disease,membranous glomerulonephritis
 MONDO:0002305,biolink:Disease,thrombophilia
 MONDO:0005099,biolink:Disease,subarachnoid hemorrhage
-EFO:0007789,biolink:Disease,EFO:0007789
-EFO:0022160,biolink:Disease,EFO:0022160
+EFO:0007789,biolink:Disease,BMI-adjusted waist circumference
+EFO:0022160,biolink:Disease,concentration of large LDL particles measurement
 MONDO:0013044,biolink:Disease,atypical hemolytic-uremic syndrome with thrombomodulin anomaly
 MONDO:0017413,biolink:Disease,Reunion island Larsen syndrome
 MONDO:0033673,biolink:Disease,spermatogenic failure 46
@@ -1707,36 +1707,36 @@ MONDO:0018237,biolink:Disease,acrofacial dysostosis
 MONDO:0005350,biolink:Disease,abdominal aortic aneurysm
 MONDO:0006394,biolink:Disease,rectal tubular adenoma
 MONDO:0015524,biolink:Disease,hyperplastic polyposis syndrome
-OBA:2041446,biolink:Disease,OBA:2041446
-EFO:1001471,biolink:Disease,EFO:1001471
+OBA:2041446,biolink:Disease,level of eukaryotic translation initiation factor 3 subunit B in blood serum
+EFO:1001471,biolink:Disease,Merkel cell skin cancer
 MONDO:0008708,biolink:Disease,acrocallosal syndrome
 MONDO:0859522,biolink:Disease,spermatogenic failure 81
-HP:0100526,biolink:Disease,HP:0100526
+HP:0100526,biolink:Disease,Neoplasm of the lung
 MONDO:0004301,biolink:Disease,fibrosarcomatous osteosarcoma
 MONDO:0100147,biolink:Disease,SATB2 associated disorder
 MONDO:0021187,biolink:Disease,hyperlipidemia
-EFO:0009885,biolink:Disease,EFO:0009885
+EFO:0009885,biolink:Disease,frailty measurement
 MONDO:0004180,biolink:Disease,benign urinary system neoplasm
 MONDO:0011128,biolink:Disease,Sheldon-hall syndrome
 MONDO:0012859,biolink:Disease,autosomal recessive osteopetrosis 7
 MONDO:0018338,biolink:Disease,activated PI3K-delta syndrome
-OBA:2045560,biolink:Disease,OBA:2045560
+OBA:2045560,biolink:Disease,amount of iron in brain
 MONDO:0004651,biolink:Disease,smallpox
 MONDO:0020336,biolink:Disease,autosomal dominant Emery-Dreifuss muscular dystrophy
-EFO:0006336,biolink:Disease,EFO:0006336
-EFO:0022157,biolink:Disease,EFO:0022157
-HP:0000842,biolink:Disease,HP:0000842
-EFO:0021900,biolink:Disease,EFO:0021900
+EFO:0006336,biolink:Disease,diastolic blood pressure
+EFO:0022157,biolink:Disease,free cholesterol in large HDL measurement
+HP:0000842,biolink:Disease,Hyperinsulinemia
+EFO:0021900,biolink:Disease,cholesterol in large HDL measurement
 MONDO:0014804,biolink:Disease,sideroblastic anemia 3
-EFO:0022296,biolink:Disease,EFO:0022296
+EFO:0022296,biolink:Disease,phospholipids in small HDL measurement
 MONDO:0003519,biolink:Disease,malignant syringoma
-EFO:0009622,biolink:Disease,EFO:0009622
+EFO:0009622,biolink:Disease,fracture of pelvis
 MONDO:0005036,biolink:Disease,gastric adenocarcinoma
 MONDO:0022529,biolink:Disease,BK-virus nephropathy
-HP:0002242,biolink:Disease,HP:0002242
-EFO:0800337,biolink:Disease,EFO:0800337
-HP:0001667,biolink:Disease,HP:0001667
-EFO:0004312,biolink:Disease,EFO:0004312
+HP:0002242,biolink:Disease,Abnormal intestine morphology
+EFO:0800337,biolink:Disease,N-oleoyltaurine measurement
+HP:0001667,biolink:Disease,Right ventricular hypertrophy
+EFO:0004312,biolink:Disease,vital capacity
 MONDO:0019391,biolink:Disease,Fanconi anemia
 MONDO:0012657,biolink:Disease,Mungan syndrome
 MONDO:0001291,biolink:Disease,brain compression
@@ -1745,13 +1745,13 @@ MONDO:0005550,biolink:Disease,infectious disease
 MONDO:0004952,biolink:Disease,Hodgkins lymphoma
 MONDO:0005345,biolink:Disease,hypospadias
 MONDO:0005132,biolink:Disease,cytomegalovirus infection
-EFO:0920024,biolink:Disease,EFO:0920024
+EFO:0920024,biolink:Disease,cholesteryl esters in very large VLDL measurement
 MONDO:0030506,biolink:Disease,ovarian dysgenesis 9
-EFO:0010623,biolink:Disease,EFO:0010623
+EFO:0010623,biolink:Disease,tissue factor measurement
 MONDO:0021945,biolink:Disease,hearing disorder
 MONDO:0010580,biolink:Disease,immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome
 MONDO:0006181,biolink:Disease,digestive system carcinoma
-EFO:0009783,biolink:Disease,EFO:0009783
+EFO:0009783,biolink:Disease,carotid atherosclerosis
 MONDO:0011182,biolink:Disease,trimethylaminuria
 MONDO:0010302,biolink:Disease,Ito hypomelanosis
 MONDO:0009852,biolink:Disease,hereditary intrinsic factor deficiency
@@ -1761,16 +1761,16 @@ MONDO:0001889,biolink:Disease,ovarian dysfunction
 MONDO:0011717,biolink:Disease,hyperinsulinism-hyperammonemia syndrome
 MONDO:0004737,biolink:Disease,homocystinuria
 MONDO:0015540,biolink:Disease,hemophagocytic syndrome
-EFO:0006835,biolink:Disease,EFO:0006835
+EFO:0006835,biolink:Disease,pyoderma gangrenosum
 MONDO:0019472,biolink:Disease,extranodal nasal NK/T cell lymphoma
-EFO:0022154,biolink:Disease,EFO:0022154
-EFO:0004838,biolink:Disease,EFO:0004838
+EFO:0022154,biolink:Disease,phospholipids in medium VLDL measurement
+EFO:0004838,biolink:Disease,calcium measurement
 MONDO:0002041,biolink:Disease,fungal infectious disease
 MONDO:0011988,biolink:Disease,neutrophil immunodeficiency syndrome
-EFO:0022326,biolink:Disease,EFO:0022326
-HP:0012531,biolink:Disease,HP:0012531
+EFO:0022326,biolink:Disease,triglycerides in VLDL measurement
+HP:0012531,biolink:Disease,Pain
 MONDO:0010444,biolink:Disease,X-linked dyserythropoetic anemia with abnormal platelets and neutropenia
-EFO:0000551,biolink:Disease,EFO:0000551
-HP:0001410,biolink:Disease,HP:0001410
-HP:0032252,biolink:Disease,HP:0032252
+EFO:0000551,biolink:Disease,intracranial hemorrhage
+HP:0001410,biolink:Disease,Decreased liver function
+HP:0032252,biolink:Disease,Granuloma
 MONDO:0006485,biolink:Disease,uterine carcinosarcoma

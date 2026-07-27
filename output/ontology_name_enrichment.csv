@@ -1,0 +1,274 @@
+id,prefix,previous_name,label,label_ontology,obsolete_term,matched,current_category,suggested_category
+EFO:0006890,EFO,EFO:0006890,fibrosis,efo,False,True,biolink:Disease,
+EFO:1001461,EFO,EFO:1001461,endothelial dysfunction,efo,False,True,biolink:Disease,
+EFO:0021901,EFO,EFO:0021901,cholesterol in large LDL measurement,efo,False,True,biolink:Disease,
+EFO:0005140,EFO,EFO:0005140,obsolete_autoimmune disease,efo,True,True,biolink:Disease,
+GO:0009410,GO,GO:0009410,response to xenobiotic stimulus,go,False,True,biolink:Disease,biolink:BiologicalProcessOrActivity
+EFO:0022148,EFO,EFO:0022148,total lipids in small VLDL,efo,False,True,biolink:Disease,
+EFO:0006335,EFO,EFO:0006335,systolic blood pressure,efo,False,True,biolink:Disease,
+HP:0040187,HP,HP:0040187,Neonatal sepsis,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+OBA:1000840,OBA,OBA:1000840,alcohol consumption quality,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0001270,HP,HP:0001270,Motor delay,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0002015,HP,HP:0002015,Dysphagia,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:1001248,EFO,EFO:1001248,non-alcoholic fatty liver,efo,False,True,biolink:Disease,
+EFO:0009765,EFO,EFO:0009765,alanine measurement,efo,False,True,biolink:Disease,
+OBA:0003277,OBA,OBA:0003277,platelet volume,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0004995,EFO,EFO:0004995,lean body mass,efo,False,True,biolink:Disease,
+EFO:0004530,EFO,EFO:0004530,triglyceride measurement,efo,False,True,biolink:Disease,
+EFO:0020865,EFO,EFO:0020865,aortic measurement,efo,False,True,biolink:Disease,
+HP:0001873,HP,HP:0001873,Thrombocytopenia,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0009085,EFO,EFO:0009085,arterial occlusive disease,efo,False,True,biolink:Disease,
+EFO:0022237,EFO,EFO:0022237,cholesterol to total lipids in medium HDL percentage,efo,False,True,biolink:Disease,
+EFO:0008572,EFO,EFO:0008572,malnutrition,efo,False,True,biolink:Disease,
+OBA:2040561,OBA,OBA:2040561,"level of aldehyde dehydrogenase X, mitochondrial in blood serum",oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0010134,EFO,EFO:0010134,kidney transplant,efo,False,True,biolink:Disease,
+EFO:0009130,EFO,EFO:0009130,clostridium difficile infection,efo,False,True,biolink:Disease,
+OBA:2042538,OBA,OBA:2042538,level of protein NDRG4 in blood serum,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0022317,EFO,EFO:0022317,triglycerides in HDL measurement,efo,False,True,biolink:Disease,
+MONDO:0700044,MONDO,MONDO:0700044,obsolete TUBB2A-related tubulinopathy,mondo,True,True,biolink:Disease,
+EFO:0007874,EFO,EFO:0007874,gut microbiome measurement,efo,False,True,biolink:Disease,
+HP:0009726,HP,HP:0009726,Renal neoplasm,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0002783,HP,HP:0002783,Recurrent lower respiratory tract infections,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0010702,EFO,EFO:0010702,opioid use disorder,efo,False,True,biolink:Disease,
+OBA:VT0001253,OBA,OBA:VT0001253,body height,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0004517,EFO,EFO:0004517,arterial stiffness measurement,efo,False,True,biolink:Disease,
+EFO:0002503,EFO,EFO:0002503,cardiac hypertrophy,efo,False,True,biolink:Disease,
+EFO:0022254,EFO,EFO:0022254,cholesteryl esters to total lipids in small HDL percentage,efo,False,True,biolink:Disease,
+EFO:0007986,EFO,EFO:0007986,reticulocyte count,efo,False,True,biolink:Disease,
+HP:0003074,HP,HP:0003074,Hyperglycemia,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0005241,EFO,EFO:0005241,employment status,efo,False,True,biolink:Disease,
+HP:0003073,HP,HP:0003073,Hypoalbuminemia,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0011675,HP,HP:0011675,Arrhythmia,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0009860,EFO,EFO:0009860,chromosomal aberration frequency,efo,False,True,biolink:Disease,
+EFO:0004468,EFO,EFO:0004468,glucose measurement,efo,False,True,biolink:Disease,
+EFO:0022008,EFO,EFO:0022008,polyUbiquitin K63-linked measurement,efo,False,True,biolink:Disease,
+OBA:VT0010046,OBA,OBA:VT0010046,fatty acid amount,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0006536,HP,HP:0006536,Airway obstruction,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0001397,HP,HP:0001397,Hepatic steatosis,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0801819,EFO,EFO:0801819,n-acetyltransferase 14 measurement,efo,False,True,biolink:Disease,
+EFO:0000544,EFO,EFO:0000544,infection,efo,False,True,biolink:Disease,
+OBA:2040646,OBA,OBA:2040646,level of arfaptin-1 in blood serum,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0001952,HP,HP:0001952,Glucose intolerance,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0600064,EFO,EFO:0600064,serum lipopolysaccharide activity,efo,False,True,biolink:Disease,
+EFO:0004541,EFO,EFO:0004541,HbA1c measurement,efo,False,True,biolink:Disease,
+EFO:0007800,EFO,EFO:0007800,body fat percentage,efo,False,True,biolink:Disease,
+EFO:0009946,EFO,EFO:0009946,low density lipoprotein triglyceride measurement,efo,False,True,biolink:Disease,
+EFO:0010968,EFO,EFO:0010968,phosphate measurement,efo,False,True,biolink:Disease,
+HP:0010992,HP,HP:0010992,Stress urinary incontinence,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:1001436,EFO,EFO:1001436,thyroid nodule,efo,False,True,biolink:Disease,
+EFO:0000556,EFO,EFO:0000556,ischemia,efo,False,True,biolink:Disease,
+EFO:0011052,EFO,EFO:0011052,hepatotoxicity,efo,False,True,biolink:Disease,
+EFO:0803548,EFO,EFO:0803548,neutrophil measurement,efo,False,True,biolink:Disease,
+HP:0000356,HP,HP:0000356,Abnormality of the outer ear,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0001063,EFO,EFO:0001063,deafness,efo,False,True,biolink:Disease,
+OBA:2050096,OBA,OBA:2050096,serum creatinine amount,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0009589,EFO,EFO:0009589,worry measurement,efo,False,True,biolink:Disease,
+OBA:2041840,OBA,OBA:2041840,level of hemoglobin subunit delta in blood serum,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0004528,EFO,EFO:0004528,mean corpuscular hemoglobin concentration,efo,False,True,biolink:Disease,
+HP:0002135,HP,HP:0002135,Basal ganglia calcification,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0008527,EFO,EFO:0008527,steatosis,efo,False,True,biolink:Disease,
+EFO:0022236,EFO,EFO:0022236,cholesterol to total lipids in large VLDL percentage,efo,False,True,biolink:Disease,
+OBA:2045223,OBA,OBA:2045223,myeloid leukocyte count,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:1001904,EFO,EFO:1001904,oral mucositis,efo,False,True,biolink:Disease,
+HP:0001732,HP,HP:0001732,Abnormality of the pancreas,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0007834,EFO,EFO:0007834,liver dysplastic nodule,efo,False,True,biolink:Disease,
+EFO:0009594,EFO,EFO:0009594,irritability measurement,efo,False,True,biolink:Disease,
+OBA:VT0000047,OBA,OBA:VT0000047,head circumference,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:1001326,EFO,EFO:1001326,Flavivirus Infections,efo,False,True,biolink:Disease,
+OBA:VT0000217,OBA,OBA:VT0000217,leukocyte quantity,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:1001836,EFO,EFO:1001836,pyogenic liver abscess,efo,False,True,biolink:Disease,
+OBA:VT0015043,OBA,OBA:VT0015043,milk amount,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0004340,EFO,EFO:0004340,body mass index,efo,False,True,biolink:Disease,
+EFO:0004305,EFO,EFO:0004305,erythrocyte count,efo,False,True,biolink:Disease,
+HP:0002032,HP,HP:0002032,Esophageal atresia,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+Orphanet:169446,Orphanet,Orphanet:169446,Autosomal recessive hyper-IgE syndrome,efo,False,True,biolink:Disease,
+EFO:0009805,EFO,EFO:0009805,whole body water mass,efo,False,True,biolink:Disease,
+EFO:0006566,EFO,EFO:0006566,dysplastic oral keratinocyte,efo,False,True,biolink:Disease,
+EFO:0002616,EFO,EFO:0002616,macroglobulinemia,efo,False,True,biolink:Disease,
+EFO:0006340,EFO,EFO:0006340,mean arterial pressure,efo,False,True,biolink:Disease,
+EFO:0007990,EFO,EFO:0007990,neutrophil percentage of leukocytes,efo,False,True,biolink:Disease,
+HP:0012115,HP,HP:0012115,Hepatitis,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+OBA:VT0005416,OBA,OBA:VT0005416,blood protein amount,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+OBA:2050062,OBA,OBA:2050062,serum alanine aminotransferase amount,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0009708,EFO,EFO:0009708,metastasis,efo,False,True,biolink:Disease,
+HP:0100582,HP,HP:0100582,Nasal polyposis,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+OBA:0004528,OBA,OBA:0004528,fat pad mass,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0040270,HP,HP:0040270,Impaired glucose tolerance,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0004509,EFO,EFO:0004509,hemoglobin measurement,efo,False,True,biolink:Disease,
+EFO:0007540,EFO,EFO:0007540,animal viral hepatitis,efo,False,True,biolink:Disease,
+EFO:0801555,EFO,EFO:0801555,E3 ubiquitin-protein ligase RNF128 measurement,efo,False,True,biolink:Disease,
+EFO:0022337,EFO,EFO:0022337,triglycerides to total lipids in small LDL percentage,efo,False,True,biolink:Disease,
+EFO:1001927,EFO,EFO:1001927,cutaneous squamous cell carcinoma,efo,False,True,biolink:Disease,
+EFO:0009071,EFO,EFO:0009071,"obsolete_malignant hyperthermia, susceptibility to, 1",efo,True,True,biolink:Disease,
+HP:0000739,HP,HP:0000739,Anxiety,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0004462,EFO,EFO:0004462,PR interval,efo,False,True,biolink:Disease,
+EFO:0007456,EFO,EFO:0007456,pseudomyxoma peritonei,efo,False,True,biolink:Disease,
+EFO:0006834,EFO,EFO:0006834,septic shock,efo,False,True,biolink:Disease,
+EFO:0003762,EFO,EFO:0003762,vitamin D deficiency,efo,False,True,biolink:Disease,
+HP:0001250,HP,HP:0001250,Seizure,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0004346,EFO,EFO:0004346,neuroimaging measurement,efo,False,True,biolink:Disease,
+EFO:0005802,EFO,EFO:0005802,cartilage disease,efo,False,True,biolink:Disease,
+EFO:1000636,EFO,EFO:1000636,inflammatory skin disease,efo,False,True,biolink:Disease,
+EFO:0022145,EFO,EFO:0022145,triglycerides in small VLDL measurement,efo,False,True,biolink:Disease,
+EFO:0021897,EFO,EFO:0021897,apolipoprotein B to apolipoprotein A1 ratio,efo,False,True,biolink:Disease,
+EFO:0010266,EFO,EFO:0010266,Charcot-Marie-Tooth disease type 1G,efo,False,True,biolink:Disease,
+OBA:2043190,OBA,OBA:2043190,level of Ran-specific GTPase-activating protein in blood serum,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0803382,EFO,EFO:0803382,perivascular space measurement,efo,False,True,biolink:Disease,
+EFO:0022238,EFO,EFO:0022238,cholesterol to total lipids in medium LDL percentage,efo,False,True,biolink:Disease,
+HP:0001300,HP,HP:0001300,Parkinsonism,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0001822,HP,HP:0001822,Hallux valgus,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0002315,HP,HP:0002315,Headache,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0003040,HP,HP:0003040,Arthropathy,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0010681,EFO,EFO:0010681,ileostomy,efo,False,True,biolink:Disease,
+EFO:0801229,EFO,EFO:0801229,oral microbiome measurement,efo,False,True,biolink:Disease,
+HP:0100543,HP,HP:0100543,Cognitive impairment,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0022293,EFO,EFO:0022293,phospholipids in HDL measurement,efo,False,True,biolink:Disease,
+EFO:0022335,EFO,EFO:0022335,triglycerides to total lipids in medium VLDL percentage,efo,False,True,biolink:Disease,
+HP:0000855,HP,HP:0000855,Insulin resistance,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0003419,HP,HP:0003419,Low back pain,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0006527,EFO,EFO:0006527,smoking status measurement,efo,False,True,biolink:Disease,
+EFO:0004138,EFO,EFO:0004138,bundle branch block,efo,False,True,biolink:Disease,
+EFO:0800672,EFO,EFO:0800672,fibrinopeptide A measurement,efo,False,True,biolink:Disease,
+EFO:0022280,EFO,EFO:0022280,free cholesterol to total lipids in large LDL percentage,efo,False,True,biolink:Disease,
+EFO:0009842,EFO,EFO:0009842,respiratory depression,efo,False,True,biolink:Disease,
+EFO:0009518,EFO,EFO:0009518,complication,efo,False,True,biolink:Disease,
+MP:0001845,MP,MP:0001845,abnormal inflammatory response,mp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0004784,EFO,EFO:0004784,self reported educational attainment,efo,False,True,biolink:Disease,
+EFO:0008591,EFO,EFO:0008591,free cholesterol measurement,efo,False,True,biolink:Disease,
+EFO:0009756,EFO,EFO:0009756,autoimmune type 1 diabetes,efo,False,True,biolink:Disease,
+EFO:0022173,EFO,EFO:0022173,concentration of large VLDL particles measurement,efo,False,True,biolink:Disease,
+EFO:1001514,EFO,EFO:1001514,endometrial endometrioid carcinoma,efo,False,True,biolink:Disease,
+EFO:0004533,EFO,EFO:0004533,alkaline phosphatase measurement,efo,False,True,biolink:Disease,
+EFO:0004527,EFO,EFO:0004527,mean corpuscular hemoglobin,efo,False,True,biolink:Disease,
+EFO:0009373,EFO,EFO:0009373,edema,efo,False,True,biolink:Disease,
+EFO:0004875,EFO,EFO:0004875,mathematical ability,efo,False,True,biolink:Disease,
+HP:0010783,HP,HP:0010783,Erythema,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+OBA:2041267,OBA,OBA:2041267,level of beta-defensin 104 in blood serum,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0009614,EFO,EFO:0009614,clavicle fracture,efo,False,True,biolink:Disease,
+EFO:0700022,EFO,EFO:0700022,obsolete_lysosomal acid lipase deficiency,efo,True,True,biolink:Disease,
+HP:0001394,HP,HP:0001394,Cirrhosis,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0009964,EFO,EFO:0009964,bipolar II disorder,efo,False,True,biolink:Disease,
+HP:0005359,HP,HP:0005359,Aplasia of the thymus,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0022233,EFO,EFO:0022233,cholesterol to total lipids in IDL percentage,efo,False,True,biolink:Disease,
+EFO:0008511,EFO,EFO:0008511,metopic craniosynostosis,efo,False,True,biolink:Disease,
+HP:0002119,HP,HP:0002119,Ventriculomegaly,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:1001129,EFO,EFO:1001129,obsolete_proliferative vitreoretinopathy,efo,True,True,biolink:Disease,
+EFO:0004335,EFO,EFO:0004335,short-term memory,efo,False,True,biolink:Disease,
+EFO:0004612,EFO,EFO:0004612,high density lipoprotein cholesterol measurement,efo,False,True,biolink:Disease,
+HP:0040223,HP,HP:0040223,Pulmonary hemorrhage,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:1001418,EFO,EFO:1001418,Salmonella Infections,efo,False,True,biolink:Disease,
+HP:0000975,HP,HP:0000975,Hyperhidrosis,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0009429,EFO,EFO:0009429,Mycobacterium infection,efo,False,True,biolink:Disease,
+Orphanet:91088,Orphanet,Orphanet:91088,Other metabolic disease,ordo,False,True,biolink:Disease,
+EFO:0007944,EFO,EFO:0007944,allergen exposure measurement,efo,False,True,biolink:Disease,
+OBA:2044852,OBA,OBA:2044852,level of UPF0235 protein C15orf40 in blood serum,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0010925,EFO,EFO:0010925,protein S100-A12 measurement,efo,False,True,biolink:Disease,
+HP:0012207,HP,HP:0012207,Reduced sperm motility,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0700134,EFO,EFO:0700134,obsolete_resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta,efo,True,True,biolink:Disease,
+EFO:0004833,EFO,EFO:0004833,neutrophil count,efo,False,True,biolink:Disease,
+OBA:2050068,OBA,OBA:2050068,serum albumin amount,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+Orphanet:183539,Orphanet,Orphanet:183539,Genetic renal or urinary tract malformation,ordo,False,True,biolink:Disease,
+EFO:1000653,EFO,EFO:1000653,sarcopenia,efo,False,True,biolink:Disease,
+EFO:0010922,EFO,EFO:0010922,P-selectin glycoprotein ligand 1 measurement,efo,False,True,biolink:Disease,
+OBA:0004561,OBA,OBA:0004561,blood osmolality,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0004587,EFO,EFO:0004587,lymphocyte count,efo,False,True,biolink:Disease,
+EFO:0006922,EFO,EFO:0006922,delivery measurement,efo,False,True,biolink:Disease,
+EFO:0004980,EFO,EFO:0004980,appendicular lean mass,efo,False,True,biolink:Disease,
+EFO:1001516,EFO,EFO:1001516,ovarian serous carcinoma,efo,False,True,biolink:Disease,
+HP:0012393,HP,HP:0012393,Allergy,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0009706,EFO,EFO:0009706,latent autoimmune diabetes in adults,efo,False,True,biolink:Disease,
+EFO:0004348,EFO,EFO:0004348,hematocrit,efo,False,True,biolink:Disease,
+EFO:0007991,EFO,EFO:0007991,eosinophil percentage of leukocytes,efo,False,True,biolink:Disease,
+HP:0004418,HP,HP:0004418,Thrombophlebitis,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0005180,HP,HP:0005180,Tricuspid regurgitation,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0031678,HP,HP:0031678,Atherosclerotic lesion,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0001643,HP,HP:0001643,Patent ductus arteriosus,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0010369,EFO,EFO:0010369,lysophosphatidylethanolamine 18:2 measurement,efo,False,True,biolink:Disease,
+EFO:0008501,EFO,EFO:0008501,dysplasia,efo,False,True,biolink:Disease,
+HP:0002411,HP,HP:0002411,Myokymia,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0003959,EFO,EFO:0003959,cleft lip,efo,False,True,biolink:Disease,
+HP:0011451,HP,HP:0011451,Primary microcephaly,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:1000965,EFO,EFO:1000965,Henoch-Schoenlein purpura,efo,False,True,biolink:Disease,
+HP:0012758,HP,HP:0012758,Neurodevelopmental delay,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+Orphanet:404469,Orphanet,Orphanet:404469,Rare female infertility due to oocyte maturation defect,ordo,False,True,biolink:Disease,
+EFO:0022267,EFO,EFO:0022267,free cholesterol in medium HDL measurement,efo,False,True,biolink:Disease,
+EFO:0009458,EFO,EFO:0009458,alcohol use disorder measurement,efo,False,True,biolink:Disease,
+EFO:0010270,EFO,EFO:0010270,Menstrual disorder,efo,False,True,biolink:Disease,
+HP:0005528,HP,HP:0005528,Bone marrow hypocellularity,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0010976,HP,HP:0010976,Decreased total B cell count,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0001520,HP,HP:0001520,Large for gestational age,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0003489,HP,HP:0003489,Acute episodes of neuropathic symptoms,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+OBA:2045206,OBA,OBA:2045206,level of serum globulin type protein,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0100806,HP,HP:0100806,Sepsis,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0004696,EFO,EFO:0004696,sex hormone-binding globulin measurement,efo,False,True,biolink:Disease,
+EFO:0004842,EFO,EFO:0004842,eosinophil count,efo,False,True,biolink:Disease,
+EFO:1001494,EFO,EFO:1001494,psoriasis vulgaris,efo,False,True,biolink:Disease,
+HP:0001268,HP,HP:0001268,Mental deterioration,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0020685,EFO,EFO:0020685,protein nov homolog measurement,efo,False,True,biolink:Disease,
+OBA:VT0005265,OBA,OBA:VT0005265,blood urea nitrogen amount,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0004398,HP,HP:0004398,Peptic ulcer,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0022159,EFO,EFO:0022159,cholesteryl esters in large HDL measurement,efo,False,True,biolink:Disease,
+EFO:0011057,EFO,EFO:0011057,neurotoxicity,efo,False,True,biolink:Disease,
+HP:0002075,HP,HP:0002075,Dysdiadochokinesis,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0010351,EFO,EFO:0010351,cholesteryl ester measurement,efo,False,True,biolink:Disease,
+EFO:0004725,EFO,EFO:0004725,metabolite measurement,efo,False,True,biolink:Disease,
+EFO:0020921,EFO,EFO:0020921,hemorrhagic stroke,efo,False,True,biolink:Disease,
+EFO:0000719,EFO,EFO:0000719,temporal measurement,efo,False,True,biolink:Disease,
+EFO:0022258,EFO,EFO:0022258,cholesteryl esters to total lipids in very large VLDL percentage,efo,False,True,biolink:Disease,
+EFO:0011011,EFO,EFO:0011011,sitting height measurement,efo,False,True,biolink:Disease,
+HP:0005268,HP,HP:0005268,Miscarriage,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0007985,EFO,EFO:0007985,platelet crit,efo,False,True,biolink:Disease,
+EFO:0004309,EFO,EFO:0004309,platelet count,efo,False,True,biolink:Disease,
+OBA:2042371,OBA,OBA:2042371,level of MIT domain-containing protein 1 in blood serum,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0001395,HP,HP:0001395,Hepatic fibrosis,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0000539,HP,HP:0000539,Abnormality of refraction,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0022322,EFO,EFO:0022322,triglycerides in medium LDL measurement,efo,False,True,biolink:Disease,
+EFO:0022265,EFO,EFO:0022265,free cholesterol in large VLDL measurement,efo,False,True,biolink:Disease,
+HP:0000112,HP,HP:0000112,Nephropathy,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0002202,HP,HP:0002202,Pleural effusion,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0006807,EFO,EFO:0006807,linoleic acid measurement,efo,False,True,biolink:Disease,
+EFO:0920022,EFO,EFO:0920022,cholesteryl esters in HDL measurement,efo,False,True,biolink:Disease,
+HP:0002960,HP,HP:0002960,Autoimmunity,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0008569,EFO,EFO:0008569,Thiamine deficiency,efo,False,True,biolink:Disease,
+EFO:0009188,EFO,EFO:0009188,Red cell distribution width,efo,False,True,biolink:Disease,
+EFO:1001955,EFO,EFO:1001955,erythroleukemia,efo,False,True,biolink:Disease,
+HP:0002721,HP,HP:0002721,Immunodeficiency,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0011947,HP,HP:0011947,Respiratory tract infection,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+OBA:0003747,OBA,OBA:0003747,glomerular filtration rate,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+OBA:1000110,OBA,OBA:1000110,bone tissue density,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0000195,EFO,EFO:0000195,metabolic syndrome,efo,False,True,biolink:Disease,
+HP:0100660,HP,HP:0100660,Dyskinesia,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0005689,EFO,EFO:0005689,non-high density lipoprotein cholesterol measurement,efo,False,True,biolink:Disease,
+EFO:0005106,EFO,EFO:0005106,body composition measurement,efo,False,True,biolink:Disease,
+EFO:1001491,EFO,EFO:1001491,abortion,efo,False,True,biolink:Disease,
+HP:0001987,HP,HP:0001987,Hyperammonemia,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0008496,EFO,EFO:0008496,chronic hepatitis,efo,False,True,biolink:Disease,
+OBA:2050065,OBA,OBA:2050065,serum urea amount,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0007789,EFO,EFO:0007789,BMI-adjusted waist circumference,efo,False,True,biolink:Disease,
+EFO:0022160,EFO,EFO:0022160,concentration of large LDL particles measurement,efo,False,True,biolink:Disease,
+OBA:2041446,OBA,OBA:2041446,level of eukaryotic translation initiation factor 3 subunit B in blood serum,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:1001471,EFO,EFO:1001471,Merkel cell skin cancer,efo,False,True,biolink:Disease,
+HP:0100526,HP,HP:0100526,Neoplasm of the lung,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0009885,EFO,EFO:0009885,frailty measurement,efo,False,True,biolink:Disease,
+OBA:2045560,OBA,OBA:2045560,amount of iron in brain,oba,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0006336,EFO,EFO:0006336,diastolic blood pressure,efo,False,True,biolink:Disease,
+EFO:0022157,EFO,EFO:0022157,free cholesterol in large HDL measurement,efo,False,True,biolink:Disease,
+HP:0000842,HP,HP:0000842,Hyperinsulinemia,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0021900,EFO,EFO:0021900,cholesterol in large HDL measurement,efo,False,True,biolink:Disease,
+EFO:0022296,EFO,EFO:0022296,phospholipids in small HDL measurement,efo,False,True,biolink:Disease,
+EFO:0009622,EFO,EFO:0009622,fracture of pelvis,efo,False,True,biolink:Disease,
+HP:0002242,HP,HP:0002242,Abnormal intestine morphology,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0800337,EFO,EFO:0800337,N-oleoyltaurine measurement,efo,False,True,biolink:Disease,
+HP:0001667,HP,HP:0001667,Right ventricular hypertrophy,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0004312,EFO,EFO:0004312,vital capacity,efo,False,True,biolink:Disease,
+EFO:0920024,EFO,EFO:0920024,cholesteryl esters in very large VLDL measurement,efo,False,True,biolink:Disease,
+EFO:0010623,EFO,EFO:0010623,tissue factor measurement,efo,False,True,biolink:Disease,
+EFO:0009783,EFO,EFO:0009783,carotid atherosclerosis,efo,False,True,biolink:Disease,
+EFO:0006835,EFO,EFO:0006835,pyoderma gangrenosum,efo,False,True,biolink:Disease,
+EFO:0022154,EFO,EFO:0022154,phospholipids in medium VLDL measurement,efo,False,True,biolink:Disease,
+EFO:0004838,EFO,EFO:0004838,calcium measurement,efo,False,True,biolink:Disease,
+EFO:0022326,EFO,EFO:0022326,triglycerides in VLDL measurement,efo,False,True,biolink:Disease,
+HP:0012531,HP,HP:0012531,Pain,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+EFO:0000551,EFO,EFO:0000551,intracranial hemorrhage,efo,False,True,biolink:Disease,
+HP:0001410,HP,HP:0001410,Decreased liver function,hp,False,True,biolink:Disease,biolink:PhenotypicFeature
+HP:0032252,HP,HP:0032252,Granuloma,hp,False,True,biolink:Disease,biolink:PhenotypicFeature

@@ -47,7 +47,16 @@ name (for example `MONDO:0002108`). The MONDO release asset `mondo_nodes.tsv`
 (v2026-06-02) provides authoritative id → label mappings. When `--mondo-nodes` is passed
 to `map_to_biolink.py`, MONDO-prefixed disease nodes are enriched with the release label
 (for example `breast carcinoma`). Obsolete MONDO terms are skipped for naming; unmatched
-ids keep the CURIE as the name. EFO, DOID, Orphanet, and OTAR nodes are unchanged.
+ids keep the CURIE as the name.
+
+### OLS4 labels for non-MONDO disease nodes (added)
+
+After MONDO naming, 273 of 1,096 disease nodes still displayed a bare CURIE (mostly EFO,
+plus HP, OBA, Orphanet, GO, MP, and one MONDO id absent from the pinned release). Those
+ids are resolved once against the EBI Ontology Lookup Service (OLS4) and cached in
+`data/ontology_labels/labels.tsv`. `ontology_labels.py` applies the cache offline and
+leaves already-named nodes untouched. All 273 resolved; `check_labels.py` confirms every
+disease node has a readable name.
 
 ### Cross-ontology normalization to MONDO (added)
 
@@ -105,6 +114,20 @@ all. It describes the modality of the drug, not how the drug relates to the gene
 for it, the row is left unmapped and excluded from the edge output, and the issue is
 recorded here. Surfacing this kind of source inconsistency is part of the value of a
 mapping pass.
+
+## 6. Non-disease terms typed as diseases
+
+Open Targets associates genes with more than diseases. After MONDO normalization, 100 of
+the 1,096 disease nodes come from ontologies that do not describe diseases: 69 HP and 1
+MP phenotypes, 29 OBA biological attributes, and one GO biological process
+(`GO:0009410`, response to xenobiotic stimulus). All carry `biolink:Disease` from the
+ingest.
+
+Decision: report the mismatch rather than silently rewriting it. `ontology_labels.py`
+emits a `suggested_category` column (`biolink:PhenotypicFeature` for HP/MP/OBA,
+`biolink:BiologicalProcessOrActivity` for GO). Splitting the category is a modelling
+change that affects edge semantics — a gene-phenotype association is not a gene-disease
+association — and belongs in its own pass, not in a labelling step.
 
 ## On modeling style
 

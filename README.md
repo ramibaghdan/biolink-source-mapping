@@ -39,8 +39,12 @@ documenting the cases that required a decision.
    same gene is one node and the two sources can connect.
 3. Maps DGIdb interaction types (inhibitor, agonist, modulator, and so on) to Biolink predicates,
    using directional predicates where the direction is known and the broad parent in cases it isn't.
-4. Normalizes disease identifiers to CURIE form and keeps each in its original ontology.
-5. Writes Biolink nodes and edges, and validates that every category and predicate is a real
+4. Normalizes disease identifiers to CURIE form, mapping EFO, DOID, Orphanet, and OTAR ids to
+   MONDO where a unique cross-reference exists and keeping the rest in their original ontology.
+5. Names every disease node. MONDO nodes take their label from the MONDO release; ids that stay
+   in EFO, HP, OBA, GO, MP, or Orphanet are resolved against OLS4, so no node displays a bare
+   identifier where a name belongs.
+6. Writes Biolink nodes and edges, and validates that every category and predicate is a real
    Biolink term.
 
 ## Repository layout
@@ -55,6 +59,7 @@ biolink_source_mapping/
 ├── data/
 │   ├── raw/                     # the committed small samples
 │   ├── mondo/                   # MONDO release assets for disease label lookup
+│   ├── ontology_labels/         # committed OLS4 label cache for non-MONDO ids
 │   └── README.md                # source provenance and licenses
 ├── src/
 │   ├── ingest.py                # load and clean the samples
@@ -62,6 +67,9 @@ biolink_source_mapping/
 │   ├── mondo_labels.py          # MONDO id -> disease name from mondo_nodes.tsv
 │   ├── mondo_normalize.py       # EFO/DOID/Orphanet -> MONDO via release xrefs
 │   ├── fetch_mondo_release.py   # download mondo_nodes.tsv from a MONDO release
+│   ├── fetch_ontology_labels.py # OLS4 label lookup for non-MONDO ids (network, once)
+│   ├── ontology_labels.py       # apply those labels to nodes.csv
+│   ├── check_labels.py          # fails if any node is still named by its id
 │   ├── validate.py              # confirm Biolink terms, print a summary
 │   ├── visualize_subgraph.py    # drug-gene-disease neighborhood figure
 │   └── requirements.txt
@@ -72,6 +80,7 @@ biolink_source_mapping/
     ├── edges.csv                # Biolink triples
     ├── mondo_normalization.csv  # EFO/DOID/Orphanet -> MONDO xref report
     ├── mondo_name_enrichment.csv # MONDO id -> label lookup report
+    ├── ontology_name_enrichment.csv # non-MONDO id -> label, with category flags
     └── before_after_examples.md # raw row -> triple, with explanation
 ```
 
@@ -89,10 +98,17 @@ python sample_sources.py --dgidb dgidb_interactions.tsv --opentargets opentarget
 python src/fetch_mondo_release.py   # once: download MONDO v2026-06-02 labels
 python src/map_to_biolink.py --hgnc hgnc_complete_set.txt --mondo-nodes data/mondo/mondo_nodes.tsv
 
-# 3. validate and summarize
+# 3. name the disease nodes MONDO did not cover
+python src/fetch_ontology_labels.py  # once: OLS4 lookup, writes a committed cache
+python src/ontology_labels.py        # applies the labels (offline)
+
+# 4. confirm no node is still named by its id
+python src/check_labels.py
+
+# 5. validate and summarize
 python src/validate.py
 
-# 4. optional: regenerate the demo figure (uses disease names from nodes.csv)
+# 6. optional: regenerate the demo figure (uses disease names from nodes.csv)
 python src/visualize_subgraph.py --gene NCBIGene:6416
 ```
 
@@ -104,19 +120,28 @@ against the authoritative Biolink model rather than the built-in fallback list.
 The mapping tables handle the routine cases. The decisions that needed reasoning can be found in [mappings/mapping_decisions.md](mappings/mapping_decisions.md), including reconciling
 gene identifiers across two schemes, normalizing mixed disease ontology prefixes, mapping an
 inconsistent interaction-type vocab to Biolink predicates, handling unknown relationships
-differently by edge type, and a source data-quality issue.
+differently by edge type, non-disease terms arriving typed as diseases, and a source
+data-quality issue.
 
 ## Data and license
 
-Uses small samples of DGIdb (open) and Open Targets (CC0), plus the HGNC gene map. The full
-downloads are not committed. See [data/README.md](data/README.md).
+Uses small samples of DGIdb (open) and Open Targets (CC0), plus the HGNC gene map. Disease
+labels for non-MONDO ids come from the EBI Ontology Lookup Service (OLS4). The full downloads
+are not committed. See [data/README.md](data/README.md).
 
 ## Planned enhancements
 
 - ~~Normalize disease identifiers to a single ontology (MONDO) using a cross-reference file.~~
-  **Done (partial):** EFO, DOID, Orphanet, and OTAR ids map to MONDO via release xrefs;
-  unmapped ids and phenotype ontologies (HP, OBA, GO, MP) stay in their source ontology.
-  MONDO nodes also receive human-readable labels from release `v2026-06-02`.
+  **Done.** EFO, DOID, Orphanet, and OTAR ids map to MONDO via release xrefs (`v2026-06-02`)
+  and receive MONDO labels. Ids with no unique xref stay in their source ontology and are
+  named from OLS4, so every disease node is readable regardless of which ontology it ended up
+  in. Any ids that resolve to no label anywhere are documented in
+  [mappings/mapping_decisions.md](mappings/mapping_decisions.md).
+- Split the non-disease terms out of `biolink:Disease`. Open Targets associates genes with HP
+  and MP phenotypes, OBA attributes, and at least one GO biological process, all of which the
+  ingest currently types as diseases. `ontology_labels.py` reports the mismatch in a
+  `suggested_category` column without changing it; correcting it affects edge semantics and
+  belongs in its own pass.
 - An optional LLM-assisted step that proposes Biolink mappings for source terms not yet in the
   mapping tables, with a human accepting or rejecting each suggestion. The current version is
   fully deterministic.

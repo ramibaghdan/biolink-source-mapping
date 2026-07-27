@@ -1,0 +1,274 @@
+curie	label	ontology	obsolete	iri	status
+EFO:0000195	metabolic syndrome	efo	false	http://www.ebi.ac.uk/efo/EFO_0000195	ok
+EFO:0000544	infection	efo	false	http://www.ebi.ac.uk/efo/EFO_0000544	ok
+EFO:0000551	intracranial hemorrhage	efo	false	http://www.ebi.ac.uk/efo/EFO_0000551	ok
+EFO:0000556	ischemia	efo	false	http://www.ebi.ac.uk/efo/EFO_0000556	ok
+EFO:0000719	temporal measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0000719	ok
+EFO:0001063	deafness	efo	false	http://www.ebi.ac.uk/efo/EFO_0001063	ok
+EFO:0002503	cardiac hypertrophy	efo	false	http://www.ebi.ac.uk/efo/EFO_0002503	ok
+EFO:0002616	macroglobulinemia	efo	false	http://www.ebi.ac.uk/efo/EFO_0002616	ok
+EFO:0003762	vitamin D deficiency	efo	false	http://www.ebi.ac.uk/efo/EFO_0003762	ok
+EFO:0003959	cleft lip	efo	false	http://www.ebi.ac.uk/efo/EFO_0003959	ok
+EFO:0004138	bundle branch block	efo	false	http://www.ebi.ac.uk/efo/EFO_0004138	ok
+EFO:0004305	erythrocyte count	efo	false	http://www.ebi.ac.uk/efo/EFO_0004305	ok
+EFO:0004309	platelet count	efo	false	http://www.ebi.ac.uk/efo/EFO_0004309	ok
+EFO:0004312	vital capacity	efo	false	http://www.ebi.ac.uk/efo/EFO_0004312	ok
+EFO:0004335	short-term memory	efo	false	http://www.ebi.ac.uk/efo/EFO_0004335	ok
+EFO:0004340	body mass index	efo	false	http://www.ebi.ac.uk/efo/EFO_0004340	ok
+EFO:0004346	neuroimaging measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0004346	ok
+EFO:0004348	hematocrit	efo	false	http://www.ebi.ac.uk/efo/EFO_0004348	ok
+EFO:0004462	PR interval	efo	false	http://www.ebi.ac.uk/efo/EFO_0004462	ok
+EFO:0004468	glucose measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0004468	ok
+EFO:0004509	hemoglobin measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0004509	ok
+EFO:0004517	arterial stiffness measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0004517	ok
+EFO:0004527	mean corpuscular hemoglobin	efo	false	http://www.ebi.ac.uk/efo/EFO_0004527	ok
+EFO:0004528	mean corpuscular hemoglobin concentration	efo	false	http://www.ebi.ac.uk/efo/EFO_0004528	ok
+EFO:0004530	triglyceride measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0004530	ok
+EFO:0004533	alkaline phosphatase measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0004533	ok
+EFO:0004541	HbA1c measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0004541	ok
+EFO:0004587	lymphocyte count	efo	false	http://www.ebi.ac.uk/efo/EFO_0004587	ok
+EFO:0004612	high density lipoprotein cholesterol measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0004612	ok
+EFO:0004696	sex hormone-binding globulin measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0004696	ok
+EFO:0004725	metabolite measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0004725	ok
+EFO:0004784	self reported educational attainment	efo	false	http://www.ebi.ac.uk/efo/EFO_0004784	ok
+EFO:0004833	neutrophil count	efo	false	http://www.ebi.ac.uk/efo/EFO_0004833	ok
+EFO:0004838	calcium measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0004838	ok
+EFO:0004842	eosinophil count	efo	false	http://www.ebi.ac.uk/efo/EFO_0004842	ok
+EFO:0004875	mathematical ability	efo	false	http://www.ebi.ac.uk/efo/EFO_0004875	ok
+EFO:0004980	appendicular lean mass	efo	false	http://www.ebi.ac.uk/efo/EFO_0004980	ok
+EFO:0004995	lean body mass	efo	false	http://www.ebi.ac.uk/efo/EFO_0004995	ok
+EFO:0005106	body composition measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0005106	ok
+EFO:0005140	obsolete_autoimmune disease	efo	true	http://www.ebi.ac.uk/efo/EFO_0005140	ok
+EFO:0005241	employment status	efo	false	http://www.ebi.ac.uk/efo/EFO_0005241	ok
+EFO:0005689	non-high density lipoprotein cholesterol measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0005689	ok
+EFO:0005802	cartilage disease	efo	false	http://www.ebi.ac.uk/efo/EFO_0005802	ok
+EFO:0006335	systolic blood pressure	efo	false	http://www.ebi.ac.uk/efo/EFO_0006335	ok
+EFO:0006336	diastolic blood pressure	efo	false	http://www.ebi.ac.uk/efo/EFO_0006336	ok
+EFO:0006340	mean arterial pressure	efo	false	http://www.ebi.ac.uk/efo/EFO_0006340	ok
+EFO:0006527	smoking status measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0006527	ok
+EFO:0006566	dysplastic oral keratinocyte	efo	false	http://www.ebi.ac.uk/efo/EFO_0006566	ok
+EFO:0006807	linoleic acid measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0006807	ok
+EFO:0006834	septic shock	efo	false	http://www.ebi.ac.uk/efo/EFO_0006834	ok
+EFO:0006835	pyoderma gangrenosum	efo	false	http://www.ebi.ac.uk/efo/EFO_0006835	ok
+EFO:0006890	fibrosis	efo	false	http://www.ebi.ac.uk/efo/EFO_0006890	ok
+EFO:0006922	delivery measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0006922	ok
+EFO:0007456	pseudomyxoma peritonei	efo	false	http://www.ebi.ac.uk/efo/EFO_0007456	ok
+EFO:0007540	animal viral hepatitis	efo	false	http://www.ebi.ac.uk/efo/EFO_0007540	ok
+EFO:0007789	BMI-adjusted waist circumference	efo	false	http://www.ebi.ac.uk/efo/EFO_0007789	ok
+EFO:0007800	body fat percentage	efo	false	http://www.ebi.ac.uk/efo/EFO_0007800	ok
+EFO:0007834	liver dysplastic nodule	efo	false	http://www.ebi.ac.uk/efo/EFO_0007834	ok
+EFO:0007874	gut microbiome measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0007874	ok
+EFO:0007944	allergen exposure measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0007944	ok
+EFO:0007985	platelet crit	efo	false	http://www.ebi.ac.uk/efo/EFO_0007985	ok
+EFO:0007986	reticulocyte count	efo	false	http://www.ebi.ac.uk/efo/EFO_0007986	ok
+EFO:0007990	neutrophil percentage of leukocytes	efo	false	http://www.ebi.ac.uk/efo/EFO_0007990	ok
+EFO:0007991	eosinophil percentage of leukocytes	efo	false	http://www.ebi.ac.uk/efo/EFO_0007991	ok
+EFO:0008496	chronic hepatitis	efo	false	http://www.ebi.ac.uk/efo/EFO_0008496	ok
+EFO:0008501	dysplasia	efo	false	http://www.ebi.ac.uk/efo/EFO_0008501	ok
+EFO:0008511	metopic craniosynostosis	efo	false	http://www.ebi.ac.uk/efo/EFO_0008511	ok
+EFO:0008527	steatosis	efo	false	http://www.ebi.ac.uk/efo/EFO_0008527	ok
+EFO:0008569	Thiamine deficiency	efo	false	http://www.ebi.ac.uk/efo/EFO_0008569	ok
+EFO:0008572	malnutrition	efo	false	http://www.ebi.ac.uk/efo/EFO_0008572	ok
+EFO:0008591	free cholesterol measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0008591	ok
+EFO:0009071	obsolete_malignant hyperthermia, susceptibility to, 1	efo	true	http://www.ebi.ac.uk/efo/EFO_0009071	ok
+EFO:0009085	arterial occlusive disease	efo	false	http://www.ebi.ac.uk/efo/EFO_0009085	ok
+EFO:0009130	clostridium difficile infection	efo	false	http://www.ebi.ac.uk/efo/EFO_0009130	ok
+EFO:0009188	Red cell distribution width	efo	false	http://www.ebi.ac.uk/efo/EFO_0009188	ok
+EFO:0009373	edema	efo	false	http://www.ebi.ac.uk/efo/EFO_0009373	ok
+EFO:0009429	Mycobacterium infection	efo	false	http://www.ebi.ac.uk/efo/EFO_0009429	ok
+EFO:0009458	alcohol use disorder measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0009458	ok
+EFO:0009518	complication	efo	false	http://www.ebi.ac.uk/efo/EFO_0009518	ok
+EFO:0009589	worry measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0009589	ok
+EFO:0009594	irritability measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0009594	ok
+EFO:0009614	clavicle fracture	efo	false	http://www.ebi.ac.uk/efo/EFO_0009614	ok
+EFO:0009622	fracture of pelvis	efo	false	http://www.ebi.ac.uk/efo/EFO_0009622	ok
+EFO:0009706	latent autoimmune diabetes in adults	efo	false	http://www.ebi.ac.uk/efo/EFO_0009706	ok
+EFO:0009708	metastasis	efo	false	http://www.ebi.ac.uk/efo/EFO_0009708	ok
+EFO:0009756	autoimmune type 1 diabetes	efo	false	http://www.ebi.ac.uk/efo/EFO_0009756	ok
+EFO:0009765	alanine measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0009765	ok
+EFO:0009783	carotid atherosclerosis	efo	false	http://www.ebi.ac.uk/efo/EFO_0009783	ok
+EFO:0009805	whole body water mass	efo	false	http://www.ebi.ac.uk/efo/EFO_0009805	ok
+EFO:0009842	respiratory depression	efo	false	http://www.ebi.ac.uk/efo/EFO_0009842	ok
+EFO:0009860	chromosomal aberration frequency	efo	false	http://www.ebi.ac.uk/efo/EFO_0009860	ok
+EFO:0009885	frailty measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0009885	ok
+EFO:0009946	low density lipoprotein triglyceride measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0009946	ok
+EFO:0009964	bipolar II disorder	efo	false	http://www.ebi.ac.uk/efo/EFO_0009964	ok
+EFO:0010134	kidney transplant	efo	false	http://www.ebi.ac.uk/efo/EFO_0010134	ok
+EFO:0010266	Charcot-Marie-Tooth disease type 1G	efo	false	http://www.ebi.ac.uk/efo/EFO_0010266	ok
+EFO:0010270	Menstrual disorder	efo	false	http://www.ebi.ac.uk/efo/EFO_0010270	ok
+EFO:0010351	cholesteryl ester measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0010351	ok
+EFO:0010369	lysophosphatidylethanolamine 18:2 measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0010369	ok
+EFO:0010623	tissue factor measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0010623	ok
+EFO:0010681	ileostomy	efo	false	http://www.ebi.ac.uk/efo/EFO_0010681	ok
+EFO:0010702	opioid use disorder	efo	false	http://www.ebi.ac.uk/efo/EFO_0010702	ok
+EFO:0010922	P-selectin glycoprotein ligand 1 measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0010922	ok
+EFO:0010925	protein S100-A12 measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0010925	ok
+EFO:0010968	phosphate measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0010968	ok
+EFO:0011011	sitting height measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0011011	ok
+EFO:0011052	hepatotoxicity	efo	false	http://www.ebi.ac.uk/efo/EFO_0011052	ok
+EFO:0011057	neurotoxicity	efo	false	http://www.ebi.ac.uk/efo/EFO_0011057	ok
+EFO:0020685	protein nov homolog measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0020685	ok
+EFO:0020865	aortic measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0020865	ok
+EFO:0020921	hemorrhagic stroke	efo	false	http://www.ebi.ac.uk/efo/EFO_0020921	ok
+EFO:0021897	apolipoprotein B to apolipoprotein A1 ratio	efo	false	http://www.ebi.ac.uk/efo/EFO_0021897	ok
+EFO:0021900	cholesterol in large HDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0021900	ok
+EFO:0021901	cholesterol in large LDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0021901	ok
+EFO:0022008	polyUbiquitin K63-linked measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022008	ok
+EFO:0022145	triglycerides in small VLDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022145	ok
+EFO:0022148	total lipids in small VLDL	efo	false	http://www.ebi.ac.uk/efo/EFO_0022148	ok
+EFO:0022154	phospholipids in medium VLDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022154	ok
+EFO:0022157	free cholesterol in large HDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022157	ok
+EFO:0022159	cholesteryl esters in large HDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022159	ok
+EFO:0022160	concentration of large LDL particles measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022160	ok
+EFO:0022173	concentration of large VLDL particles measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022173	ok
+EFO:0022233	cholesterol to total lipids in IDL percentage	efo	false	http://www.ebi.ac.uk/efo/EFO_0022233	ok
+EFO:0022236	cholesterol to total lipids in large VLDL percentage	efo	false	http://www.ebi.ac.uk/efo/EFO_0022236	ok
+EFO:0022237	cholesterol to total lipids in medium HDL percentage	efo	false	http://www.ebi.ac.uk/efo/EFO_0022237	ok
+EFO:0022238	cholesterol to total lipids in medium LDL percentage	efo	false	http://www.ebi.ac.uk/efo/EFO_0022238	ok
+EFO:0022254	cholesteryl esters to total lipids in small HDL percentage	efo	false	http://www.ebi.ac.uk/efo/EFO_0022254	ok
+EFO:0022258	cholesteryl esters to total lipids in very large VLDL percentage	efo	false	http://www.ebi.ac.uk/efo/EFO_0022258	ok
+EFO:0022265	free cholesterol in large VLDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022265	ok
+EFO:0022267	free cholesterol in medium HDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022267	ok
+EFO:0022280	free cholesterol to total lipids in large LDL percentage	efo	false	http://www.ebi.ac.uk/efo/EFO_0022280	ok
+EFO:0022293	phospholipids in HDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022293	ok
+EFO:0022296	phospholipids in small HDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022296	ok
+EFO:0022317	triglycerides in HDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022317	ok
+EFO:0022322	triglycerides in medium LDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022322	ok
+EFO:0022326	triglycerides in VLDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0022326	ok
+EFO:0022335	triglycerides to total lipids in medium VLDL percentage	efo	false	http://www.ebi.ac.uk/efo/EFO_0022335	ok
+EFO:0022337	triglycerides to total lipids in small LDL percentage	efo	false	http://www.ebi.ac.uk/efo/EFO_0022337	ok
+EFO:0600064	serum lipopolysaccharide activity	efo	false	http://www.ebi.ac.uk/efo/EFO_0600064	ok
+EFO:0700022	obsolete_lysosomal acid lipase deficiency	efo	true	http://www.ebi.ac.uk/efo/EFO_0700022	ok
+EFO:0700134	obsolete_resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta	efo	true	http://www.ebi.ac.uk/efo/EFO_0700134	ok
+EFO:0800337	N-oleoyltaurine measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0800337	ok
+EFO:0800672	fibrinopeptide A measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0800672	ok
+EFO:0801229	oral microbiome measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0801229	ok
+EFO:0801555	E3 ubiquitin-protein ligase RNF128 measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0801555	ok
+EFO:0801819	n-acetyltransferase 14 measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0801819	ok
+EFO:0803382	perivascular space measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0803382	ok
+EFO:0803548	neutrophil measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0803548	ok
+EFO:0920022	cholesteryl esters in HDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0920022	ok
+EFO:0920024	cholesteryl esters in very large VLDL measurement	efo	false	http://www.ebi.ac.uk/efo/EFO_0920024	ok
+EFO:1000636	inflammatory skin disease	efo	false	http://www.ebi.ac.uk/efo/EFO_1000636	ok
+EFO:1000653	sarcopenia	efo	false	http://www.ebi.ac.uk/efo/EFO_1000653	ok
+EFO:1000965	Henoch-Schoenlein purpura	efo	false	http://www.ebi.ac.uk/efo/EFO_1000965	ok
+EFO:1001129	obsolete_proliferative vitreoretinopathy	efo	true	http://www.ebi.ac.uk/efo/EFO_1001129	ok
+EFO:1001248	non-alcoholic fatty liver	efo	false	http://www.ebi.ac.uk/efo/EFO_1001248	ok
+EFO:1001326	Flavivirus Infections	efo	false	http://www.ebi.ac.uk/efo/EFO_1001326	ok
+EFO:1001418	Salmonella Infections	efo	false	http://www.ebi.ac.uk/efo/EFO_1001418	ok
+EFO:1001436	thyroid nodule	efo	false	http://www.ebi.ac.uk/efo/EFO_1001436	ok
+EFO:1001461	endothelial dysfunction	efo	false	http://www.ebi.ac.uk/efo/EFO_1001461	ok
+EFO:1001471	Merkel cell skin cancer	efo	false	http://www.ebi.ac.uk/efo/EFO_1001471	ok
+EFO:1001491	abortion	efo	false	http://www.ebi.ac.uk/efo/EFO_1001491	ok
+EFO:1001494	psoriasis vulgaris	efo	false	http://www.ebi.ac.uk/efo/EFO_1001494	ok
+EFO:1001514	endometrial endometrioid carcinoma	efo	false	http://www.ebi.ac.uk/efo/EFO_1001514	ok
+EFO:1001516	ovarian serous carcinoma	efo	false	http://www.ebi.ac.uk/efo/EFO_1001516	ok
+EFO:1001836	pyogenic liver abscess	efo	false	http://www.ebi.ac.uk/efo/EFO_1001836	ok
+EFO:1001904	oral mucositis	efo	false	http://www.ebi.ac.uk/efo/EFO_1001904	ok
+EFO:1001927	cutaneous squamous cell carcinoma	efo	false	http://www.ebi.ac.uk/efo/EFO_1001927	ok
+EFO:1001955	erythroleukemia	efo	false	http://www.ebi.ac.uk/efo/EFO_1001955	ok
+GO:0009410	response to xenobiotic stimulus	go	false	http://purl.obolibrary.org/obo/GO_0009410	ok
+HP:0000112	Nephropathy	hp	false	http://purl.obolibrary.org/obo/HP_0000112	ok
+HP:0000356	Abnormality of the outer ear	hp	false	http://purl.obolibrary.org/obo/HP_0000356	ok
+HP:0000539	Abnormality of refraction	hp	false	http://purl.obolibrary.org/obo/HP_0000539	ok
+HP:0000739	Anxiety	hp	false	http://purl.obolibrary.org/obo/HP_0000739	ok
+HP:0000842	Hyperinsulinemia	hp	false	http://purl.obolibrary.org/obo/HP_0000842	ok
+HP:0000855	Insulin resistance	hp	false	http://purl.obolibrary.org/obo/HP_0000855	ok
+HP:0000975	Hyperhidrosis	hp	false	http://purl.obolibrary.org/obo/HP_0000975	ok
+HP:0001250	Seizure	hp	false	http://purl.obolibrary.org/obo/HP_0001250	ok
+HP:0001268	Mental deterioration	hp	false	http://purl.obolibrary.org/obo/HP_0001268	ok
+HP:0001270	Motor delay	hp	false	http://purl.obolibrary.org/obo/HP_0001270	ok
+HP:0001300	Parkinsonism	hp	false	http://purl.obolibrary.org/obo/HP_0001300	ok
+HP:0001394	Cirrhosis	hp	false	http://purl.obolibrary.org/obo/HP_0001394	ok
+HP:0001395	Hepatic fibrosis	hp	false	http://purl.obolibrary.org/obo/HP_0001395	ok
+HP:0001397	Hepatic steatosis	hp	false	http://purl.obolibrary.org/obo/HP_0001397	ok
+HP:0001410	Decreased liver function	hp	false	http://purl.obolibrary.org/obo/HP_0001410	ok
+HP:0001520	Large for gestational age	hp	false	http://purl.obolibrary.org/obo/HP_0001520	ok
+HP:0001643	Patent ductus arteriosus	hp	false	http://purl.obolibrary.org/obo/HP_0001643	ok
+HP:0001667	Right ventricular hypertrophy	hp	false	http://purl.obolibrary.org/obo/HP_0001667	ok
+HP:0001732	Abnormality of the pancreas	hp	false	http://purl.obolibrary.org/obo/HP_0001732	ok
+HP:0001822	Hallux valgus	hp	false	http://purl.obolibrary.org/obo/HP_0001822	ok
+HP:0001873	Thrombocytopenia	hp	false	http://purl.obolibrary.org/obo/HP_0001873	ok
+HP:0001952	Glucose intolerance	hp	false	http://purl.obolibrary.org/obo/HP_0001952	ok
+HP:0001987	Hyperammonemia	hp	false	http://purl.obolibrary.org/obo/HP_0001987	ok
+HP:0002015	Dysphagia	hp	false	http://purl.obolibrary.org/obo/HP_0002015	ok
+HP:0002032	Esophageal atresia	hp	false	http://purl.obolibrary.org/obo/HP_0002032	ok
+HP:0002075	Dysdiadochokinesis	hp	false	http://purl.obolibrary.org/obo/HP_0002075	ok
+HP:0002119	Ventriculomegaly	hp	false	http://purl.obolibrary.org/obo/HP_0002119	ok
+HP:0002135	Basal ganglia calcification	hp	false	http://purl.obolibrary.org/obo/HP_0002135	ok
+HP:0002202	Pleural effusion	hp	false	http://purl.obolibrary.org/obo/HP_0002202	ok
+HP:0002242	Abnormal intestine morphology	hp	false	http://purl.obolibrary.org/obo/HP_0002242	ok
+HP:0002315	Headache	hp	false	http://purl.obolibrary.org/obo/HP_0002315	ok
+HP:0002411	Myokymia	hp	false	http://purl.obolibrary.org/obo/HP_0002411	ok
+HP:0002721	Immunodeficiency	hp	false	http://purl.obolibrary.org/obo/HP_0002721	ok
+HP:0002783	Recurrent lower respiratory tract infections	hp	false	http://purl.obolibrary.org/obo/HP_0002783	ok
+HP:0002960	Autoimmunity	hp	false	http://purl.obolibrary.org/obo/HP_0002960	ok
+HP:0003040	Arthropathy	hp	false	http://purl.obolibrary.org/obo/HP_0003040	ok
+HP:0003073	Hypoalbuminemia	hp	false	http://purl.obolibrary.org/obo/HP_0003073	ok
+HP:0003074	Hyperglycemia	hp	false	http://purl.obolibrary.org/obo/HP_0003074	ok
+HP:0003419	Low back pain	hp	false	http://purl.obolibrary.org/obo/HP_0003419	ok
+HP:0003489	Acute episodes of neuropathic symptoms	hp	false	http://purl.obolibrary.org/obo/HP_0003489	ok
+HP:0004398	Peptic ulcer	hp	false	http://purl.obolibrary.org/obo/HP_0004398	ok
+HP:0004418	Thrombophlebitis	hp	false	http://purl.obolibrary.org/obo/HP_0004418	ok
+HP:0005180	Tricuspid regurgitation	hp	false	http://purl.obolibrary.org/obo/HP_0005180	ok
+HP:0005268	Miscarriage	hp	false	http://purl.obolibrary.org/obo/HP_0005268	ok
+HP:0005359	Aplasia of the thymus	hp	false	http://purl.obolibrary.org/obo/HP_0005359	ok
+HP:0005528	Bone marrow hypocellularity	hp	false	http://purl.obolibrary.org/obo/HP_0005528	ok
+HP:0006536	Airway obstruction	hp	false	http://purl.obolibrary.org/obo/HP_0006536	ok
+HP:0009726	Renal neoplasm	hp	false	http://purl.obolibrary.org/obo/HP_0009726	ok
+HP:0010783	Erythema	hp	false	http://purl.obolibrary.org/obo/HP_0010783	ok
+HP:0010976	Decreased total B cell count	hp	false	http://purl.obolibrary.org/obo/HP_0010976	ok
+HP:0010992	Stress urinary incontinence	hp	false	http://purl.obolibrary.org/obo/HP_0010992	ok
+HP:0011451	Primary microcephaly	hp	false	http://purl.obolibrary.org/obo/HP_0011451	ok
+HP:0011675	Arrhythmia	hp	false	http://purl.obolibrary.org/obo/HP_0011675	ok
+HP:0011947	Respiratory tract infection	hp	false	http://purl.obolibrary.org/obo/HP_0011947	ok
+HP:0012115	Hepatitis	hp	false	http://purl.obolibrary.org/obo/HP_0012115	ok
+HP:0012207	Reduced sperm motility	hp	false	http://purl.obolibrary.org/obo/HP_0012207	ok
+HP:0012393	Allergy	hp	false	http://purl.obolibrary.org/obo/HP_0012393	ok
+HP:0012531	Pain	hp	false	http://purl.obolibrary.org/obo/HP_0012531	ok
+HP:0012758	Neurodevelopmental delay	hp	false	http://purl.obolibrary.org/obo/HP_0012758	ok
+HP:0031678	Atherosclerotic lesion	hp	false	http://purl.obolibrary.org/obo/HP_0031678	ok
+HP:0032252	Granuloma	hp	false	http://purl.obolibrary.org/obo/HP_0032252	ok
+HP:0040187	Neonatal sepsis	hp	false	http://purl.obolibrary.org/obo/HP_0040187	ok
+HP:0040223	Pulmonary hemorrhage	hp	false	http://purl.obolibrary.org/obo/HP_0040223	ok
+HP:0040270	Impaired glucose tolerance	hp	false	http://purl.obolibrary.org/obo/HP_0040270	ok
+HP:0100526	Neoplasm of the lung	hp	false	http://purl.obolibrary.org/obo/HP_0100526	ok
+HP:0100543	Cognitive impairment	hp	false	http://purl.obolibrary.org/obo/HP_0100543	ok
+HP:0100582	Nasal polyposis	hp	false	http://purl.obolibrary.org/obo/HP_0100582	ok
+HP:0100660	Dyskinesia	hp	false	http://purl.obolibrary.org/obo/HP_0100660	ok
+HP:0100806	Sepsis	hp	false	http://purl.obolibrary.org/obo/HP_0100806	ok
+MONDO:0700044	obsolete TUBB2A-related tubulinopathy	mondo	true	http://purl.obolibrary.org/obo/MONDO_0700044	ok
+MP:0001845	abnormal inflammatory response	mp	false	http://purl.obolibrary.org/obo/MP_0001845	ok
+OBA:0003277	platelet volume	oba	false	http://purl.obolibrary.org/obo/OBA_0003277	ok
+OBA:0003747	glomerular filtration rate	oba	false	http://purl.obolibrary.org/obo/OBA_0003747	ok
+OBA:0004528	fat pad mass	oba	false	http://purl.obolibrary.org/obo/OBA_0004528	ok
+OBA:0004561	blood osmolality	oba	false	http://purl.obolibrary.org/obo/OBA_0004561	ok
+OBA:1000110	bone tissue density	oba	false	http://purl.obolibrary.org/obo/OBA_1000110	ok
+OBA:1000840	alcohol consumption quality	oba	false	http://purl.obolibrary.org/obo/OBA_1000840	ok
+OBA:2040561	level of aldehyde dehydrogenase X, mitochondrial in blood serum	oba	false	http://purl.obolibrary.org/obo/OBA_2040561	ok
+OBA:2040646	level of arfaptin-1 in blood serum	oba	false	http://purl.obolibrary.org/obo/OBA_2040646	ok
+OBA:2041267	level of beta-defensin 104 in blood serum	oba	false	http://purl.obolibrary.org/obo/OBA_2041267	ok
+OBA:2041446	level of eukaryotic translation initiation factor 3 subunit B in blood serum	oba	false	http://purl.obolibrary.org/obo/OBA_2041446	ok
+OBA:2041840	level of hemoglobin subunit delta in blood serum	oba	false	http://purl.obolibrary.org/obo/OBA_2041840	ok
+OBA:2042371	level of MIT domain-containing protein 1 in blood serum	oba	false	http://purl.obolibrary.org/obo/OBA_2042371	ok
+OBA:2042538	level of protein NDRG4 in blood serum	oba	false	http://purl.obolibrary.org/obo/OBA_2042538	ok
+OBA:2043190	level of Ran-specific GTPase-activating protein in blood serum	oba	false	http://purl.obolibrary.org/obo/OBA_2043190	ok
+OBA:2044852	level of UPF0235 protein C15orf40 in blood serum	oba	false	http://purl.obolibrary.org/obo/OBA_2044852	ok
+OBA:2045206	level of serum globulin type protein	oba	false	http://purl.obolibrary.org/obo/OBA_2045206	ok
+OBA:2045223	myeloid leukocyte count	oba	false	http://purl.obolibrary.org/obo/OBA_2045223	ok
+OBA:2045560	amount of iron in brain	oba	false	http://purl.obolibrary.org/obo/OBA_2045560	ok
+OBA:2050062	serum alanine aminotransferase amount	oba	false	http://purl.obolibrary.org/obo/OBA_2050062	ok
+OBA:2050065	serum urea amount	oba	false	http://purl.obolibrary.org/obo/OBA_2050065	ok
+OBA:2050068	serum albumin amount	oba	false	http://purl.obolibrary.org/obo/OBA_2050068	ok
+OBA:2050096	serum creatinine amount	oba	false	http://purl.obolibrary.org/obo/OBA_2050096	ok
+OBA:VT0000047	head circumference	oba	false	http://purl.obolibrary.org/obo/OBA_VT0000047	ok
+OBA:VT0000217	leukocyte quantity	oba	false	http://purl.obolibrary.org/obo/OBA_VT0000217	ok
+OBA:VT0001253	body height	oba	false	http://purl.obolibrary.org/obo/OBA_VT0001253	ok
+OBA:VT0005265	blood urea nitrogen amount	oba	false	http://purl.obolibrary.org/obo/OBA_VT0005265	ok
+OBA:VT0005416	blood protein amount	oba	false	http://purl.obolibrary.org/obo/OBA_VT0005416	ok
+OBA:VT0010046	fatty acid amount	oba	false	http://purl.obolibrary.org/obo/OBA_VT0010046	ok
+OBA:VT0015043	milk amount	oba	false	http://purl.obolibrary.org/obo/OBA_VT0015043	ok
+Orphanet:169446	Autosomal recessive hyper-IgE syndrome	efo	false	http://www.orpha.net/ORDO/Orphanet_169446	ok
+Orphanet:183539	Genetic renal or urinary tract malformation	ordo	false	http://www.orpha.net/ORDO/Orphanet_183539	ok
+Orphanet:404469	Rare female infertility due to oocyte maturation defect	ordo	false	http://www.orpha.net/ORDO/Orphanet_404469	ok
+Orphanet:91088	Other metabolic disease	ordo	false	http://www.orpha.net/ORDO/Orphanet_91088	ok

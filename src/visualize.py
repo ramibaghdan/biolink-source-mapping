@@ -1,12 +1,12 @@
 """
-visualize_subgraph.py
+visualize.py
 
 Draw the drug -> gene -> disease neighborhood for one gene from the generated edges,
 and save it as a PNG in figures/. Drugs on the left, anchor gene in the center, diseases
 on the right. Labels come from output/nodes.csv (MONDO names after normalization).
 
 Run from the project root:
-  python src/visualize_subgraph.py --gene NCBIGene:6416
+  python src/visualize.py --gene NCBIGene:6416
 """
 
 import argparse
@@ -142,7 +142,7 @@ def draw_arrow(ax, src, dst):
     ))
 
 
-def build(gene, max_drugs, max_diseases, gene_name):
+def draw_subgraph(gene, max_drugs, max_diseases, gene_name):
     edges = pd.read_csv(EDGES, dtype=str)
     node_names = load_node_names()
 
@@ -225,4 +225,4 @@ if __name__ == "__main__":
     ap.add_argument("--max-drugs", type=int, default=8)
     ap.add_argument("--max-diseases", type=int, default=10)
     args = ap.parse_args()
-    build(args.gene, args.max_drugs, args.max_diseases, args.gene_name)
+    draw_subgraph(args.gene, args.max_drugs, args.max_diseases, args.gene_name)

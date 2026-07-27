@@ -3,7 +3,7 @@
 Real examples from the generated output, showing how a raw source row becomes a
 Biolink style triple, and how two independent sources connect on a shared gene.
 
-The shared gene in these examples is NCBIGene:6416 (MAP2K2, also called MEK2).
+The shared gene in these examples is NCBIGene:6416 (MAP2K4, also called MKK4).
 
 ## Drug-gene interaction (from DGIdb)
 
@@ -11,7 +11,7 @@ Raw DGIdb row:
 
 ```
 gene_symbol,drug_name,interaction_type
-MAP2K2,TRAMETINIB,inhibitor
+MAP2K4,TRAMETINIB,inhibitor
 ```
 
 Becomes (one edge in edges.csv):
@@ -22,12 +22,17 @@ DRUG_NAME:TRAMETINIB,biolink:negatively_regulates,NCBIGene:6416,biolink:Chemical
 ```
 
 What happened in the mapping:
-- The gene symbol MAP2K2 was resolved to NCBIGene:6416 via the HGNC map.
+- The gene symbol MAP2K4 was resolved to NCBIGene:6416 via the HGNC map.
 - The source interaction type "inhibitor" was mapped to biolink:negatively_regulates.
 - The drug is the subject and the gene is the object, matching the drug-acts-on-gene direction.
 
-Several MEK inhibitors in the sample map to this same gene the same way, including
-Trametinib, Selumetinib, and Cobimetinib.
+Eight drugs in the sample map to this gene the same way, including Trametinib,
+Selumetinib, and Cobimetinib (listed as GDC-0973).
+
+Worth noting: those are MEK1/MEK2 inhibitors, and MAP2K4 is MKK4, a different kinase.
+DGIdb records the association, so the pipeline records it and keeps the source. Deciding
+whether an interaction is real is a curation question, not a mapping one, and the
+`knowledge_source` column is there so a consumer can weigh it.
 
 ## Gene-disease association (from Open Targets)
 
@@ -35,7 +40,7 @@ Raw Open Targets row:
 
 ```
 ensembl_id,disease_efo_id,association_score
-ENSG00000126934,EFO_0020865,...
+ENSG00000065559,EFO_0020865,...
 ```
 
 Becomes:
@@ -46,11 +51,12 @@ NCBIGene:6416,biolink:gene_associated_with_condition,EFO:0020865,biolink:Gene,bi
 ```
 
 What happened:
-- The Ensembl id ENSG00000126934 was resolved to NCBIGene:6416 via HGNC, the same id the
+- The Ensembl id ENSG00000065559 was resolved to NCBIGene:6416 via HGNC, the same id the
   gene received from the DGIdb side, so the two sources connect on one gene node.
 - The disease id was converted from underscore to colon form (EFO_0020865 to EFO:0020865).
   Some disease ids in the sample are then normalized to MONDO via release xrefs (see below);
-  ids without a unique xref (including EFO:0020865) stay in their original ontology.
+  ids without a unique xref (including EFO:0020865) stay in their original ontology and are
+  named from OLS4 instead. EFO:0020865 is "aortic measurement".
 
 ## Cross-ontology normalization to MONDO
 
@@ -64,7 +70,7 @@ id,category,name
 EFO:0009491,biolink:Disease,EFO:0009491
 ```
 
-After normalization + label enrichment:
+After normalization + naming:
 
 ```
 id,category,name
@@ -78,16 +84,19 @@ What happened:
 - HP, OBA, GO, and MP nodes are left unchanged (phenotype / non-disease ontologies).
 - Full report: `output/mondo_normalization.csv`.
 
-## MONDO disease name enrichment
+## Naming every disease node
 
-Open Targets also uses MONDO disease ids directly. Before enrichment, the node name was the raw id:
+Names come from two passes. MONDO nodes take their label from the release. Anything still
+showing its id after that is looked up in OLS4.
+
+Before:
 
 ```
 id,category,name
 MONDO:0002108,biolink:Disease,MONDO:0002108
 ```
 
-After lookup against MONDO release v2026-06-02 (`mondo_nodes.tsv`):
+After:
 
 ```
 id,category,name
@@ -95,9 +104,13 @@ MONDO:0002108,biolink:Disease,thyroid cancer
 ```
 
 What happened:
-- `mondo_nodes.tsv` maps `MONDO:0002108` → `thyroid cancer`.
-- After normalization, 824 MONDO disease nodes exist; 823 received labels. One obsolete
-  term (`MONDO:0700044`) keeps the raw id. Full report: `output/mondo_name_enrichment.csv`.
+- `mondo_nodes.tsv` maps `MONDO:0002108` to `thyroid cancer`.
+- 824 MONDO disease nodes exist after normalization; 823 were named from the release.
+  The one it missed, `MONDO:0700044`, is deprecated, and `load_mondo_labels` skips
+  deprecated terms by default. The OLS4 pass picked it up as
+  "obsolete TUBB2A-related tubulinopathy", which is why the two passes exist.
+- The remaining 272 non-MONDO ids (EFO, HP, OBA, GO, MP, Orphanet) were all named from OLS4.
+- Every disease node ends up with a readable name. Full report: `output/naming.csv`.
 
 ## Why this matters
 
@@ -106,11 +119,11 @@ edge share a node. That produces a connected path across two independently sourc
 
 ```
 DRUG_NAME:TRAMETINIB --negatively_regulates--> NCBIGene:6416 --gene_associated_with_condition--> MONDO:0002026
-       (DGIdb)                                   MAP2K2 / MEK2                                  (Open Targets)
+       (DGIdb)                                     MAP2K4                                        (Open Targets)
 ```
 
-(Many gene-disease edges in the graph now use MONDO ids with disease names; some EFO ids
-without a unique xref, such as EFO:0020865 for this gene, remain as EFO.)
+(Many gene-disease edges use MONDO ids; EFO ids without a unique xref, such as EFO:0020865
+for this gene, stay as EFO and are named from OLS4.)
 
 In the full output this one gene connects 8 drugs to 12 diseases, so the graph supports
 questions like "which diseases are associated with a gene that this drug inhibits," which is

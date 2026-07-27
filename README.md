@@ -6,7 +6,7 @@ interoperable biomedical knowledge graphs. The interesting part here are
 the mapping decisions: where a source does not map cleanly onto Biolink, those judgment
 calls are documented in [mappings/mapping_decisions.md](mappings/mapping_decisions.md).
 
-   ![Drug-gene-disease neighborhood for MAP2K2](figures/subgraph_6416.png)
+   ![Drug-gene-disease neighborhood for MAP2K4](figures/subgraph_6416.png)
 
 ## Demo
 

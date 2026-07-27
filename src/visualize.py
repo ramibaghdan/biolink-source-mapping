@@ -221,7 +221,8 @@ def draw_subgraph(gene, max_drugs, max_diseases, gene_name):
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--gene", default="NCBIGene:6416")
-    ap.add_argument("--gene-name", default="MAP2K2")
+    # Default to the name in nodes.csv. Only pass --gene-name to override it.
+    ap.add_argument("--gene-name", default=None)
     ap.add_argument("--max-drugs", type=int, default=8)
     ap.add_argument("--max-diseases", type=int, default=10)
     args = ap.parse_args()

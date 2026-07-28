@@ -318,7 +318,22 @@ def name_disease_nodes(nodes_df, mondo_labels=None, ontology_labels=None):
 # step 5  write
 # ==========================================================================
 
-def write_outputs(nodes_df, edges_df, norm_report=None, name_report=None):
+def gene_synonyms_table(nodes_df, synonyms):
+    """One row per alternate symbol, for the genes actually in the graph.
+
+    Downstream consumers need to know EGFR and ERBB1 are the same node. The
+    graph itself only carries the primary symbol, so this ships alongside it.
+    """
+    rows = []
+    genes = nodes_df[nodes_df["category"] == "biolink:Gene"]
+    for node_id, primary in zip(genes["id"], genes["name"]):
+        entrez = str(node_id).split(":", 1)[-1]
+        for alt in synonyms.get(entrez, []):
+            rows.append({"id": node_id, "primary_symbol": primary, "synonym": alt})
+    return pd.DataFrame(rows, columns=["id", "primary_symbol", "synonym"])
+
+
+def write_outputs(nodes_df, edges_df, norm_report=None, name_report=None, synonyms=None):
     os.makedirs(OUT_DIR, exist_ok=True)
     nodes_df.to_csv(os.path.join(OUT_DIR, "nodes.csv"), index=False)
     edges_df.to_csv(os.path.join(OUT_DIR, "edges.csv"), index=False)
@@ -326,6 +341,8 @@ def write_outputs(nodes_df, edges_df, norm_report=None, name_report=None):
         norm_report.to_csv(os.path.join(OUT_DIR, "mondo_normalization.csv"), index=False)
     if name_report is not None and len(name_report):
         name_report.to_csv(os.path.join(OUT_DIR, "naming.csv"), index=False)
+    if synonyms is not None and len(synonyms):
+        synonyms.to_csv(os.path.join(OUT_DIR, "gene_synonyms.csv"), index=False)
 
 
 # ==========================================================================
@@ -334,6 +351,7 @@ def write_outputs(nodes_df, edges_df, norm_report=None, name_report=None):
 
 def run(hgnc_path, mondo_nodes_path=None, label_cache=DEFAULT_LABEL_CACHE):
     sym_to_entrez, ensg_to_entrez = lookups.load_hgnc(hgnc_path)
+    gene_synonyms = lookups.load_gene_synonyms(hgnc_path)
 
     # 1  ingest
     dgidb = ingest_dgidb()
@@ -385,7 +403,11 @@ def run(hgnc_path, mondo_nodes_path=None, label_cache=DEFAULT_LABEL_CACHE):
                   f"({odd['prefix'].value_counts().to_dict()}), category unchanged")
 
     # 5  write
-    write_outputs(nodes, edges, norm_report, name_report)
+    syn_table = gene_synonyms_table(nodes, gene_synonyms)
+    write_outputs(nodes, edges, norm_report, name_report, syn_table)
+    if len(syn_table):
+        print(f"gene synonyms: {len(syn_table)} across "
+              f"{syn_table['id'].nunique()} genes")
 
     drug_genes = set(edges[edges.knowledge_source == "DGIdb"]["object"])
     disease_genes = set(edges[edges.knowledge_source == "OpenTargets"]["subject"])

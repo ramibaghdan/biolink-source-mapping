@@ -88,6 +88,39 @@ def load_hgnc(hgnc_path):
     return sym_map, ensg_map
 
 
+def load_gene_synonyms(hgnc_path):
+    """entrez -> other symbols the same gene goes by.
+
+    HGNC carries alias_symbol and prev_symbol, both pipe separated. EGFR also
+    answers to ERBB1 and HER1, and a source that used the old symbol is talking
+    about the same gene. Needed downstream to tell a real synonym apart from a
+    different gene.
+    """
+    h = pd.read_csv(hgnc_path, sep="\t", dtype=str, low_memory=False)
+    h.columns = [c.strip().lower() for c in h.columns]
+    entrez = next((c for c in h.columns if "entrez" in c), None)
+    if not entrez:
+        raise SystemExit(f"HGNC needs an entrez column. found: {list(h.columns)}")
+
+    alias_cols = [c for c in ("alias_symbol", "prev_symbol") if c in h.columns]
+    if not alias_cols:
+        return {}
+
+    syn = {}
+    for _, r in h.dropna(subset=[entrez]).iterrows():
+        primary = str(r.get("symbol", "")).upper().strip()
+        names = set()
+        for col in alias_cols:
+            val = r.get(col)
+            if pd.isna(val):
+                continue
+            names.update(t.upper().strip() for t in str(val).split("|") if t.strip())
+        names.discard(primary)
+        if names:
+            syn[str(r[entrez]).strip()] = sorted(names)
+    return syn
+
+
 # --------------------------------------------------------------------------
 # MONDO release
 # --------------------------------------------------------------------------

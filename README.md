@@ -14,8 +14,9 @@ A drug-gene interaction and a gene-disease association, from two independent sou
 unified onto one gene node so they connect:
 
 ```
-DRUG_NAME:OLAPARIB --biolink:negatively_regulates--> NCBIGene:672 --biolink:gene_associated_with_condition--> EFO:0000305
-        (DGIdb)                                          (shared gene)                                      (Open Targets)
+DRUG_NAME:OLAPARIB --biolink:interacts_with--> NCBIGene:8314 --biolink:gene_associated_with_condition--> MONDO:0008315
+        (DGIdb)                                  BAP1                                                   prostate cancer
+                                             (shared gene)                                               (Open Targets)
 ```
 
 The raw rows that produced this, and how each field was mapped, are in

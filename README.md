@@ -48,7 +48,9 @@ documenting the cases that required a decision.
 4. **name** every disease node. MONDO nodes take their label from the release. Ids that
    stayed in EFO, HP, OBA, GO, MP, or Orphanet are named from OLS4, so no node displays a
    bare identifier.
-5. **write** nodes, edges, and the two reports.
+5. **write** nodes, edges, the reports, and a gene synonym table. HGNC carries alias
+   and previous symbols, so EGFR, ERBB1, and HER1 all resolve to one gene. The graph
+   holds only the primary symbol, so the aliases ship beside it.
 
 ## Repository layout
 
@@ -79,6 +81,7 @@ biolink_source_mapping/
     ├── edges.csv                # Biolink triples
     ├── mondo_normalization.csv  # which disease ids moved to MONDO, and which did not
     ├── naming.csv               # where each node's name came from
+    ├── gene_synonyms.csv        # HGNC aliases per gene, for consumers that need them
     └── before_after_examples.md # raw row -> triple, with explanation
 ```
 
